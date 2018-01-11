@@ -1,0 +1,1733 @@
+2017-10-12 08:01:04.333 +02:00 [Information] Start service...
+2017-10-12 08:01:04.594 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 08:01:04.682 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 08:09:15.260 +02:00 [Information] Start service...
+2017-10-12 08:09:15.440 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 08:09:15.445 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 08:09:15.447 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 08:09:15.450 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 08:09:15.453 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 08:09:18.517 +02:00 [Information] Stop service...
+2017-10-12 08:09:27.370 +02:00 [Information] Start service...
+2017-10-12 08:09:27.714 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 08:09:27.725 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 08:09:27.730 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 08:09:27.733 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 08:09:27.738 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 08:09:29.108 +02:00 [Information] Stop service...
+2017-10-12 08:10:20.148 +02:00 [Information] Start service...
+2017-10-12 08:10:20.491 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 08:10:20.501 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 08:10:20.503 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 08:10:20.506 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 08:10:20.509 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 08:10:23.100 +02:00 [Information] Stop service...
+2017-10-12 08:11:45.152 +02:00 [Information] Start service...
+2017-10-12 08:11:45.569 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 08:11:45.584 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 08:11:45.588 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 08:11:45.592 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 08:11:45.596 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 08:11:56.702 +02:00 [Information] Stop service...
+2017-10-12 12:24:01.149 +02:00 [Information] Start service...
+2017-10-12 12:24:01.607 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 12:24:01.616 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 12:24:01.619 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 12:24:01.622 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 12:24:01.624 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 12:24:19.022 +02:00 [Information] Stop service...
+2017-10-12 16:43:01.335 +02:00 [Information] Start service...
+2017-10-12 16:43:01.747 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 16:43:58.111 +02:00 [Information] Start service...
+2017-10-12 16:43:58.604 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 16:43:58.766 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 16:44:50.923 +02:00 [Information] Start service...
+2017-10-12 16:44:51.331 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 16:44:51.504 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 16:53:26.351 +02:00 [Information] Start service...
+2017-10-12 16:53:26.819 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 16:53:26.982 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 16:55:47.892 +02:00 [Information] Start service...
+2017-10-12 16:55:48.315 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 16:55:48.330 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 16:55:48.335 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 16:55:48.340 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 16:55:48.346 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 16:55:53.373 +02:00 [Information] Stop service...
+2017-10-12 16:57:30.516 +02:00 [Information] Start service...
+2017-10-12 16:57:31.065 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 16:57:31.090 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 16:57:31.095 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 16:57:31.102 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 16:57:31.107 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 16:57:32.849 +02:00 [Information] Stop service...
+2017-10-12 16:59:25.237 +02:00 [Information] Start service...
+2017-10-12 16:59:25.741 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:09:04.235 +02:00 [Information] Start service...
+2017-10-12 17:09:04.787 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:09:05.034 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:09:05.249 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:09:05.485 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:09:05.603 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:09:08.040 +02:00 [Information] Stop service...
+2017-10-12 17:11:25.669 +02:00 [Information] Start service...
+2017-10-12 17:11:26.122 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:11:26.289 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:11:26.374 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:11:26.380 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:11:26.386 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:11:33.301 +02:00 [Information] Stop service...
+2017-10-12 17:12:54.102 +02:00 [Information] Start service...
+2017-10-12 17:12:54.557 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:12:54.743 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:12:54.833 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:12:54.839 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:12:54.846 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:12:56.950 +02:00 [Information] Stop service...
+2017-10-12 17:15:05.493 +02:00 [Information] Start service...
+2017-10-12 17:15:05.876 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:15:06.112 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:15:06.354 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:15:06.359 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:15:06.365 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:15:06.373 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 17:15:06.377 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 17:15:06.407 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 17:15:06.429 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 17:15:06.436 +02:00 [Information] "Austria" "AUT", "Republic of Austria", "43"
+2017-10-12 17:15:06.442 +02:00 [Information] "Azerbaijan" "AZE", "Republic of Azerbaijan", "994"
+2017-10-12 17:15:06.451 +02:00 [Information] "Bahamas, The" "BHS", "Commonwealth of The Bahamas", "-241"
+2017-10-12 17:15:06.456 +02:00 [Information] "Bahrain" "BHR", "Kingdom of Bahrain", "973"
+2017-10-12 17:15:06.461 +02:00 [Information] "Bangladesh" "BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 17:15:06.477 +02:00 [Information] "Barbados" "BRB", "", "-245"
+2017-10-12 17:15:06.483 +02:00 [Information] "Belarus" "BLR", "Republic of Belarus", "375"
+2017-10-12 17:15:06.488 +02:00 [Information] "Belgium" "BEL", "Kingdom of Belgium", "32"
+2017-10-12 17:15:06.493 +02:00 [Information] "Belize" "BLZ", "", "501"
+2017-10-12 17:15:06.497 +02:00 [Information] "Benin" "BEN", "Republic of Benin", "229"
+2017-10-12 17:15:06.503 +02:00 [Information] "Bhutan" "BTN", "Kingdom of Bhutan", "975"
+2017-10-12 17:15:06.510 +02:00 [Information] "Bolivia" "BOL", "Republic of Bolivia", "591"
+2017-10-12 17:15:06.518 +02:00 [Information] "Bosnia and Herzegovina" "BIH", "", "387"
+2017-10-12 17:15:06.524 +02:00 [Information] "Botswana" "BWA", "Republic of Botswana", "267"
+2017-10-12 17:15:06.532 +02:00 [Information] "Brazil" "BRA", "Federative Republic of Brazil", "55"
+2017-10-12 17:15:06.539 +02:00 [Information] "Brunei" "BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 17:15:06.544 +02:00 [Information] "Bulgaria" "BGR", "Republic of Bulgaria", "359"
+2017-10-12 17:15:06.549 +02:00 [Information] "Burkina Faso" "BFA", "", "226"
+2017-10-12 17:15:06.555 +02:00 [Information] "Burundi" "BDI", "Republic of Burundi", "257"
+2017-10-12 17:15:06.560 +02:00 [Information] "Cambodia" "KHM", "Kingdom of Cambodia", "855"
+2017-10-12 17:15:06.565 +02:00 [Information] "Cameroon" "CMR", "Republic of Cameroon", "237"
+2017-10-12 17:15:06.571 +02:00 [Information] "Canada" "CAN", "", "1"
+2017-10-12 17:15:06.577 +02:00 [Information] "Cape Verde" "CPV", "Republic of Cape Verde", "238"
+2017-10-12 17:15:06.582 +02:00 [Information] "Central African Republic" "CAF", "", "236"
+2017-10-12 17:15:06.589 +02:00 [Information] "Chad" "TCD", "Republic of Chad", "235"
+2017-10-12 17:15:06.594 +02:00 [Information] "Chile" "CHL", "Republic of Chile", "56"
+2017-10-12 17:15:06.600 +02:00 [Information] "China, People's Republic of" "CHN", "People's Republic of China", "86"
+2017-10-12 17:15:06.606 +02:00 [Information] "Colombia" "COL", "Republic of Colombia", "57"
+2017-10-12 17:15:06.614 +02:00 [Information] "Comoros" "COM", "Union of Comoros", "269"
+2017-10-12 17:15:06.619 +02:00 [Information] "Congo, Democratic Republic of the (Congo � Kinshasa)" "COD", "Democratic Republic of the Congo", "243"
+2017-10-12 17:15:06.625 +02:00 [Information] "Congo, Republic of the (Congo � Brazzaville)" "COG", "Republic of the Congo", "242"
+2017-10-12 17:15:06.632 +02:00 [Information] "Costa Rica" "CRI", "Republic of Costa Rica", "506"
+2017-10-12 17:15:06.638 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" "CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 17:15:06.643 +02:00 [Information] "Croatia" "HRV", "Republic of Croatia", "385"
+2017-10-12 17:15:06.647 +02:00 [Information] "Cuba" "CUB", "Republic of Cuba", "53"
+2017-10-12 17:15:06.653 +02:00 [Information] "Cyprus" "CYP", "Republic of Cyprus", "357"
+2017-10-12 17:15:06.658 +02:00 [Information] "Czech Republic" "CZE", "", "420"
+2017-10-12 17:15:06.663 +02:00 [Information] "Denmark" "DNK", "Kingdom of Denmark", "45"
+2017-10-12 17:15:06.669 +02:00 [Information] "Djibouti" "DJI", "Republic of Djibouti", "253"
+2017-10-12 17:15:06.674 +02:00 [Information] "Dominica" "DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 17:15:06.680 +02:00 [Information] "Dominican Republic" "DOM", "", "+1-809 and 1-829"
+2017-10-12 17:15:06.687 +02:00 [Information] "Ecuador" "ECU", "Republic of Ecuador", "593"
+2017-10-12 17:15:06.693 +02:00 [Information] "Egypt" "EGY", "Arab Republic of Egypt", "20"
+2017-10-12 17:15:06.708 +02:00 [Information] "El Salvador" "SLV", "Republic of El Salvador", "503"
+2017-10-12 17:15:06.716 +02:00 [Information] "Equatorial Guinea" "GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 17:15:06.723 +02:00 [Information] "Eritrea" "ERI", "State of Eritrea", "291"
+2017-10-12 17:15:06.729 +02:00 [Information] "Estonia" "EST", "Republic of Estonia", "372"
+2017-10-12 17:15:06.735 +02:00 [Information] "Ethiopia" "ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 17:15:06.741 +02:00 [Information] "Fiji" "FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 17:15:06.746 +02:00 [Information] "Finland" "FIN", "Republic of Finland", "358"
+2017-10-12 17:15:06.753 +02:00 [Information] "France" "FRA", "French Republic", "33"
+2017-10-12 17:15:06.762 +02:00 [Information] "Gabon" "GAB", "Gabonese Republic", "241"
+2017-10-12 17:15:06.769 +02:00 [Information] "Gambia, The" "GMB", "Republic of The Gambia", "220"
+2017-10-12 17:15:06.789 +02:00 [Information] "Georgia" "GEO", "Republic of Georgia", "995"
+2017-10-12 17:15:06.801 +02:00 [Information] "Germany" "DEU", "Federal Republic of Germany", "49"
+2017-10-12 17:15:06.812 +02:00 [Information] "Ghana" "GHA", "Republic of Ghana", "233"
+2017-10-12 17:15:06.819 +02:00 [Information] "Greece" "GRC", "Hellenic Republic", "30"
+2017-10-12 17:15:06.824 +02:00 [Information] "Grenada" "GRD", "", "-472"
+2017-10-12 17:15:06.829 +02:00 [Information] "Guatemala" "GTM", "Republic of Guatemala", "502"
+2017-10-12 17:15:06.837 +02:00 [Information] "Guinea" "GIN", "Republic of Guinea", "224"
+2017-10-12 17:15:06.843 +02:00 [Information] "Guinea-Bissau" "GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 17:15:06.852 +02:00 [Information] "Guyana" "GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 17:15:06.862 +02:00 [Information] "Haiti" "HTI", "Republic of Haiti", "509"
+2017-10-12 17:15:06.904 +02:00 [Information] "Honduras" "HND", "Republic of Honduras", "504"
+2017-10-12 17:15:06.909 +02:00 [Information] "Hungary" "HUN", "Republic of Hungary", "36"
+2017-10-12 17:15:06.915 +02:00 [Information] "Iceland" "ISL", "Republic of Iceland", "354"
+2017-10-12 17:15:06.921 +02:00 [Information] "India" "IND", "Republic of India", "91"
+2017-10-12 17:15:06.930 +02:00 [Information] "Indonesia" "IDN", "Republic of Indonesia", "62"
+2017-10-12 17:15:06.937 +02:00 [Information] "Iran" "IRN", "Islamic Republic of Iran", "98"
+2017-10-12 17:15:06.943 +02:00 [Information] "Iraq" "IRQ", "Republic of Iraq", "964"
+2017-10-12 17:15:06.956 +02:00 [Information] "Ireland" "IRL", "", "353"
+2017-10-12 17:15:06.963 +02:00 [Information] "Israel" "ISR", "State of Israel", "972"
+2017-10-12 17:15:06.969 +02:00 [Information] "Italy" "ITA", "Italian Republic", "39"
+2017-10-12 17:15:06.975 +02:00 [Information] "Jamaica" "JAM", "", "-875"
+2017-10-12 17:15:06.981 +02:00 [Information] "Japan" "JPN", "", "81"
+2017-10-12 17:15:06.988 +02:00 [Information] "Jordan" "JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 17:15:06.993 +02:00 [Information] "Kazakhstan" "KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 17:15:06.998 +02:00 [Information] "Kenya" "KEN", "Republic of Kenya", "254"
+2017-10-12 17:15:07.006 +02:00 [Information] "Kiribati" "KIR", "Republic of Kiribati", "686"
+2017-10-12 17:15:07.011 +02:00 [Information] "Korea, Democratic People's Republic of (North Korea)" "PRK", "Democratic People's Republic of Korea", "850"
+2017-10-12 17:15:07.052 +02:00 [Information] "Korea, Republic of  (South Korea)" "KOR", "Republic of Korea", "82"
+2017-10-12 17:15:07.057 +02:00 [Information] "Kuwait" "KWT", "State of Kuwait", "965"
+2017-10-12 17:15:07.062 +02:00 [Information] "Kyrgyzstan" "KGZ", "Kyrgyz Republic", "996"
+2017-10-12 17:15:07.069 +02:00 [Information] "Laos" "LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 17:15:07.075 +02:00 [Information] "Latvia" "LVA", "Republic of Latvia", "371"
+2017-10-12 17:15:07.080 +02:00 [Information] "Lebanon" "LBN", "Lebanese Republic", "961"
+2017-10-12 17:15:07.088 +02:00 [Information] "Lesotho" "LSO", "Kingdom of Lesotho", "266"
+2017-10-12 17:15:07.097 +02:00 [Information] "Liberia" "LBR", "Republic of Liberia", "231"
+2017-10-12 17:15:07.105 +02:00 [Information] "Libya" "LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 17:15:07.111 +02:00 [Information] "Liechtenstein" "LIE", "Principality of Liechtenstein", "423"
+2017-10-12 17:15:07.117 +02:00 [Information] "Lithuania" "LTU", "Republic of Lithuania", "370"
+2017-10-12 17:15:15.717 +02:00 [Information] Stop service...
+2017-10-12 17:16:10.745 +02:00 [Information] Start service...
+2017-10-12 17:16:11.115 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:16:11.293 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:16:11.404 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:16:11.411 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:16:11.417 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:16:11.426 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 17:16:11.431 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 17:16:11.441 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 17:16:11.446 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 17:16:11.452 +02:00 [Information] "Austria" "AUT", "Republic of Austria", "43"
+2017-10-12 17:16:11.457 +02:00 [Information] "Azerbaijan" "AZE", "Republic of Azerbaijan", "994"
+2017-10-12 17:16:11.467 +02:00 [Information] "Bahamas, The" "BHS", "Commonwealth of The Bahamas", "-241"
+2017-10-12 17:16:11.473 +02:00 [Information] "Bahrain" "BHR", "Kingdom of Bahrain", "973"
+2017-10-12 17:16:11.478 +02:00 [Information] "Bangladesh" "BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 17:16:11.484 +02:00 [Information] "Barbados" "BRB", "", "-245"
+2017-10-12 17:16:11.490 +02:00 [Information] "Belarus" "BLR", "Republic of Belarus", "375"
+2017-10-12 17:16:11.496 +02:00 [Information] "Belgium" "BEL", "Kingdom of Belgium", "32"
+2017-10-12 17:16:11.502 +02:00 [Information] "Belize" "BLZ", "", "501"
+2017-10-12 17:16:11.507 +02:00 [Information] "Benin" "BEN", "Republic of Benin", "229"
+2017-10-12 17:16:11.512 +02:00 [Information] "Bhutan" "BTN", "Kingdom of Bhutan", "975"
+2017-10-12 17:16:11.519 +02:00 [Information] "Bolivia" "BOL", "Republic of Bolivia", "591"
+2017-10-12 17:16:11.526 +02:00 [Information] "Bosnia and Herzegovina" "BIH", "", "387"
+2017-10-12 17:16:11.535 +02:00 [Information] "Botswana" "BWA", "Republic of Botswana", "267"
+2017-10-12 17:16:11.542 +02:00 [Information] "Brazil" "BRA", "Federative Republic of Brazil", "55"
+2017-10-12 17:16:11.547 +02:00 [Information] "Brunei" "BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 17:16:11.554 +02:00 [Information] "Bulgaria" "BGR", "Republic of Bulgaria", "359"
+2017-10-12 17:16:11.560 +02:00 [Information] "Burkina Faso" "BFA", "", "226"
+2017-10-12 17:16:11.565 +02:00 [Information] "Burundi" "BDI", "Republic of Burundi", "257"
+2017-10-12 17:16:11.582 +02:00 [Information] "Cambodia" "KHM", "Kingdom of Cambodia", "855"
+2017-10-12 17:16:11.588 +02:00 [Information] "Cameroon" "CMR", "Republic of Cameroon", "237"
+2017-10-12 17:16:11.594 +02:00 [Information] "Canada" "CAN", "", "1"
+2017-10-12 17:16:11.598 +02:00 [Information] "Cape Verde" "CPV", "Republic of Cape Verde", "238"
+2017-10-12 17:16:11.604 +02:00 [Information] "Central African Republic" "CAF", "", "236"
+2017-10-12 17:16:11.610 +02:00 [Information] "Chad" "TCD", "Republic of Chad", "235"
+2017-10-12 17:16:11.616 +02:00 [Information] "Chile" "CHL", "Republic of Chile", "56"
+2017-10-12 17:16:11.662 +02:00 [Information] "China, People's Republic of" "CHN", "People's Republic of China", "86"
+2017-10-12 17:16:11.672 +02:00 [Information] "Colombia" "COL", "Republic of Colombia", "57"
+2017-10-12 17:16:11.677 +02:00 [Information] "Comoros" "COM", "Union of Comoros", "269"
+2017-10-12 17:16:11.683 +02:00 [Information] "Congo, Democratic Republic of the (Congo � Kinshasa)" "COD", "Democratic Republic of the Congo", "243"
+2017-10-12 17:16:11.691 +02:00 [Information] "Congo, Republic of the (Congo � Brazzaville)" "COG", "Republic of the Congo", "242"
+2017-10-12 17:16:11.697 +02:00 [Information] "Costa Rica" "CRI", "Republic of Costa Rica", "506"
+2017-10-12 17:16:11.704 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" "CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 17:16:11.710 +02:00 [Information] "Croatia" "HRV", "Republic of Croatia", "385"
+2017-10-12 17:16:11.715 +02:00 [Information] "Cuba" "CUB", "Republic of Cuba", "53"
+2017-10-12 17:16:11.722 +02:00 [Information] "Cyprus" "CYP", "Republic of Cyprus", "357"
+2017-10-12 17:16:11.727 +02:00 [Information] "Czech Republic" "CZE", "", "420"
+2017-10-12 17:16:11.732 +02:00 [Information] "Denmark" "DNK", "Kingdom of Denmark", "45"
+2017-10-12 17:16:11.738 +02:00 [Information] "Djibouti" "DJI", "Republic of Djibouti", "253"
+2017-10-12 17:16:11.744 +02:00 [Information] "Dominica" "DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 17:16:11.750 +02:00 [Information] "Dominican Republic" "DOM", "", "+1-809 and 1-829"
+2017-10-12 17:16:11.756 +02:00 [Information] "Ecuador" "ECU", "Republic of Ecuador", "593"
+2017-10-12 17:16:11.762 +02:00 [Information] "Egypt" "EGY", "Arab Republic of Egypt", "20"
+2017-10-12 17:16:11.769 +02:00 [Information] "El Salvador" "SLV", "Republic of El Salvador", "503"
+2017-10-12 17:16:11.774 +02:00 [Information] "Equatorial Guinea" "GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 17:16:11.779 +02:00 [Information] "Eritrea" "ERI", "State of Eritrea", "291"
+2017-10-12 17:16:11.800 +02:00 [Information] "Estonia" "EST", "Republic of Estonia", "372"
+2017-10-12 17:16:11.808 +02:00 [Information] "Ethiopia" "ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 17:16:11.821 +02:00 [Information] "Fiji" "FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 17:16:11.827 +02:00 [Information] "Finland" "FIN", "Republic of Finland", "358"
+2017-10-12 17:16:11.833 +02:00 [Information] "France" "FRA", "French Republic", "33"
+2017-10-12 17:16:11.839 +02:00 [Information] "Gabon" "GAB", "Gabonese Republic", "241"
+2017-10-12 17:16:11.845 +02:00 [Information] "Gambia, The" "GMB", "Republic of The Gambia", "220"
+2017-10-12 17:16:11.852 +02:00 [Information] "Georgia" "GEO", "Republic of Georgia", "995"
+2017-10-12 17:16:11.858 +02:00 [Information] "Germany" "DEU", "Federal Republic of Germany", "49"
+2017-10-12 17:16:11.864 +02:00 [Information] "Ghana" "GHA", "Republic of Ghana", "233"
+2017-10-12 17:16:11.870 +02:00 [Information] "Greece" "GRC", "Hellenic Republic", "30"
+2017-10-12 17:16:11.876 +02:00 [Information] "Grenada" "GRD", "", "-472"
+2017-10-12 17:16:11.881 +02:00 [Information] "Guatemala" "GTM", "Republic of Guatemala", "502"
+2017-10-12 17:16:11.888 +02:00 [Information] "Guinea" "GIN", "Republic of Guinea", "224"
+2017-10-12 17:16:11.894 +02:00 [Information] "Guinea-Bissau" "GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 17:16:11.900 +02:00 [Information] "Guyana" "GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 17:16:11.906 +02:00 [Information] "Haiti" "HTI", "Republic of Haiti", "509"
+2017-10-12 17:16:11.913 +02:00 [Information] "Honduras" "HND", "Republic of Honduras", "504"
+2017-10-12 17:16:11.920 +02:00 [Information] "Hungary" "HUN", "Republic of Hungary", "36"
+2017-10-12 17:16:11.925 +02:00 [Information] "Iceland" "ISL", "Republic of Iceland", "354"
+2017-10-12 17:16:11.929 +02:00 [Information] "India" "IND", "Republic of India", "91"
+2017-10-12 17:16:11.937 +02:00 [Information] "Indonesia" "IDN", "Republic of Indonesia", "62"
+2017-10-12 17:16:11.942 +02:00 [Information] "Iran" "IRN", "Islamic Republic of Iran", "98"
+2017-10-12 17:16:11.947 +02:00 [Information] "Iraq" "IRQ", "Republic of Iraq", "964"
+2017-10-12 17:16:11.954 +02:00 [Information] "Ireland" "IRL", "", "353"
+2017-10-12 17:16:11.961 +02:00 [Information] "Israel" "ISR", "State of Israel", "972"
+2017-10-12 17:16:11.966 +02:00 [Information] "Italy" "ITA", "Italian Republic", "39"
+2017-10-12 17:16:11.972 +02:00 [Information] "Jamaica" "JAM", "", "-875"
+2017-10-12 17:16:11.978 +02:00 [Information] "Japan" "JPN", "", "81"
+2017-10-12 17:16:11.984 +02:00 [Information] "Jordan" "JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 17:16:11.990 +02:00 [Information] "Kazakhstan" "KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 17:16:11.995 +02:00 [Information] "Kenya" "KEN", "Republic of Kenya", "254"
+2017-10-12 17:16:12.052 +02:00 [Information] "Kiribati" "KIR", "Republic of Kiribati", "686"
+2017-10-12 17:16:12.058 +02:00 [Information] "Korea, Democratic People's Republic of (North Korea)" "PRK", "Democratic People's Republic of Korea", "850"
+2017-10-12 17:16:12.065 +02:00 [Information] "Korea, Republic of  (South Korea)" "KOR", "Republic of Korea", "82"
+2017-10-12 17:16:12.070 +02:00 [Information] "Kuwait" "KWT", "State of Kuwait", "965"
+2017-10-12 17:16:12.076 +02:00 [Information] "Kyrgyzstan" "KGZ", "Kyrgyz Republic", "996"
+2017-10-12 17:16:12.081 +02:00 [Information] "Laos" "LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 17:16:12.088 +02:00 [Information] "Latvia" "LVA", "Republic of Latvia", "371"
+2017-10-12 17:16:12.094 +02:00 [Information] "Lebanon" "LBN", "Lebanese Republic", "961"
+2017-10-12 17:16:12.100 +02:00 [Information] "Lesotho" "LSO", "Kingdom of Lesotho", "266"
+2017-10-12 17:16:12.105 +02:00 [Information] "Liberia" "LBR", "Republic of Liberia", "231"
+2017-10-12 17:16:12.110 +02:00 [Information] "Libya" "LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 17:16:12.117 +02:00 [Information] "Liechtenstein" "LIE", "Principality of Liechtenstein", "423"
+2017-10-12 17:16:12.121 +02:00 [Information] "Lithuania" "LTU", "Republic of Lithuania", "370"
+2017-10-12 17:16:20.124 +02:00 [Information] Stop service...
+2017-10-12 17:24:54.477 +02:00 [Information] Start service...
+2017-10-12 17:24:54.950 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:24:55.108 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:24:55.435 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:24:55.443 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:24:55.450 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:24:55.460 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 17:24:55.465 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 17:24:55.471 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 17:24:55.477 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 17:24:55.481 +02:00 [Information] "Austria" "AUT", "Republic of Austria", "43"
+2017-10-12 17:24:55.488 +02:00 [Information] "Azerbaijan" "AZE", "Republic of Azerbaijan", "994"
+2017-10-12 17:24:55.498 +02:00 [Information] "Bahamas, The" "BHS", "Commonwealth of The Bahamas", "-241"
+2017-10-12 17:24:55.504 +02:00 [Information] "Bahrain" "BHR", "Kingdom of Bahrain", "973"
+2017-10-12 17:24:55.510 +02:00 [Information] "Bangladesh" "BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 17:24:55.515 +02:00 [Information] "Barbados" "BRB", "", "-245"
+2017-10-12 17:24:55.521 +02:00 [Information] "Belarus" "BLR", "Republic of Belarus", "375"
+2017-10-12 17:24:55.525 +02:00 [Information] "Belgium" "BEL", "Kingdom of Belgium", "32"
+2017-10-12 17:24:55.534 +02:00 [Information] "Belize" "BLZ", "", "501"
+2017-10-12 17:24:55.563 +02:00 [Information] "Benin" "BEN", "Republic of Benin", "229"
+2017-10-12 17:24:55.569 +02:00 [Information] "Bhutan" "BTN", "Kingdom of Bhutan", "975"
+2017-10-12 17:24:55.575 +02:00 [Information] "Bolivia" "BOL", "Republic of Bolivia", "591"
+2017-10-12 17:24:55.581 +02:00 [Information] "Bosnia and Herzegovina" "BIH", "", "387"
+2017-10-12 17:24:55.587 +02:00 [Information] "Botswana" "BWA", "Republic of Botswana", "267"
+2017-10-12 17:24:55.593 +02:00 [Information] "Brazil" "BRA", "Federative Republic of Brazil", "55"
+2017-10-12 17:24:55.600 +02:00 [Information] "Brunei" "BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 17:24:55.607 +02:00 [Information] "Bulgaria" "BGR", "Republic of Bulgaria", "359"
+2017-10-12 17:24:55.614 +02:00 [Information] "Burkina Faso" "BFA", "", "226"
+2017-10-12 17:24:55.620 +02:00 [Information] "Burundi" "BDI", "Republic of Burundi", "257"
+2017-10-12 17:24:55.626 +02:00 [Information] "Cambodia" "KHM", "Kingdom of Cambodia", "855"
+2017-10-12 17:24:55.633 +02:00 [Information] "Cameroon" "CMR", "Republic of Cameroon", "237"
+2017-10-12 17:24:55.639 +02:00 [Information] "Canada" "CAN", "", "1"
+2017-10-12 17:24:55.644 +02:00 [Information] "Cape Verde" "CPV", "Republic of Cape Verde", "238"
+2017-10-12 17:24:55.651 +02:00 [Information] "Central African Republic" "CAF", "", "236"
+2017-10-12 17:24:55.658 +02:00 [Information] "Chad" "TCD", "Republic of Chad", "235"
+2017-10-12 17:24:55.666 +02:00 [Information] "Chile" "CHL", "Republic of Chile", "56"
+2017-10-12 17:24:55.672 +02:00 [Information] "China, People's Republic of" "CHN", "People's Republic of China", "86"
+2017-10-12 17:24:55.679 +02:00 [Information] "Colombia" "COL", "Republic of Colombia", "57"
+2017-10-12 17:24:55.686 +02:00 [Information] "Comoros" "COM", "Union of Comoros", "269"
+2017-10-12 17:24:55.691 +02:00 [Information] "Congo, Democratic Republic of the (Congo � Kinshasa)" "COD", "Democratic Republic of the Congo", "243"
+2017-10-12 17:24:55.698 +02:00 [Information] "Congo, Republic of the (Congo � Brazzaville)" "COG", "Republic of the Congo", "242"
+2017-10-12 17:24:55.706 +02:00 [Information] "Costa Rica" "CRI", "Republic of Costa Rica", "506"
+2017-10-12 17:24:55.711 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" "CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 17:24:55.716 +02:00 [Information] "Croatia" "HRV", "Republic of Croatia", "385"
+2017-10-12 17:24:55.723 +02:00 [Information] "Cuba" "CUB", "Republic of Cuba", "53"
+2017-10-12 17:24:55.731 +02:00 [Information] "Cyprus" "CYP", "Republic of Cyprus", "357"
+2017-10-12 17:24:55.737 +02:00 [Information] "Czech Republic" "CZE", "", "420"
+2017-10-12 17:24:55.743 +02:00 [Information] "Denmark" "DNK", "Kingdom of Denmark", "45"
+2017-10-12 17:24:55.749 +02:00 [Information] "Djibouti" "DJI", "Republic of Djibouti", "253"
+2017-10-12 17:24:55.756 +02:00 [Information] "Dominica" "DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 17:24:55.762 +02:00 [Information] "Dominican Republic" "DOM", "", "+1-809 and 1-829"
+2017-10-12 17:24:55.768 +02:00 [Information] "Ecuador" "ECU", "Republic of Ecuador", "593"
+2017-10-12 17:24:55.774 +02:00 [Information] "Egypt" "EGY", "Arab Republic of Egypt", "20"
+2017-10-12 17:24:55.780 +02:00 [Information] "El Salvador" "SLV", "Republic of El Salvador", "503"
+2017-10-12 17:24:55.786 +02:00 [Information] "Equatorial Guinea" "GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 17:24:55.793 +02:00 [Information] "Eritrea" "ERI", "State of Eritrea", "291"
+2017-10-12 17:24:55.798 +02:00 [Information] "Estonia" "EST", "Republic of Estonia", "372"
+2017-10-12 17:24:55.805 +02:00 [Information] "Ethiopia" "ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 17:24:55.811 +02:00 [Information] "Fiji" "FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 17:24:55.816 +02:00 [Information] "Finland" "FIN", "Republic of Finland", "358"
+2017-10-12 17:24:55.823 +02:00 [Information] "France" "FRA", "French Republic", "33"
+2017-10-12 17:24:55.830 +02:00 [Information] "Gabon" "GAB", "Gabonese Republic", "241"
+2017-10-12 17:24:55.839 +02:00 [Information] "Gambia, The" "GMB", "Republic of The Gambia", "220"
+2017-10-12 17:24:55.846 +02:00 [Information] "Georgia" "GEO", "Republic of Georgia", "995"
+2017-10-12 17:24:55.852 +02:00 [Information] "Germany" "DEU", "Federal Republic of Germany", "49"
+2017-10-12 17:24:55.858 +02:00 [Information] "Ghana" "GHA", "Republic of Ghana", "233"
+2017-10-12 17:24:55.864 +02:00 [Information] "Greece" "GRC", "Hellenic Republic", "30"
+2017-10-12 17:24:55.871 +02:00 [Information] "Grenada" "GRD", "", "-472"
+2017-10-12 17:24:55.878 +02:00 [Information] "Guatemala" "GTM", "Republic of Guatemala", "502"
+2017-10-12 17:24:55.887 +02:00 [Information] "Guinea" "GIN", "Republic of Guinea", "224"
+2017-10-12 17:24:55.895 +02:00 [Information] "Guinea-Bissau" "GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 17:24:55.901 +02:00 [Information] "Guyana" "GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 17:24:55.908 +02:00 [Information] "Haiti" "HTI", "Republic of Haiti", "509"
+2017-10-12 17:24:55.913 +02:00 [Information] "Honduras" "HND", "Republic of Honduras", "504"
+2017-10-12 17:24:55.920 +02:00 [Information] "Hungary" "HUN", "Republic of Hungary", "36"
+2017-10-12 17:24:55.925 +02:00 [Information] "Iceland" "ISL", "Republic of Iceland", "354"
+2017-10-12 17:24:55.931 +02:00 [Information] "India" "IND", "Republic of India", "91"
+2017-10-12 17:24:55.953 +02:00 [Information] "Indonesia" "IDN", "Republic of Indonesia", "62"
+2017-10-12 17:24:55.959 +02:00 [Information] "Iran" "IRN", "Islamic Republic of Iran", "98"
+2017-10-12 17:24:55.964 +02:00 [Information] "Iraq" "IRQ", "Republic of Iraq", "964"
+2017-10-12 17:24:55.971 +02:00 [Information] "Ireland" "IRL", "", "353"
+2017-10-12 17:24:55.976 +02:00 [Information] "Israel" "ISR", "State of Israel", "972"
+2017-10-12 17:24:55.981 +02:00 [Information] "Italy" "ITA", "Italian Republic", "39"
+2017-10-12 17:24:56.004 +02:00 [Information] "Jamaica" "JAM", "", "-875"
+2017-10-12 17:24:56.015 +02:00 [Information] "Japan" "JPN", "", "81"
+2017-10-12 17:24:56.021 +02:00 [Information] "Jordan" "JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 17:24:56.026 +02:00 [Information] "Kazakhstan" "KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 17:24:56.033 +02:00 [Information] "Kenya" "KEN", "Republic of Kenya", "254"
+2017-10-12 17:24:56.044 +02:00 [Information] "Kiribati" "KIR", "Republic of Kiribati", "686"
+2017-10-12 17:24:56.067 +02:00 [Information] "Korea, Democratic People's Republic of (North Korea)" "PRK", "Democratic People's Republic of Korea", "850"
+2017-10-12 17:24:56.075 +02:00 [Information] "Korea, Republic of  (South Korea)" "KOR", "Republic of Korea", "82"
+2017-10-12 17:24:56.087 +02:00 [Information] "Kuwait" "KWT", "State of Kuwait", "965"
+2017-10-12 17:24:56.095 +02:00 [Information] "Kyrgyzstan" "KGZ", "Kyrgyz Republic", "996"
+2017-10-12 17:24:56.103 +02:00 [Information] "Laos" "LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 17:24:56.108 +02:00 [Information] "Latvia" "LVA", "Republic of Latvia", "371"
+2017-10-12 17:24:56.113 +02:00 [Information] "Lebanon" "LBN", "Lebanese Republic", "961"
+2017-10-12 17:24:56.120 +02:00 [Information] "Lesotho" "LSO", "Kingdom of Lesotho", "266"
+2017-10-12 17:24:56.127 +02:00 [Information] "Liberia" "LBR", "Republic of Liberia", "231"
+2017-10-12 17:24:56.134 +02:00 [Information] "Libya" "LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 17:24:56.141 +02:00 [Information] "Liechtenstein" "LIE", "Principality of Liechtenstein", "423"
+2017-10-12 17:24:56.146 +02:00 [Information] "Lithuania" "LTU", "Republic of Lithuania", "370"
+2017-10-12 17:25:03.327 +02:00 [Information] Stop service...
+2017-10-12 17:26:39.326 +02:00 [Information] Start service...
+2017-10-12 17:26:39.742 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:26:39.837 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:26:39.844 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:26:39.852 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:26:39.859 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:26:39.866 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 17:26:39.875 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 17:26:39.882 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 17:26:39.892 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 17:26:39.899 +02:00 [Information] "Austria" "AUT", "Republic of Austria", "43"
+2017-10-12 17:26:39.909 +02:00 [Information] "Azerbaijan" "AZE", "Republic of Azerbaijan", "994"
+2017-10-12 17:26:39.921 +02:00 [Information] "Bahamas, The" "BHS", "Commonwealth of The Bahamas", "-241"
+2017-10-12 17:26:39.929 +02:00 [Information] "Bahrain" "BHR", "Kingdom of Bahrain", "973"
+2017-10-12 17:26:39.936 +02:00 [Information] "Bangladesh" "BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 17:26:39.943 +02:00 [Information] "Barbados" "BRB", "", "-245"
+2017-10-12 17:26:39.953 +02:00 [Information] "Belarus" "BLR", "Republic of Belarus", "375"
+2017-10-12 17:26:39.961 +02:00 [Information] "Belgium" "BEL", "Kingdom of Belgium", "32"
+2017-10-12 17:26:39.969 +02:00 [Information] "Belize" "BLZ", "", "501"
+2017-10-12 17:26:39.976 +02:00 [Information] "Benin" "BEN", "Republic of Benin", "229"
+2017-10-12 17:26:39.984 +02:00 [Information] "Bhutan" "BTN", "Kingdom of Bhutan", "975"
+2017-10-12 17:26:39.993 +02:00 [Information] "Bolivia" "BOL", "Republic of Bolivia", "591"
+2017-10-12 17:26:40.006 +02:00 [Information] "Bosnia and Herzegovina" "BIH", "", "387"
+2017-10-12 17:26:40.013 +02:00 [Information] "Botswana" "BWA", "Republic of Botswana", "267"
+2017-10-12 17:26:40.027 +02:00 [Information] "Brazil" "BRA", "Federative Republic of Brazil", "55"
+2017-10-12 17:26:40.037 +02:00 [Information] "Brunei" "BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 17:26:40.045 +02:00 [Information] "Bulgaria" "BGR", "Republic of Bulgaria", "359"
+2017-10-12 17:26:40.054 +02:00 [Information] "Burkina Faso" "BFA", "", "226"
+2017-10-12 17:26:40.066 +02:00 [Information] "Burundi" "BDI", "Republic of Burundi", "257"
+2017-10-12 17:26:40.077 +02:00 [Information] "Cambodia" "KHM", "Kingdom of Cambodia", "855"
+2017-10-12 17:26:40.090 +02:00 [Information] "Cameroon" "CMR", "Republic of Cameroon", "237"
+2017-10-12 17:26:40.101 +02:00 [Information] "Canada" "CAN", "", "1"
+2017-10-12 17:26:40.108 +02:00 [Information] "Cape Verde" "CPV", "Republic of Cape Verde", "238"
+2017-10-12 17:26:40.117 +02:00 [Information] "Central African Republic" "CAF", "", "236"
+2017-10-12 17:26:40.125 +02:00 [Information] "Chad" "TCD", "Republic of Chad", "235"
+2017-10-12 17:26:40.135 +02:00 [Information] "Chile" "CHL", "Republic of Chile", "56"
+2017-10-12 17:26:40.147 +02:00 [Information] "China, People's Republic of" "CHN", "People's Republic of China", "86"
+2017-10-12 17:26:40.156 +02:00 [Information] "Colombia" "COL", "Republic of Colombia", "57"
+2017-10-12 17:26:40.166 +02:00 [Information] "Comoros" "COM", "Union of Comoros", "269"
+2017-10-12 17:26:40.177 +02:00 [Information] "Congo, Democratic Republic of the (Congo � Kinshasa)" "COD", "Democratic Republic of the Congo", "243"
+2017-10-12 17:26:40.186 +02:00 [Information] "Congo, Republic of the (Congo � Brazzaville)" "COG", "Republic of the Congo", "242"
+2017-10-12 17:26:40.197 +02:00 [Information] "Costa Rica" "CRI", "Republic of Costa Rica", "506"
+2017-10-12 17:26:40.208 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" "CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 17:26:40.215 +02:00 [Information] "Croatia" "HRV", "Republic of Croatia", "385"
+2017-10-12 17:26:40.223 +02:00 [Information] "Cuba" "CUB", "Republic of Cuba", "53"
+2017-10-12 17:26:40.231 +02:00 [Information] "Cyprus" "CYP", "Republic of Cyprus", "357"
+2017-10-12 17:26:40.248 +02:00 [Information] "Czech Republic" "CZE", "", "420"
+2017-10-12 17:26:40.258 +02:00 [Information] "Denmark" "DNK", "Kingdom of Denmark", "45"
+2017-10-12 17:26:40.266 +02:00 [Information] "Djibouti" "DJI", "Republic of Djibouti", "253"
+2017-10-12 17:26:40.275 +02:00 [Information] "Dominica" "DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 17:26:40.284 +02:00 [Information] "Dominican Republic" "DOM", "", "+1-809 and 1-829"
+2017-10-12 17:26:40.294 +02:00 [Information] "Ecuador" "ECU", "Republic of Ecuador", "593"
+2017-10-12 17:26:40.303 +02:00 [Information] "Egypt" "EGY", "Arab Republic of Egypt", "20"
+2017-10-12 17:26:40.320 +02:00 [Information] "El Salvador" "SLV", "Republic of El Salvador", "503"
+2017-10-12 17:26:40.329 +02:00 [Information] "Equatorial Guinea" "GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 17:26:40.337 +02:00 [Information] "Eritrea" "ERI", "State of Eritrea", "291"
+2017-10-12 17:26:40.346 +02:00 [Information] "Estonia" "EST", "Republic of Estonia", "372"
+2017-10-12 17:26:40.354 +02:00 [Information] "Ethiopia" "ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 17:26:40.362 +02:00 [Information] "Fiji" "FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 17:26:40.370 +02:00 [Information] "Finland" "FIN", "Republic of Finland", "358"
+2017-10-12 17:26:40.378 +02:00 [Information] "France" "FRA", "French Republic", "33"
+2017-10-12 17:26:40.386 +02:00 [Information] "Gabon" "GAB", "Gabonese Republic", "241"
+2017-10-12 17:26:40.394 +02:00 [Information] "Gambia, The" "GMB", "Republic of The Gambia", "220"
+2017-10-12 17:26:40.403 +02:00 [Information] "Georgia" "GEO", "Republic of Georgia", "995"
+2017-10-12 17:26:40.410 +02:00 [Information] "Germany" "DEU", "Federal Republic of Germany", "49"
+2017-10-12 17:26:40.418 +02:00 [Information] "Ghana" "GHA", "Republic of Ghana", "233"
+2017-10-12 17:26:40.426 +02:00 [Information] "Greece" "GRC", "Hellenic Republic", "30"
+2017-10-12 17:26:40.436 +02:00 [Information] "Grenada" "GRD", "", "-472"
+2017-10-12 17:26:40.456 +02:00 [Information] "Guatemala" "GTM", "Republic of Guatemala", "502"
+2017-10-12 17:26:40.470 +02:00 [Information] "Guinea" "GIN", "Republic of Guinea", "224"
+2017-10-12 17:26:40.478 +02:00 [Information] "Guinea-Bissau" "GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 17:26:40.487 +02:00 [Information] "Guyana" "GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 17:26:40.494 +02:00 [Information] "Haiti" "HTI", "Republic of Haiti", "509"
+2017-10-12 17:26:40.503 +02:00 [Information] "Honduras" "HND", "Republic of Honduras", "504"
+2017-10-12 17:26:40.510 +02:00 [Information] "Hungary" "HUN", "Republic of Hungary", "36"
+2017-10-12 17:26:40.518 +02:00 [Information] "Iceland" "ISL", "Republic of Iceland", "354"
+2017-10-12 17:26:40.525 +02:00 [Information] "India" "IND", "Republic of India", "91"
+2017-10-12 17:26:40.538 +02:00 [Information] "Indonesia" "IDN", "Republic of Indonesia", "62"
+2017-10-12 17:26:40.546 +02:00 [Information] "Iran" "IRN", "Islamic Republic of Iran", "98"
+2017-10-12 17:26:40.553 +02:00 [Information] "Iraq" "IRQ", "Republic of Iraq", "964"
+2017-10-12 17:26:40.561 +02:00 [Information] "Ireland" "IRL", "", "353"
+2017-10-12 17:26:40.569 +02:00 [Information] "Israel" "ISR", "State of Israel", "972"
+2017-10-12 17:26:40.578 +02:00 [Information] "Italy" "ITA", "Italian Republic", "39"
+2017-10-12 17:26:40.587 +02:00 [Information] "Jamaica" "JAM", "", "-875"
+2017-10-12 17:26:40.601 +02:00 [Information] "Japan" "JPN", "", "81"
+2017-10-12 17:26:40.618 +02:00 [Information] "Jordan" "JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 17:26:40.625 +02:00 [Information] "Kazakhstan" "KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 17:26:40.632 +02:00 [Information] "Kenya" "KEN", "Republic of Kenya", "254"
+2017-10-12 17:26:40.642 +02:00 [Information] "Kiribati" "KIR", "Republic of Kiribati", "686"
+2017-10-12 17:26:40.651 +02:00 [Information] "Korea, Democratic People's Republic of (North Korea)" "PRK", "Democratic People's Republic of Korea", "850"
+2017-10-12 17:26:40.665 +02:00 [Information] "Korea, Republic of  (South Korea)" "KOR", "Republic of Korea", "82"
+2017-10-12 17:26:40.675 +02:00 [Information] "Kuwait" "KWT", "State of Kuwait", "965"
+2017-10-12 17:26:40.685 +02:00 [Information] "Kyrgyzstan" "KGZ", "Kyrgyz Republic", "996"
+2017-10-12 17:26:40.694 +02:00 [Information] "Laos" "LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 17:26:40.703 +02:00 [Information] "Latvia" "LVA", "Republic of Latvia", "371"
+2017-10-12 17:26:40.710 +02:00 [Information] "Lebanon" "LBN", "Lebanese Republic", "961"
+2017-10-12 17:26:40.719 +02:00 [Information] "Lesotho" "LSO", "Kingdom of Lesotho", "266"
+2017-10-12 17:26:40.728 +02:00 [Information] "Liberia" "LBR", "Republic of Liberia", "231"
+2017-10-12 17:26:40.736 +02:00 [Information] "Libya" "LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 17:26:40.745 +02:00 [Information] "Liechtenstein" "LIE", "Principality of Liechtenstein", "423"
+2017-10-12 17:26:40.753 +02:00 [Information] "Lithuania" "LTU", "Republic of Lithuania", "370"
+2017-10-12 17:26:43.408 +02:00 [Information] Stop service...
+2017-10-12 17:42:39.319 +02:00 [Information] Start service...
+2017-10-12 17:42:39.847 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:42:39.935 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:42:39.943 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:42:39.949 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:42:39.957 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:42:39.963 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 17:42:39.970 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 17:42:39.977 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 17:42:39.983 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 17:42:39.991 +02:00 [Information] "Austria" "AUT", "Republic of Austria", "43"
+2017-10-12 17:42:39.999 +02:00 [Information] "Azerbaijan" "AZE", "Republic of Azerbaijan", "994"
+2017-10-12 17:42:40.013 +02:00 [Information] "Bahamas, The" "BHS", "Commonwealth of The Bahamas", "-241"
+2017-10-12 17:42:40.044 +02:00 [Information] "Bahrain" "BHR", "Kingdom of Bahrain", "973"
+2017-10-12 17:42:40.053 +02:00 [Information] "Bangladesh" "BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 17:42:40.061 +02:00 [Information] "Barbados" "BRB", "", "-245"
+2017-10-12 17:42:40.068 +02:00 [Information] "Belarus" "BLR", "Republic of Belarus", "375"
+2017-10-12 17:42:40.075 +02:00 [Information] "Belgium" "BEL", "Kingdom of Belgium", "32"
+2017-10-12 17:42:40.082 +02:00 [Information] "Belize" "BLZ", "", "501"
+2017-10-12 17:42:40.089 +02:00 [Information] "Benin" "BEN", "Republic of Benin", "229"
+2017-10-12 17:42:40.099 +02:00 [Information] "Bhutan" "BTN", "Kingdom of Bhutan", "975"
+2017-10-12 17:42:40.108 +02:00 [Information] "Bolivia" "BOL", "Republic of Bolivia", "591"
+2017-10-12 17:42:40.117 +02:00 [Information] "Bosnia and Herzegovina" "BIH", "", "387"
+2017-10-12 17:42:40.125 +02:00 [Information] "Botswana" "BWA", "Republic of Botswana", "267"
+2017-10-12 17:42:40.143 +02:00 [Information] "Brazil" "BRA", "Federative Republic of Brazil", "55"
+2017-10-12 17:42:40.163 +02:00 [Information] "Brunei" "BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 17:42:40.172 +02:00 [Information] "Bulgaria" "BGR", "Republic of Bulgaria", "359"
+2017-10-12 17:42:40.182 +02:00 [Information] "Burkina Faso" "BFA", "", "226"
+2017-10-12 17:42:40.190 +02:00 [Information] "Burundi" "BDI", "Republic of Burundi", "257"
+2017-10-12 17:42:40.198 +02:00 [Information] "Cambodia" "KHM", "Kingdom of Cambodia", "855"
+2017-10-12 17:42:40.207 +02:00 [Information] "Cameroon" "CMR", "Republic of Cameroon", "237"
+2017-10-12 17:42:40.214 +02:00 [Information] "Canada" "CAN", "", "1"
+2017-10-12 17:42:40.222 +02:00 [Information] "Cape Verde" "CPV", "Republic of Cape Verde", "238"
+2017-10-12 17:42:40.232 +02:00 [Information] "Central African Republic" "CAF", "", "236"
+2017-10-12 17:42:40.243 +02:00 [Information] "Chad" "TCD", "Republic of Chad", "235"
+2017-10-12 17:42:40.249 +02:00 [Information] "Chile" "CHL", "Republic of Chile", "56"
+2017-10-12 17:42:40.287 +02:00 [Information] "China, People's Republic of" "CHN", "People's Republic of China", "86"
+2017-10-12 17:42:40.294 +02:00 [Information] "Colombia" "COL", "Republic of Colombia", "57"
+2017-10-12 17:42:40.303 +02:00 [Information] "Comoros" "COM", "Union of Comoros", "269"
+2017-10-12 17:42:40.311 +02:00 [Information] "Congo, Democratic Republic of the (Congo � Kinshasa)" "COD", "Democratic Republic of the Congo", "243"
+2017-10-12 17:42:40.322 +02:00 [Information] "Congo, Republic of the (Congo � Brazzaville)" "COG", "Republic of the Congo", "242"
+2017-10-12 17:42:40.331 +02:00 [Information] "Costa Rica" "CRI", "Republic of Costa Rica", "506"
+2017-10-12 17:42:40.340 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" "CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 17:42:40.371 +02:00 [Information] "Croatia" "HRV", "Republic of Croatia", "385"
+2017-10-12 17:42:40.379 +02:00 [Information] "Cuba" "CUB", "Republic of Cuba", "53"
+2017-10-12 17:42:40.392 +02:00 [Information] "Cyprus" "CYP", "Republic of Cyprus", "357"
+2017-10-12 17:42:40.400 +02:00 [Information] "Czech Republic" "CZE", "", "420"
+2017-10-12 17:42:40.451 +02:00 [Information] "Denmark" "DNK", "Kingdom of Denmark", "45"
+2017-10-12 17:42:40.459 +02:00 [Information] "Djibouti" "DJI", "Republic of Djibouti", "253"
+2017-10-12 17:42:40.468 +02:00 [Information] "Dominica" "DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 17:42:40.486 +02:00 [Information] "Dominican Republic" "DOM", "", "+1-809 and 1-829"
+2017-10-12 17:42:40.493 +02:00 [Information] "Ecuador" "ECU", "Republic of Ecuador", "593"
+2017-10-12 17:42:40.501 +02:00 [Information] "Egypt" "EGY", "Arab Republic of Egypt", "20"
+2017-10-12 17:42:40.509 +02:00 [Information] "El Salvador" "SLV", "Republic of El Salvador", "503"
+2017-10-12 17:42:40.516 +02:00 [Information] "Equatorial Guinea" "GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 17:42:40.525 +02:00 [Information] "Eritrea" "ERI", "State of Eritrea", "291"
+2017-10-12 17:42:40.535 +02:00 [Information] "Estonia" "EST", "Republic of Estonia", "372"
+2017-10-12 17:42:40.542 +02:00 [Information] "Ethiopia" "ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 17:42:40.558 +02:00 [Information] "Fiji" "FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 17:42:40.565 +02:00 [Information] "Finland" "FIN", "Republic of Finland", "358"
+2017-10-12 17:42:40.573 +02:00 [Information] "France" "FRA", "French Republic", "33"
+2017-10-12 17:42:40.580 +02:00 [Information] "Gabon" "GAB", "Gabonese Republic", "241"
+2017-10-12 17:42:40.588 +02:00 [Information] "Gambia, The" "GMB", "Republic of The Gambia", "220"
+2017-10-12 17:42:40.595 +02:00 [Information] "Georgia" "GEO", "Republic of Georgia", "995"
+2017-10-12 17:42:40.604 +02:00 [Information] "Germany" "DEU", "Federal Republic of Germany", "49"
+2017-10-12 17:42:40.611 +02:00 [Information] "Ghana" "GHA", "Republic of Ghana", "233"
+2017-10-12 17:42:40.619 +02:00 [Information] "Greece" "GRC", "Hellenic Republic", "30"
+2017-10-12 17:42:40.627 +02:00 [Information] "Grenada" "GRD", "", "-472"
+2017-10-12 17:42:40.634 +02:00 [Information] "Guatemala" "GTM", "Republic of Guatemala", "502"
+2017-10-12 17:42:40.643 +02:00 [Information] "Guinea" "GIN", "Republic of Guinea", "224"
+2017-10-12 17:42:40.650 +02:00 [Information] "Guinea-Bissau" "GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 17:42:40.659 +02:00 [Information] "Guyana" "GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 17:42:40.666 +02:00 [Information] "Haiti" "HTI", "Republic of Haiti", "509"
+2017-10-12 17:42:40.674 +02:00 [Information] "Honduras" "HND", "Republic of Honduras", "504"
+2017-10-12 17:42:40.682 +02:00 [Information] "Hungary" "HUN", "Republic of Hungary", "36"
+2017-10-12 17:42:40.690 +02:00 [Information] "Iceland" "ISL", "Republic of Iceland", "354"
+2017-10-12 17:42:40.697 +02:00 [Information] "India" "IND", "Republic of India", "91"
+2017-10-12 17:42:40.705 +02:00 [Information] "Indonesia" "IDN", "Republic of Indonesia", "62"
+2017-10-12 17:42:40.712 +02:00 [Information] "Iran" "IRN", "Islamic Republic of Iran", "98"
+2017-10-12 17:42:40.717 +02:00 [Information] "Iraq" "IRQ", "Republic of Iraq", "964"
+2017-10-12 17:42:40.717 +02:00 [Information] "Ireland" "IRL", "", "353"
+2017-10-12 17:42:40.733 +02:00 [Information] "Israel" "ISR", "State of Israel", "972"
+2017-10-12 17:42:40.733 +02:00 [Information] "Italy" "ITA", "Italian Republic", "39"
+2017-10-12 17:42:40.748 +02:00 [Information] "Jamaica" "JAM", "", "-875"
+2017-10-12 17:42:40.764 +02:00 [Information] "Japan" "JPN", "", "81"
+2017-10-12 17:42:40.764 +02:00 [Information] "Jordan" "JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 17:42:40.779 +02:00 [Information] "Kazakhstan" "KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 17:42:40.779 +02:00 [Information] "Kenya" "KEN", "Republic of Kenya", "254"
+2017-10-12 17:42:40.795 +02:00 [Information] "Kiribati" "KIR", "Republic of Kiribati", "686"
+2017-10-12 17:42:40.795 +02:00 [Information] "Korea, Democratic People's Republic of (North Korea)" "PRK", "Democratic People's Republic of Korea", "850"
+2017-10-12 17:42:40.811 +02:00 [Information] "Korea, Republic of  (South Korea)" "KOR", "Republic of Korea", "82"
+2017-10-12 17:42:40.811 +02:00 [Information] "Kuwait" "KWT", "State of Kuwait", "965"
+2017-10-12 17:42:40.826 +02:00 [Information] "Kyrgyzstan" "KGZ", "Kyrgyz Republic", "996"
+2017-10-12 17:42:40.826 +02:00 [Information] "Laos" "LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 17:42:40.842 +02:00 [Information] "Latvia" "LVA", "Republic of Latvia", "371"
+2017-10-12 17:42:40.842 +02:00 [Information] "Lebanon" "LBN", "Lebanese Republic", "961"
+2017-10-12 17:42:40.857 +02:00 [Information] "Lesotho" "LSO", "Kingdom of Lesotho", "266"
+2017-10-12 17:42:40.857 +02:00 [Information] "Liberia" "LBR", "Republic of Liberia", "231"
+2017-10-12 17:42:40.873 +02:00 [Information] "Libya" "LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 17:42:40.873 +02:00 [Information] "Liechtenstein" "LIE", "Principality of Liechtenstein", "423"
+2017-10-12 17:42:40.889 +02:00 [Information] "Lithuania" "LTU", "Republic of Lithuania", "370"
+2017-10-12 17:43:03.673 +02:00 [Information] Stop service...
+2017-10-12 17:50:13.155 +02:00 [Information] Start service...
+2017-10-12 17:50:13.583 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:50:13.758 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 17:50:13.766 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 17:50:13.773 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 17:50:13.780 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 17:50:13.790 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 17:50:13.799 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 17:50:13.813 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 17:50:13.832 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 17:50:13.854 +02:00 [Information] "Austria" "AUT", "Republic of Austria", "43"
+2017-10-12 17:50:13.861 +02:00 [Information] "Azerbaijan" "AZE", "Republic of Azerbaijan", "994"
+2017-10-12 17:50:13.874 +02:00 [Information] "Bahamas, The" "BHS", "Commonwealth of The Bahamas", "-241"
+2017-10-12 17:50:13.882 +02:00 [Information] "Bahrain" "BHR", "Kingdom of Bahrain", "973"
+2017-10-12 17:50:13.892 +02:00 [Information] "Bangladesh" "BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 17:50:13.898 +02:00 [Information] "Barbados" "BRB", "", "-245"
+2017-10-12 17:50:13.906 +02:00 [Information] "Belarus" "BLR", "Republic of Belarus", "375"
+2017-10-12 17:50:13.913 +02:00 [Information] "Belgium" "BEL", "Kingdom of Belgium", "32"
+2017-10-12 17:50:13.921 +02:00 [Information] "Belize" "BLZ", "", "501"
+2017-10-12 17:50:13.928 +02:00 [Information] "Benin" "BEN", "Republic of Benin", "229"
+2017-10-12 17:50:13.936 +02:00 [Information] "Bhutan" "BTN", "Kingdom of Bhutan", "975"
+2017-10-12 17:50:13.944 +02:00 [Information] "Bolivia" "BOL", "Republic of Bolivia", "591"
+2017-10-12 17:50:13.952 +02:00 [Information] "Bosnia and Herzegovina" "BIH", "", "387"
+2017-10-12 17:50:13.960 +02:00 [Information] "Botswana" "BWA", "Republic of Botswana", "267"
+2017-10-12 17:50:13.971 +02:00 [Information] "Brazil" "BRA", "Federative Republic of Brazil", "55"
+2017-10-12 17:50:13.986 +02:00 [Information] "Brunei" "BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 17:50:13.997 +02:00 [Information] "Bulgaria" "BGR", "Republic of Bulgaria", "359"
+2017-10-12 17:50:14.005 +02:00 [Information] "Burkina Faso" "BFA", "", "226"
+2017-10-12 17:50:14.013 +02:00 [Information] "Burundi" "BDI", "Republic of Burundi", "257"
+2017-10-12 17:50:14.023 +02:00 [Information] "Cambodia" "KHM", "Kingdom of Cambodia", "855"
+2017-10-12 17:50:14.031 +02:00 [Information] "Cameroon" "CMR", "Republic of Cameroon", "237"
+2017-10-12 17:50:14.042 +02:00 [Information] "Canada" "CAN", "", "1"
+2017-10-12 17:50:14.049 +02:00 [Information] "Cape Verde" "CPV", "Republic of Cape Verde", "238"
+2017-10-12 17:50:14.064 +02:00 [Information] "Central African Republic" "CAF", "", "236"
+2017-10-12 17:50:14.073 +02:00 [Information] "Chad" "TCD", "Republic of Chad", "235"
+2017-10-12 17:50:14.080 +02:00 [Information] "Chile" "CHL", "Republic of Chile", "56"
+2017-10-12 17:50:14.089 +02:00 [Information] "China, People's Republic of" "CHN", "People's Republic of China", "86"
+2017-10-12 17:50:14.096 +02:00 [Information] "Colombia" "COL", "Republic of Colombia", "57"
+2017-10-12 17:50:14.105 +02:00 [Information] "Comoros" "COM", "Union of Comoros", "269"
+2017-10-12 17:50:14.112 +02:00 [Information] "Congo, Democratic Republic of the (Congo � Kinshasa)" "COD", "Democratic Republic of the Congo", "243"
+2017-10-12 17:50:14.122 +02:00 [Information] "Congo, Republic of the (Congo � Brazzaville)" "COG", "Republic of the Congo", "242"
+2017-10-12 17:50:14.135 +02:00 [Information] "Costa Rica" "CRI", "Republic of Costa Rica", "506"
+2017-10-12 17:50:14.157 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" "CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 17:50:14.166 +02:00 [Information] "Croatia" "HRV", "Republic of Croatia", "385"
+2017-10-12 17:50:14.174 +02:00 [Information] "Cuba" "CUB", "Republic of Cuba", "53"
+2017-10-12 17:50:14.183 +02:00 [Information] "Cyprus" "CYP", "Republic of Cyprus", "357"
+2017-10-12 17:50:14.199 +02:00 [Information] "Czech Republic" "CZE", "", "420"
+2017-10-12 17:50:14.251 +02:00 [Information] "Denmark" "DNK", "Kingdom of Denmark", "45"
+2017-10-12 17:50:14.292 +02:00 [Information] "Djibouti" "DJI", "Republic of Djibouti", "253"
+2017-10-12 17:50:14.299 +02:00 [Information] "Dominica" "DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 17:50:14.308 +02:00 [Information] "Dominican Republic" "DOM", "", "+1-809 and 1-829"
+2017-10-12 17:50:14.327 +02:00 [Information] "Ecuador" "ECU", "Republic of Ecuador", "593"
+2017-10-12 17:50:14.342 +02:00 [Information] "Egypt" "EGY", "Arab Republic of Egypt", "20"
+2017-10-12 17:50:14.351 +02:00 [Information] "El Salvador" "SLV", "Republic of El Salvador", "503"
+2017-10-12 17:50:14.360 +02:00 [Information] "Equatorial Guinea" "GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 17:50:14.367 +02:00 [Information] "Eritrea" "ERI", "State of Eritrea", "291"
+2017-10-12 17:50:14.375 +02:00 [Information] "Estonia" "EST", "Republic of Estonia", "372"
+2017-10-12 17:50:14.382 +02:00 [Information] "Ethiopia" "ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 17:50:14.390 +02:00 [Information] "Fiji" "FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 17:50:14.398 +02:00 [Information] "Finland" "FIN", "Republic of Finland", "358"
+2017-10-12 17:50:14.404 +02:00 [Information] "France" "FRA", "French Republic", "33"
+2017-10-12 17:50:14.411 +02:00 [Information] "Gabon" "GAB", "Gabonese Republic", "241"
+2017-10-12 17:50:14.419 +02:00 [Information] "Gambia, The" "GMB", "Republic of The Gambia", "220"
+2017-10-12 17:50:14.426 +02:00 [Information] "Georgia" "GEO", "Republic of Georgia", "995"
+2017-10-12 17:50:14.434 +02:00 [Information] "Germany" "DEU", "Federal Republic of Germany", "49"
+2017-10-12 17:50:14.442 +02:00 [Information] "Ghana" "GHA", "Republic of Ghana", "233"
+2017-10-12 17:50:14.450 +02:00 [Information] "Greece" "GRC", "Hellenic Republic", "30"
+2017-10-12 17:50:14.450 +02:00 [Information] "Grenada" "GRD", "", "-472"
+2017-10-12 17:50:14.466 +02:00 [Information] "Guatemala" "GTM", "Republic of Guatemala", "502"
+2017-10-12 17:50:14.482 +02:00 [Information] "Guinea" "GIN", "Republic of Guinea", "224"
+2017-10-12 17:50:14.497 +02:00 [Information] "Guinea-Bissau" "GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 17:50:14.513 +02:00 [Information] "Guyana" "GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 17:50:14.513 +02:00 [Information] "Haiti" "HTI", "Republic of Haiti", "509"
+2017-10-12 17:50:14.528 +02:00 [Information] "Honduras" "HND", "Republic of Honduras", "504"
+2017-10-12 17:50:14.528 +02:00 [Information] "Hungary" "HUN", "Republic of Hungary", "36"
+2017-10-12 17:50:14.544 +02:00 [Information] "Iceland" "ISL", "Republic of Iceland", "354"
+2017-10-12 17:50:14.560 +02:00 [Information] "India" "IND", "Republic of India", "91"
+2017-10-12 17:50:14.560 +02:00 [Information] "Indonesia" "IDN", "Republic of Indonesia", "62"
+2017-10-12 17:50:14.575 +02:00 [Information] "Iran" "IRN", "Islamic Republic of Iran", "98"
+2017-10-12 17:50:14.575 +02:00 [Information] "Iraq" "IRQ", "Republic of Iraq", "964"
+2017-10-12 17:50:14.591 +02:00 [Information] "Ireland" "IRL", "", "353"
+2017-10-12 17:50:14.591 +02:00 [Information] "Israel" "ISR", "State of Israel", "972"
+2017-10-12 17:50:14.591 +02:00 [Information] "Italy" "ITA", "Italian Republic", "39"
+2017-10-12 17:50:14.606 +02:00 [Information] "Jamaica" "JAM", "", "-875"
+2017-10-12 17:50:14.606 +02:00 [Information] "Japan" "JPN", "", "81"
+2017-10-12 17:50:14.622 +02:00 [Information] "Jordan" "JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 17:50:14.622 +02:00 [Information] "Kazakhstan" "KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 17:50:14.638 +02:00 [Information] "Kenya" "KEN", "Republic of Kenya", "254"
+2017-10-12 17:50:14.638 +02:00 [Information] "Kiribati" "KIR", "Republic of Kiribati", "686"
+2017-10-12 17:50:14.653 +02:00 [Information] "Korea, Democratic People's Republic of (North Korea)" "PRK", "Democratic People's Republic of Korea", "850"
+2017-10-12 17:50:14.653 +02:00 [Information] "Korea, Republic of  (South Korea)" "KOR", "Republic of Korea", "82"
+2017-10-12 17:50:14.669 +02:00 [Information] "Kuwait" "KWT", "State of Kuwait", "965"
+2017-10-12 17:50:14.669 +02:00 [Information] "Kyrgyzstan" "KGZ", "Kyrgyz Republic", "996"
+2017-10-12 17:50:14.684 +02:00 [Information] "Laos" "LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 17:50:14.684 +02:00 [Information] "Latvia" "LVA", "Republic of Latvia", "371"
+2017-10-12 17:50:14.706 +02:00 [Information] "Lebanon" "LBN", "Lebanese Republic", "961"
+2017-10-12 17:50:14.714 +02:00 [Information] "Lesotho" "LSO", "Kingdom of Lesotho", "266"
+2017-10-12 17:50:14.723 +02:00 [Information] "Liberia" "LBR", "Republic of Liberia", "231"
+2017-10-12 17:50:14.731 +02:00 [Information] "Libya" "LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 17:50:14.740 +02:00 [Information] "Liechtenstein" "LIE", "Principality of Liechtenstein", "423"
+2017-10-12 17:50:14.748 +02:00 [Information] "Lithuania" "LTU", "Republic of Lithuania", "370"
+2017-10-12 17:50:16.277 +02:00 [Information] Stop service...
+2017-10-12 17:52:49.086 +02:00 [Information] Start service...
+2017-10-12 17:52:49.581 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:54:58.654 +02:00 [Information] Start service...
+2017-10-12 17:54:59.059 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:55:57.772 +02:00 [Information] Start service...
+2017-10-12 17:55:58.234 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:56:54.711 +02:00 [Information] Start service...
+2017-10-12 17:56:55.199 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 17:59:11.113 +02:00 [Information] Start service...
+2017-10-12 17:59:11.412 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 18:23:56.831 +02:00 [Information] Start service...
+2017-10-12 18:23:57.344 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 18:24:32.067 +02:00 [Information] Start service...
+2017-10-12 18:24:32.379 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 18:24:32.525 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 18:24:32.532 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 18:24:32.540 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 18:24:32.547 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 18:24:32.556 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 18:24:32.568 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 18:24:32.575 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 18:24:32.581 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 18:24:32.589 +02:00 [Information] "Austria" "AUT", "Republic of Austria", "43"
+2017-10-12 18:24:32.598 +02:00 [Information] "Azerbaijan" "AZE", "Republic of Azerbaijan", "994"
+2017-10-12 18:24:32.608 +02:00 [Information] "Bahamas, The" "BHS", "Commonwealth of The Bahamas", "-241"
+2017-10-12 18:24:32.616 +02:00 [Information] "Bahrain" "BHR", "Kingdom of Bahrain", "973"
+2017-10-12 18:24:32.623 +02:00 [Information] "Bangladesh" "BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 18:24:32.630 +02:00 [Information] "Barbados" "BRB", "", "-245"
+2017-10-12 18:24:32.637 +02:00 [Information] "Belarus" "BLR", "Republic of Belarus", "375"
+2017-10-12 18:24:32.644 +02:00 [Information] "Belgium" "BEL", "Kingdom of Belgium", "32"
+2017-10-12 18:24:32.655 +02:00 [Information] "Belize" "BLZ", "", "501"
+2017-10-12 18:24:32.667 +02:00 [Information] "Benin" "BEN", "Republic of Benin", "229"
+2017-10-12 18:24:32.675 +02:00 [Information] "Bhutan" "BTN", "Kingdom of Bhutan", "975"
+2017-10-12 18:24:32.685 +02:00 [Information] "Bolivia" "BOL", "Republic of Bolivia", "591"
+2017-10-12 18:24:32.694 +02:00 [Information] "Bosnia and Herzegovina" "BIH", "", "387"
+2017-10-12 18:24:32.704 +02:00 [Information] "Botswana" "BWA", "Republic of Botswana", "267"
+2017-10-12 18:24:32.712 +02:00 [Information] "Brazil" "BRA", "Federative Republic of Brazil", "55"
+2017-10-12 18:24:32.721 +02:00 [Information] "Brunei" "BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 18:24:32.729 +02:00 [Information] "Bulgaria" "BGR", "Republic of Bulgaria", "359"
+2017-10-12 18:24:32.738 +02:00 [Information] "Burkina Faso" "BFA", "", "226"
+2017-10-12 18:24:32.747 +02:00 [Information] "Burundi" "BDI", "Republic of Burundi", "257"
+2017-10-12 18:24:32.756 +02:00 [Information] "Cambodia" "KHM", "Kingdom of Cambodia", "855"
+2017-10-12 18:24:32.765 +02:00 [Information] "Cameroon" "CMR", "Republic of Cameroon", "237"
+2017-10-12 18:24:32.773 +02:00 [Information] "Canada" "CAN", "", "1"
+2017-10-12 18:24:32.783 +02:00 [Information] "Cape Verde" "CPV", "Republic of Cape Verde", "238"
+2017-10-12 18:24:32.790 +02:00 [Information] "Central African Republic" "CAF", "", "236"
+2017-10-12 18:24:32.799 +02:00 [Information] "Chad" "TCD", "Republic of Chad", "235"
+2017-10-12 18:24:32.809 +02:00 [Information] "Chile" "CHL", "Republic of Chile", "56"
+2017-10-12 18:24:32.817 +02:00 [Information] "China, People's Republic of" "CHN", "People's Republic of China", "86"
+2017-10-12 18:24:32.827 +02:00 [Information] "Colombia" "COL", "Republic of Colombia", "57"
+2017-10-12 18:24:32.836 +02:00 [Information] "Comoros" "COM", "Union of Comoros", "269"
+2017-10-12 18:24:32.846 +02:00 [Information] "Congo, Democratic Republic of the (Congo � Kinshasa)" "COD", "Democratic Republic of the Congo", "243"
+2017-10-12 18:24:32.860 +02:00 [Information] "Congo, Republic of the (Congo � Brazzaville)" "COG", "Republic of the Congo", "242"
+2017-10-12 18:24:32.872 +02:00 [Information] "Costa Rica" "CRI", "Republic of Costa Rica", "506"
+2017-10-12 18:24:32.879 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" "CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 18:24:32.922 +02:00 [Information] "Croatia" "HRV", "Republic of Croatia", "385"
+2017-10-12 18:24:32.931 +02:00 [Information] "Cuba" "CUB", "Republic of Cuba", "53"
+2017-10-12 18:24:32.939 +02:00 [Information] "Cyprus" "CYP", "Republic of Cyprus", "357"
+2017-10-12 18:24:32.951 +02:00 [Information] "Czech Republic" "CZE", "", "420"
+2017-10-12 18:24:32.959 +02:00 [Information] "Denmark" "DNK", "Kingdom of Denmark", "45"
+2017-10-12 18:24:32.970 +02:00 [Information] "Djibouti" "DJI", "Republic of Djibouti", "253"
+2017-10-12 18:24:32.991 +02:00 [Information] "Dominica" "DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 18:24:32.999 +02:00 [Information] "Dominican Republic" "DOM", "", "+1-809 and 1-829"
+2017-10-12 18:24:33.008 +02:00 [Information] "Ecuador" "ECU", "Republic of Ecuador", "593"
+2017-10-12 18:24:33.015 +02:00 [Information] "Egypt" "EGY", "Arab Republic of Egypt", "20"
+2017-10-12 18:24:33.023 +02:00 [Information] "El Salvador" "SLV", "Republic of El Salvador", "503"
+2017-10-12 18:24:33.032 +02:00 [Information] "Equatorial Guinea" "GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 18:24:33.040 +02:00 [Information] "Eritrea" "ERI", "State of Eritrea", "291"
+2017-10-12 18:24:33.050 +02:00 [Information] "Estonia" "EST", "Republic of Estonia", "372"
+2017-10-12 18:24:33.058 +02:00 [Information] "Ethiopia" "ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 18:24:33.073 +02:00 [Information] "Fiji" "FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 18:24:33.081 +02:00 [Information] "Finland" "FIN", "Republic of Finland", "358"
+2017-10-12 18:24:33.106 +02:00 [Information] "France" "FRA", "French Republic", "33"
+2017-10-12 18:24:33.114 +02:00 [Information] "Gabon" "GAB", "Gabonese Republic", "241"
+2017-10-12 18:24:33.140 +02:00 [Information] "Gambia, The" "GMB", "Republic of The Gambia", "220"
+2017-10-12 18:24:33.149 +02:00 [Information] "Georgia" "GEO", "Republic of Georgia", "995"
+2017-10-12 18:24:33.156 +02:00 [Information] "Germany" "DEU", "Federal Republic of Germany", "49"
+2017-10-12 18:24:33.163 +02:00 [Information] "Ghana" "GHA", "Republic of Ghana", "233"
+2017-10-12 18:24:33.173 +02:00 [Information] "Greece" "GRC", "Hellenic Republic", "30"
+2017-10-12 18:24:33.182 +02:00 [Information] "Grenada" "GRD", "", "-472"
+2017-10-12 18:24:33.190 +02:00 [Information] "Guatemala" "GTM", "Republic of Guatemala", "502"
+2017-10-12 18:24:33.197 +02:00 [Information] "Guinea" "GIN", "Republic of Guinea", "224"
+2017-10-12 18:24:33.206 +02:00 [Information] "Guinea-Bissau" "GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 18:24:33.214 +02:00 [Information] "Guyana" "GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 18:24:33.222 +02:00 [Information] "Haiti" "HTI", "Republic of Haiti", "509"
+2017-10-12 18:24:33.229 +02:00 [Information] "Honduras" "HND", "Republic of Honduras", "504"
+2017-10-12 18:24:33.238 +02:00 [Information] "Hungary" "HUN", "Republic of Hungary", "36"
+2017-10-12 18:24:33.245 +02:00 [Information] "Iceland" "ISL", "Republic of Iceland", "354"
+2017-10-12 18:24:33.255 +02:00 [Information] "India" "IND", "Republic of India", "91"
+2017-10-12 18:24:33.278 +02:00 [Information] "Indonesia" "IDN", "Republic of Indonesia", "62"
+2017-10-12 18:24:33.286 +02:00 [Information] "Iran" "IRN", "Islamic Republic of Iran", "98"
+2017-10-12 18:24:33.297 +02:00 [Information] "Iraq" "IRQ", "Republic of Iraq", "964"
+2017-10-12 18:24:33.305 +02:00 [Information] "Ireland" "IRL", "", "353"
+2017-10-12 18:24:33.313 +02:00 [Information] "Israel" "ISR", "State of Israel", "972"
+2017-10-12 18:24:33.322 +02:00 [Information] "Italy" "ITA", "Italian Republic", "39"
+2017-10-12 18:24:33.330 +02:00 [Information] "Jamaica" "JAM", "", "-875"
+2017-10-12 18:24:33.339 +02:00 [Information] "Japan" "JPN", "", "81"
+2017-10-12 18:24:33.357 +02:00 [Information] "Jordan" "JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 18:24:33.365 +02:00 [Information] "Kazakhstan" "KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 18:24:33.374 +02:00 [Information] "Kenya" "KEN", "Republic of Kenya", "254"
+2017-10-12 18:24:33.396 +02:00 [Information] "Kiribati" "KIR", "Republic of Kiribati", "686"
+2017-10-12 18:24:33.407 +02:00 [Information] "Korea, Democratic People's Republic of (North Korea)" "PRK", "Democratic People's Republic of Korea", "850"
+2017-10-12 18:24:33.423 +02:00 [Information] "Korea, Republic of  (South Korea)" "KOR", "Republic of Korea", "82"
+2017-10-12 18:24:33.430 +02:00 [Information] "Kuwait" "KWT", "State of Kuwait", "965"
+2017-10-12 18:24:33.440 +02:00 [Information] "Kyrgyzstan" "KGZ", "Kyrgyz Republic", "996"
+2017-10-12 18:24:33.448 +02:00 [Information] "Laos" "LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 18:24:33.458 +02:00 [Information] "Latvia" "LVA", "Republic of Latvia", "371"
+2017-10-12 18:24:33.466 +02:00 [Information] "Lebanon" "LBN", "Lebanese Republic", "961"
+2017-10-12 18:24:33.475 +02:00 [Information] "Lesotho" "LSO", "Kingdom of Lesotho", "266"
+2017-10-12 18:24:33.482 +02:00 [Information] "Liberia" "LBR", "Republic of Liberia", "231"
+2017-10-12 18:24:33.493 +02:00 [Information] "Libya" "LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 18:24:33.523 +02:00 [Information] "Liechtenstein" "LIE", "Principality of Liechtenstein", "423"
+2017-10-12 18:24:33.535 +02:00 [Information] "Lithuania" "LTU", "Republic of Lithuania", "370"
+2017-10-12 18:24:35.025 +02:00 [Information] Stop service...
+2017-10-12 18:25:49.319 +02:00 [Information] Start service...
+2017-10-12 18:25:49.747 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 18:28:53.325 +02:00 [Information] Start service...
+2017-10-12 18:28:53.831 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 18:28:56.206 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 18:28:57.664 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 18:28:59.712 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 18:29:01.602 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 18:29:03.912 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 18:29:04.402 +02:00 [Information] Stop service...
+2017-10-12 18:29:05.611 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 18:29:07.804 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 18:29:10.026 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 18:30:05.557 +02:00 [Information] Start service...
+2017-10-12 18:30:05.919 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 18:30:06.067 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 18:30:06.074 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 18:30:06.082 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 18:30:06.088 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 18:30:06.095 +02:00 [Information] "Antigua and Barbuda" "ATG", "", "-267"
+2017-10-12 18:30:06.103 +02:00 [Information] "Argentina" "ARG", "Argentine Republic", "54"
+2017-10-12 18:30:06.112 +02:00 [Information] "Armenia" "ARM", "Republic of Armenia", "374"
+2017-10-12 18:30:06.120 +02:00 [Information] "Australia" "AUS", "Commonwealth of Australia", "61"
+2017-10-12 18:30:06.141 +02:00 [Information] "Austria" "AUT", "Republic of Austria", "43"
+2017-10-12 18:30:06.160 +02:00 [Information] "Azerbaijan" "AZE", "Republic of Azerbaijan", "994"
+2017-10-12 18:30:06.176 +02:00 [Information] "Bahamas, The" "BHS", "Commonwealth of The Bahamas", "-241"
+2017-10-12 18:30:06.192 +02:00 [Information] "Bahrain" "BHR", "Kingdom of Bahrain", "973"
+2017-10-12 18:30:06.202 +02:00 [Information] "Bangladesh" "BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 18:30:06.219 +02:00 [Information] "Barbados" "BRB", "", "-245"
+2017-10-12 18:30:06.227 +02:00 [Information] "Belarus" "BLR", "Republic of Belarus", "375"
+2017-10-12 18:30:06.258 +02:00 [Information] "Belgium" "BEL", "Kingdom of Belgium", "32"
+2017-10-12 18:30:06.266 +02:00 [Information] "Belize" "BLZ", "", "501"
+2017-10-12 18:30:06.274 +02:00 [Information] "Benin" "BEN", "Republic of Benin", "229"
+2017-10-12 18:30:06.282 +02:00 [Information] "Bhutan" "BTN", "Kingdom of Bhutan", "975"
+2017-10-12 18:30:06.289 +02:00 [Information] "Bolivia" "BOL", "Republic of Bolivia", "591"
+2017-10-12 18:30:06.298 +02:00 [Information] "Bosnia and Herzegovina" "BIH", "", "387"
+2017-10-12 18:30:06.306 +02:00 [Information] "Botswana" "BWA", "Republic of Botswana", "267"
+2017-10-12 18:30:06.315 +02:00 [Information] "Brazil" "BRA", "Federative Republic of Brazil", "55"
+2017-10-12 18:30:06.322 +02:00 [Information] "Brunei" "BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 18:30:06.329 +02:00 [Information] "Bulgaria" "BGR", "Republic of Bulgaria", "359"
+2017-10-12 18:30:06.338 +02:00 [Information] "Burkina Faso" "BFA", "", "226"
+2017-10-12 18:30:06.346 +02:00 [Information] "Burundi" "BDI", "Republic of Burundi", "257"
+2017-10-12 18:30:06.353 +02:00 [Information] "Cambodia" "KHM", "Kingdom of Cambodia", "855"
+2017-10-12 18:30:06.361 +02:00 [Information] "Cameroon" "CMR", "Republic of Cameroon", "237"
+2017-10-12 18:30:06.369 +02:00 [Information] "Canada" "CAN", "", "1"
+2017-10-12 18:30:06.381 +02:00 [Information] "Cape Verde" "CPV", "Republic of Cape Verde", "238"
+2017-10-12 18:30:06.391 +02:00 [Information] "Central African Republic" "CAF", "", "236"
+2017-10-12 18:30:06.403 +02:00 [Information] "Chad" "TCD", "Republic of Chad", "235"
+2017-10-12 18:30:06.411 +02:00 [Information] "Chile" "CHL", "Republic of Chile", "56"
+2017-10-12 18:30:06.420 +02:00 [Information] "China, People's Republic of" "CHN", "People's Republic of China", "86"
+2017-10-12 18:30:06.428 +02:00 [Information] "Colombia" "COL", "Republic of Colombia", "57"
+2017-10-12 18:30:06.437 +02:00 [Information] "Comoros" "COM", "Union of Comoros", "269"
+2017-10-12 18:30:06.449 +02:00 [Information] "Congo, Democratic Republic of the (Congo � Kinshasa)" "COD", "Democratic Republic of the Congo", "243"
+2017-10-12 18:30:06.476 +02:00 [Information] "Congo, Republic of the (Congo � Brazzaville)" "COG", "Republic of the Congo", "242"
+2017-10-12 18:30:06.498 +02:00 [Information] "Costa Rica" "CRI", "Republic of Costa Rica", "506"
+2017-10-12 18:30:06.506 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" "CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 18:30:06.522 +02:00 [Information] "Croatia" "HRV", "Republic of Croatia", "385"
+2017-10-12 18:30:06.531 +02:00 [Information] "Cuba" "CUB", "Republic of Cuba", "53"
+2017-10-12 18:30:06.540 +02:00 [Information] "Cyprus" "CYP", "Republic of Cyprus", "357"
+2017-10-12 18:30:06.548 +02:00 [Information] "Czech Republic" "CZE", "", "420"
+2017-10-12 18:30:06.557 +02:00 [Information] "Denmark" "DNK", "Kingdom of Denmark", "45"
+2017-10-12 18:30:06.564 +02:00 [Information] "Djibouti" "DJI", "Republic of Djibouti", "253"
+2017-10-12 18:30:06.574 +02:00 [Information] "Dominica" "DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 18:30:06.584 +02:00 [Information] "Dominican Republic" "DOM", "", "+1-809 and 1-829"
+2017-10-12 18:30:06.599 +02:00 [Information] "Ecuador" "ECU", "Republic of Ecuador", "593"
+2017-10-12 18:30:06.607 +02:00 [Information] "Egypt" "EGY", "Arab Republic of Egypt", "20"
+2017-10-12 18:30:06.616 +02:00 [Information] "El Salvador" "SLV", "Republic of El Salvador", "503"
+2017-10-12 18:30:06.623 +02:00 [Information] "Equatorial Guinea" "GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 18:30:06.631 +02:00 [Information] "Eritrea" "ERI", "State of Eritrea", "291"
+2017-10-12 18:30:06.653 +02:00 [Information] "Estonia" "EST", "Republic of Estonia", "372"
+2017-10-12 18:30:06.663 +02:00 [Information] "Ethiopia" "ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 18:30:06.671 +02:00 [Information] "Fiji" "FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 18:30:06.685 +02:00 [Information] "Finland" "FIN", "Republic of Finland", "358"
+2017-10-12 18:30:06.693 +02:00 [Information] "France" "FRA", "French Republic", "33"
+2017-10-12 18:30:06.703 +02:00 [Information] "Gabon" "GAB", "Gabonese Republic", "241"
+2017-10-12 18:30:06.710 +02:00 [Information] "Gambia, The" "GMB", "Republic of The Gambia", "220"
+2017-10-12 18:30:06.728 +02:00 [Information] "Georgia" "GEO", "Republic of Georgia", "995"
+2017-10-12 18:30:06.746 +02:00 [Information] "Germany" "DEU", "Federal Republic of Germany", "49"
+2017-10-12 18:30:06.754 +02:00 [Information] "Ghana" "GHA", "Republic of Ghana", "233"
+2017-10-12 18:30:06.763 +02:00 [Information] "Greece" "GRC", "Hellenic Republic", "30"
+2017-10-12 18:30:06.771 +02:00 [Information] "Grenada" "GRD", "", "-472"
+2017-10-12 18:30:06.778 +02:00 [Information] "Guatemala" "GTM", "Republic of Guatemala", "502"
+2017-10-12 18:30:06.786 +02:00 [Information] "Guinea" "GIN", "Republic of Guinea", "224"
+2017-10-12 18:30:06.794 +02:00 [Information] "Guinea-Bissau" "GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 18:30:06.803 +02:00 [Information] "Guyana" "GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 18:30:06.811 +02:00 [Information] "Haiti" "HTI", "Republic of Haiti", "509"
+2017-10-12 18:30:06.821 +02:00 [Information] "Honduras" "HND", "Republic of Honduras", "504"
+2017-10-12 18:30:06.832 +02:00 [Information] "Hungary" "HUN", "Republic of Hungary", "36"
+2017-10-12 18:30:06.839 +02:00 [Information] "Iceland" "ISL", "Republic of Iceland", "354"
+2017-10-12 18:30:06.848 +02:00 [Information] "India" "IND", "Republic of India", "91"
+2017-10-12 18:30:06.856 +02:00 [Information] "Indonesia" "IDN", "Republic of Indonesia", "62"
+2017-10-12 18:30:06.864 +02:00 [Information] "Iran" "IRN", "Islamic Republic of Iran", "98"
+2017-10-12 18:30:06.873 +02:00 [Information] "Iraq" "IRQ", "Republic of Iraq", "964"
+2017-10-12 18:30:06.880 +02:00 [Information] "Ireland" "IRL", "", "353"
+2017-10-12 18:30:06.890 +02:00 [Information] "Israel" "ISR", "State of Israel", "972"
+2017-10-12 18:30:06.897 +02:00 [Information] "Italy" "ITA", "Italian Republic", "39"
+2017-10-12 18:30:06.906 +02:00 [Information] "Jamaica" "JAM", "", "-875"
+2017-10-12 18:30:06.924 +02:00 [Information] "Japan" "JPN", "", "81"
+2017-10-12 18:30:06.933 +02:00 [Information] "Jordan" "JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 18:30:06.940 +02:00 [Information] "Kazakhstan" "KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 18:30:06.948 +02:00 [Information] "Kenya" "KEN", "Republic of Kenya", "254"
+2017-10-12 18:30:06.958 +02:00 [Information] "Kiribati" "KIR", "Republic of Kiribati", "686"
+2017-10-12 18:30:06.968 +02:00 [Information] "Korea, Democratic People's Republic of (North Korea)" "PRK", "Democratic People's Republic of Korea", "850"
+2017-10-12 18:30:06.979 +02:00 [Information] "Korea, Republic of  (South Korea)" "KOR", "Republic of Korea", "82"
+2017-10-12 18:30:06.991 +02:00 [Information] "Kuwait" "KWT", "State of Kuwait", "965"
+2017-10-12 18:30:07.000 +02:00 [Information] "Kyrgyzstan" "KGZ", "Kyrgyz Republic", "996"
+2017-10-12 18:30:07.014 +02:00 [Information] "Laos" "LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 18:30:07.022 +02:00 [Information] "Latvia" "LVA", "Republic of Latvia", "371"
+2017-10-12 18:30:07.030 +02:00 [Information] "Lebanon" "LBN", "Lebanese Republic", "961"
+2017-10-12 18:30:07.045 +02:00 [Information] "Lesotho" "LSO", "Kingdom of Lesotho", "266"
+2017-10-12 18:30:07.054 +02:00 [Information] "Liberia" "LBR", "Republic of Liberia", "231"
+2017-10-12 18:30:07.062 +02:00 [Information] "Libya" "LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 18:30:07.071 +02:00 [Information] "Liechtenstein" "LIE", "Principality of Liechtenstein", "423"
+2017-10-12 18:30:07.079 +02:00 [Information] "Lithuania" "LTU", "Republic of Lithuania", "370"
+2017-10-12 18:30:11.334 +02:00 [Information] Stop service...
+2017-10-12 18:32:32.089 +02:00 [Information] Start service...
+2017-10-12 18:32:32.514 +02:00 [Information] "Afghanistan" "AFG", "Islamic State of Afghanistan", "93"
+2017-10-12 18:32:32.726 +02:00 [Information] "Albania" "ALB", "Republic of Albania", "355"
+2017-10-12 18:32:32.876 +02:00 [Information] "Algeria" "DZA", "People's Democratic Republic of Algeria", "213"
+2017-10-12 18:32:32.889 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 18:32:32.894 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 18:32:34.593 +02:00 [Information] Stop service...
+2017-10-12 18:36:27.361 +02:00 [Information] Start service...
+2017-10-12 18:36:27.701 +02:00 [Information] "rutkowski.adr@gmail.com" "AFG", "AdrianRutkowski", "93"
+2017-10-12 18:36:27.846 +02:00 [Information] "edwi-92@o2.pl" "ALB", "MarekNowak", "355"
+2017-10-12 18:36:27.927 +02:00 [Information] "edwi_91@o2.pl" "DZA", "ZbyszekNorwid", "213"
+2017-10-12 18:36:27.934 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 18:36:28.136 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 18:39:32.887 +02:00 [Information] Start service...
+2017-10-12 18:39:33.299 +02:00 [Information] "rutkowski.adr@gmail.com" "AFG", "AdrianRutkowski", "93"
+2017-10-12 18:39:33.468 +02:00 [Information] "edwi-92@o2.pl" "ALB", "MarekNowak", "355"
+2017-10-12 18:39:33.552 +02:00 [Information] "edwi_91@o2.pl" "DZA", "ZbyszekNorwid", "213"
+2017-10-12 18:39:33.559 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 18:39:33.712 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 18:41:29.163 +02:00 [Information] Start service...
+2017-10-12 18:41:29.552 +02:00 [Information] "rutkowski.adr@gmail.com" "AFG", "AdrianRutkowski", "93"
+2017-10-12 18:41:29.728 +02:00 [Information] "edwi-92@o2.pl" "ALB", "MarekNowak", "355"
+2017-10-12 18:41:29.861 +02:00 [Information] "edwi_91@o2.pl" "DZA", "ZbyszekNorwid", "213"
+2017-10-12 18:41:29.868 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 18:41:30.015 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 18:42:28.016 +02:00 [Information] Start service...
+2017-10-12 18:42:28.492 +02:00 [Information] "rutkowski.adr@gmail.com" "AFG", "AdrianRutkowski", "93"
+2017-10-12 18:42:28.702 +02:00 [Information] "edwi-92@o2.pl" "ALB", "MarekNowak", "355"
+2017-10-12 18:42:28.900 +02:00 [Information] "edwi_91@o2.pl" "DZA", "ZbyszekNorwid", "213"
+2017-10-12 18:42:28.907 +02:00 [Information] "Andorra" "AND", "Principality of Andorra", "376"
+2017-10-12 18:42:29.138 +02:00 [Information] "Angola" "AGO", "Republic of Angola", "244"
+2017-10-12 18:43:35.010 +02:00 [Information] Start service...
+2017-10-12 18:43:35.443 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "AdrianRutkowski", "93"
+2017-10-12 18:43:35.605 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "MarekNowak", "355"
+2017-10-12 18:43:35.669 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "ZbyszekNorwid", "213"
+2017-10-12 18:43:35.675 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Principality of Andorra", "376"
+2017-10-12 18:43:35.683 +02:00 [Information] "Angola" ,"AGO", "Republic of Angola", "244"
+2017-10-12 18:43:41.211 +02:00 [Information] Stop service...
+2017-10-12 18:48:40.694 +02:00 [Information] Start service...
+2017-10-12 18:48:41.206 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "AdrianRutkowski", "93"
+2017-10-12 18:48:41.456 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "MarekNowak", "355"
+2017-10-12 18:48:41.567 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "ZbyszekNorwid", "213"
+2017-10-12 18:48:41.573 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Principality of Andorra", "376"
+2017-10-12 18:48:41.580 +02:00 [Information] "Angola" ,"AGO", "Republic of Angola", "244"
+2017-10-12 18:48:59.325 +02:00 [Information] Start service...
+2017-10-12 18:48:59.879 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "AdrianRutkowski", "93"
+2017-10-12 18:49:00.062 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "MarekNowak", "355"
+2017-10-12 18:49:00.159 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "ZbyszekNorwid", "213"
+2017-10-12 18:49:00.165 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Principality of Andorra", "376"
+2017-10-12 18:49:00.179 +02:00 [Information] "marcin.wojciik@gmail.com" ," jak leci ? - TUTAJ PROGRAM ADIEGO", "Marcin W�jcik", "Siemanko mistrzu"
+2017-10-12 18:49:05.556 +02:00 [Information] Stop service...
+2017-10-12 19:08:38.532 +02:00 [Information] Start service...
+2017-10-12 19:08:38.703 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:08:38.771 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:08:40.449 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:08:40.456 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:08:40.469 +02:00 [Information] "marcin.wojciik@gmail.com" ," jak leci ? - TUTAJ PROGRAM ADIEGO", "Marcin W�jcik", "Siemanko mistrzu"
+2017-10-12 19:08:40.477 +02:00 [Information] "Antigua and Barbuda" ,"ATG", "", "-267"
+2017-10-12 19:08:40.592 +02:00 [Information] "Argentina" ,"ARG", "Argentine Republic", "54"
+2017-10-12 19:08:40.625 +02:00 [Information] "Armenia" ,"ARM", "Republic of Armenia", "374"
+2017-10-12 19:08:40.655 +02:00 [Information] "Australia" ,"AUS", "Commonwealth of Australia", "61"
+2017-10-12 19:08:40.698 +02:00 [Information] "Austria" ,"AUT", "Republic of Austria", "43"
+2017-10-12 19:08:40.734 +02:00 [Information] "Azerbaijan" ,"AZE", "Republic of Azerbaijan", "994"
+2017-10-12 19:08:40.767 +02:00 [Information] "Bahamas" ,"-241", " The", "Commonwealth of The Bahamas"
+2017-10-12 19:08:40.795 +02:00 [Information] "Bahrain" ,"BHR", "Kingdom of Bahrain", "973"
+2017-10-12 19:08:40.825 +02:00 [Information] "Bangladesh" ,"BGD", "People's Republic of Bangladesh", "880"
+2017-10-12 19:08:40.853 +02:00 [Information] "Barbados" ,"BRB", "", "-245"
+2017-10-12 19:08:40.910 +02:00 [Information] "Belarus" ,"BLR", "Republic of Belarus", "375"
+2017-10-12 19:08:40.959 +02:00 [Information] "Belgium" ,"BEL", "Kingdom of Belgium", "32"
+2017-10-12 19:08:40.988 +02:00 [Information] "Belize" ,"BLZ", "", "501"
+2017-10-12 19:08:41.043 +02:00 [Information] "Benin" ,"BEN", "Republic of Benin", "229"
+2017-10-12 19:08:41.071 +02:00 [Information] "Bhutan" ,"BTN", "Kingdom of Bhutan", "975"
+2017-10-12 19:08:41.114 +02:00 [Information] "Bolivia" ,"BOL", "Republic of Bolivia", "591"
+2017-10-12 19:08:41.148 +02:00 [Information] "Bosnia and Herzegovina" ,"BIH", "", "387"
+2017-10-12 19:08:41.176 +02:00 [Information] "Botswana" ,"BWA", "Republic of Botswana", "267"
+2017-10-12 19:08:41.206 +02:00 [Information] "Brazil" ,"BRA", "Federative Republic of Brazil", "55"
+2017-10-12 19:08:41.235 +02:00 [Information] "Brunei" ,"BRN", "Negara Brunei Darussalam", "673"
+2017-10-12 19:08:41.263 +02:00 [Information] "Bulgaria" ,"BGR", "Republic of Bulgaria", "359"
+2017-10-12 19:08:41.299 +02:00 [Information] "Burkina Faso" ,"BFA", "", "226"
+2017-10-12 19:08:41.343 +02:00 [Information] "Burundi" ,"BDI", "Republic of Burundi", "257"
+2017-10-12 19:08:41.374 +02:00 [Information] "Cambodia" ,"KHM", "Kingdom of Cambodia", "855"
+2017-10-12 19:08:41.403 +02:00 [Information] "Cameroon" ,"CMR", "Republic of Cameroon", "237"
+2017-10-12 19:08:41.438 +02:00 [Information] "Canada" ,"CAN", "", "1"
+2017-10-12 19:08:41.469 +02:00 [Information] "Cape Verde" ,"CPV", "Republic of Cape Verde", "238"
+2017-10-12 19:08:41.509 +02:00 [Information] "Central African Republic" ,"CAF", "", "236"
+2017-10-12 19:08:41.549 +02:00 [Information] "Chad" ,"TCD", "Republic of Chad", "235"
+2017-10-12 19:08:41.575 +02:00 [Information] "Chile" ,"CHL", "Republic of Chile", "56"
+2017-10-12 19:08:41.602 +02:00 [Information] "China" ,"86", " People's Republic of", "People's Republic of China"
+2017-10-12 19:08:41.627 +02:00 [Information] "Colombia" ,"COL", "Republic of Colombia", "57"
+2017-10-12 19:08:41.652 +02:00 [Information] "Comoros" ,"COM", "Union of Comoros", "269"
+2017-10-12 19:08:41.678 +02:00 [Information] "Congo" ,"243", " Democratic Republic of the (Congo � Kinshasa)", "Democratic Republic of the Congo"
+2017-10-12 19:08:41.707 +02:00 [Information] "Congo" ,"242", " Republic of the (Congo � Brazzaville)", "Republic of the Congo"
+2017-10-12 19:08:41.737 +02:00 [Information] "Costa Rica" ,"CRI", "Republic of Costa Rica", "506"
+2017-10-12 19:08:41.765 +02:00 [Information] "Cote d'Ivoire (Ivory Coast)" ,"CIV", "Republic of Cote d'Ivoire", "225"
+2017-10-12 19:08:41.791 +02:00 [Information] "Croatia" ,"HRV", "Republic of Croatia", "385"
+2017-10-12 19:08:41.819 +02:00 [Information] "Cuba" ,"CUB", "Republic of Cuba", "53"
+2017-10-12 19:08:41.848 +02:00 [Information] "Cyprus" ,"CYP", "Republic of Cyprus", "357"
+2017-10-12 19:08:41.874 +02:00 [Information] "Czech Republic" ,"CZE", "", "420"
+2017-10-12 19:08:41.898 +02:00 [Information] "Denmark" ,"DNK", "Kingdom of Denmark", "45"
+2017-10-12 19:08:41.931 +02:00 [Information] "Djibouti" ,"DJI", "Republic of Djibouti", "253"
+2017-10-12 19:08:41.970 +02:00 [Information] "Dominica" ,"DMA", "Commonwealth of Dominica", "-766"
+2017-10-12 19:08:42.002 +02:00 [Information] "Dominican Republic" ,"DOM", "", "+1-809 and 1-829"
+2017-10-12 19:08:42.038 +02:00 [Information] "Ecuador" ,"ECU", "Republic of Ecuador", "593"
+2017-10-12 19:08:42.075 +02:00 [Information] "Egypt" ,"EGY", "Arab Republic of Egypt", "20"
+2017-10-12 19:08:42.110 +02:00 [Information] "El Salvador" ,"SLV", "Republic of El Salvador", "503"
+2017-10-12 19:08:42.151 +02:00 [Information] "Equatorial Guinea" ,"GNQ", "Republic of Equatorial Guinea", "240"
+2017-10-12 19:08:42.195 +02:00 [Information] "Eritrea" ,"ERI", "State of Eritrea", "291"
+2017-10-12 19:08:42.227 +02:00 [Information] "Estonia" ,"EST", "Republic of Estonia", "372"
+2017-10-12 19:08:42.262 +02:00 [Information] "Ethiopia" ,"ETH", "Federal Democratic Republic of Ethiopia", "251"
+2017-10-12 19:08:42.314 +02:00 [Information] "Fiji" ,"FJI", "Republic of the Fiji Islands", "679"
+2017-10-12 19:08:42.373 +02:00 [Information] "Finland" ,"FIN", "Republic of Finland", "358"
+2017-10-12 19:08:42.405 +02:00 [Information] "France" ,"FRA", "French Republic", "33"
+2017-10-12 19:08:42.439 +02:00 [Information] "Gabon" ,"GAB", "Gabonese Republic", "241"
+2017-10-12 19:08:42.473 +02:00 [Information] "Gambia" ,"220", " The", "Republic of The Gambia"
+2017-10-12 19:08:42.506 +02:00 [Information] "Georgia" ,"GEO", "Republic of Georgia", "995"
+2017-10-12 19:08:42.543 +02:00 [Information] "Germany" ,"DEU", "Federal Republic of Germany", "49"
+2017-10-12 19:08:42.574 +02:00 [Information] "Ghana" ,"GHA", "Republic of Ghana", "233"
+2017-10-12 19:08:42.604 +02:00 [Information] "Greece" ,"GRC", "Hellenic Republic", "30"
+2017-10-12 19:08:42.640 +02:00 [Information] "Grenada" ,"GRD", "", "-472"
+2017-10-12 19:08:42.673 +02:00 [Information] "Guatemala" ,"GTM", "Republic of Guatemala", "502"
+2017-10-12 19:08:42.712 +02:00 [Information] "Guinea" ,"GIN", "Republic of Guinea", "224"
+2017-10-12 19:08:42.722 +02:00 [Information] Stop service...
+2017-10-12 19:08:42.758 +02:00 [Information] "Guinea-Bissau" ,"GNB", "Republic of Guinea-Bissau", "245"
+2017-10-12 19:08:42.812 +02:00 [Information] "Guyana" ,"GUY", "Co-operative Republic of Guyana", "592"
+2017-10-12 19:08:42.845 +02:00 [Information] "Haiti" ,"HTI", "Republic of Haiti", "509"
+2017-10-12 19:08:42.877 +02:00 [Information] "Honduras" ,"HND", "Republic of Honduras", "504"
+2017-10-12 19:08:42.908 +02:00 [Information] "Hungary" ,"HUN", "Republic of Hungary", "36"
+2017-10-12 19:08:42.940 +02:00 [Information] "Iceland" ,"ISL", "Republic of Iceland", "354"
+2017-10-12 19:08:42.972 +02:00 [Information] "India" ,"IND", "Republic of India", "91"
+2017-10-12 19:08:43.009 +02:00 [Information] "Indonesia" ,"IDN", "Republic of Indonesia", "62"
+2017-10-12 19:08:43.037 +02:00 [Information] "Iran" ,"IRN", "Islamic Republic of Iran", "98"
+2017-10-12 19:08:43.073 +02:00 [Information] "Iraq" ,"IRQ", "Republic of Iraq", "964"
+2017-10-12 19:08:43.104 +02:00 [Information] "Ireland" ,"IRL", "", "353"
+2017-10-12 19:08:43.134 +02:00 [Information] "Israel" ,"ISR", "State of Israel", "972"
+2017-10-12 19:08:43.164 +02:00 [Information] "Italy" ,"ITA", "Italian Republic", "39"
+2017-10-12 19:08:43.197 +02:00 [Information] "Jamaica" ,"JAM", "", "-875"
+2017-10-12 19:08:43.235 +02:00 [Information] "Japan" ,"JPN", "", "81"
+2017-10-12 19:08:43.264 +02:00 [Information] "Jordan" ,"JOR", "Hashemite Kingdom of Jordan", "962"
+2017-10-12 19:08:43.294 +02:00 [Information] "Kazakhstan" ,"KAZ", "Republic of Kazakhstan", "7"
+2017-10-12 19:08:43.323 +02:00 [Information] "Kenya" ,"KEN", "Republic of Kenya", "254"
+2017-10-12 19:08:43.355 +02:00 [Information] "Kiribati" ,"KIR", "Republic of Kiribati", "686"
+2017-10-12 19:08:43.389 +02:00 [Information] "Korea" ,"850", " Democratic People's Republic of (North Korea)", "Democratic People's Republic of Korea"
+2017-10-12 19:08:43.437 +02:00 [Information] "Korea" ,"82", " Republic of  (South Korea)", "Republic of Korea"
+2017-10-12 19:08:43.467 +02:00 [Information] "Kuwait" ,"KWT", "State of Kuwait", "965"
+2017-10-12 19:08:43.506 +02:00 [Information] "Kyrgyzstan" ,"KGZ", "Kyrgyz Republic", "996"
+2017-10-12 19:08:43.544 +02:00 [Information] "Laos" ,"LAO", "Lao People's Democratic Republic", "856"
+2017-10-12 19:08:43.575 +02:00 [Information] "Latvia" ,"LVA", "Republic of Latvia", "371"
+2017-10-12 19:08:43.617 +02:00 [Information] "Lebanon" ,"LBN", "Lebanese Republic", "961"
+2017-10-12 19:08:43.649 +02:00 [Information] "Lesotho" ,"LSO", "Kingdom of Lesotho", "266"
+2017-10-12 19:08:43.680 +02:00 [Information] "Liberia" ,"LBR", "Republic of Liberia", "231"
+2017-10-12 19:08:43.713 +02:00 [Information] "Libya" ,"LBY", "Great Socialist People's Libyan Arab Jamahiriya", "218"
+2017-10-12 19:08:43.748 +02:00 [Information] "Liechtenstein" ,"LIE", "Principality of Liechtenstein", "423"
+2017-10-12 19:08:43.786 +02:00 [Information] "Lithuania" ,"LTU", "Republic of Lithuania", "370"
+2017-10-12 19:10:04.140 +02:00 [Information] Start service...
+2017-10-12 19:10:04.437 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:10:06.595 +02:00 [Information] Stop service...
+2017-10-12 19:10:37.859 +02:00 [Information] Start service...
+2017-10-12 19:10:38.213 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:10:38.405 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:10:38.503 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:10:38.507 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:10:38.519 +02:00 [Information] "marcin.wojciik@gmail.com" ," jak leci ? - TUTAJ PROGRAM ADIEGO", "Marcin W�jcik", "Siemanko mistrzu"
+2017-10-12 19:10:40.092 +02:00 [Information] Stop service...
+2017-10-12 19:11:59.330 +02:00 [Information] Start service...
+2017-10-12 19:11:59.533 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:11:59.638 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:11:59.684 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:11:59.687 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:12:00.636 +02:00 [Information] Stop service...
+2017-10-12 19:12:47.920 +02:00 [Information] Start service...
+2017-10-12 19:12:48.204 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:12:48.299 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:12:48.392 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:12:48.396 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:12:53.075 +02:00 [Information] Stop service...
+2017-10-12 19:13:16.518 +02:00 [Information] Start service...
+2017-10-12 19:13:16.718 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:13:16.797 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:13:16.886 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:13:16.889 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:13:21.532 +02:00 [Information] Stop service...
+2017-10-12 19:14:08.074 +02:00 [Information] Start service...
+2017-10-12 19:14:08.344 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:14:08.452 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:14:08.560 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:14:08.564 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:14:21.979 +02:00 [Information] Stop service...
+2017-10-12 19:15:09.049 +02:00 [Information] Start service...
+2017-10-12 19:15:09.221 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:15:09.302 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:15:09.384 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:15:09.390 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:15:10.499 +02:00 [Information] Stop service...
+2017-10-12 19:15:20.452 +02:00 [Information] Start service...
+2017-10-12 19:15:20.759 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:15:20.903 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:15:21.009 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:15:21.012 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:15:34.719 +02:00 [Information] Stop service...
+2017-10-12 19:16:56.051 +02:00 [Information] Start service...
+2017-10-12 19:16:56.390 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:16:56.516 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:16:59.163 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:16:59.168 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:17:15.490 +02:00 [Information] Stop service...
+2017-10-12 19:19:34.670 +02:00 [Information] Start service...
+2017-10-12 19:19:34.946 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:19:35.061 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:19:35.123 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:19:35.127 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:19:36.654 +02:00 [Information] Stop service...
+2017-10-12 19:20:27.460 +02:00 [Information] Start service...
+2017-10-12 19:20:27.624 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:20:27.701 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:20:27.733 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:20:27.736 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:20:28.352 +02:00 [Information] Stop service...
+2017-10-12 19:46:00.038 +02:00 [Information] Start service...
+2017-10-12 19:46:14.971 +02:00 [Information] Start service...
+2017-10-12 19:46:15.178 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:46:15.243 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:46:15.367 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:46:15.370 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:46:18.151 +02:00 [Information] Stop service...
+2017-10-12 19:47:39.500 +02:00 [Information] Start service...
+2017-10-12 19:47:39.667 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 19:47:39.730 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 19:47:39.993 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 19:47:39.995 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 19:47:41.355 +02:00 [Information] Stop service...
+2017-10-12 20:03:59.536 +02:00 [Information] Start service...
+2017-10-12 20:03:59.920 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 20:04:00.094 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 20:04:00.253 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 20:04:00.265 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 20:06:14.086 +02:00 [Information] Start service...
+2017-10-12 20:10:20.756 +02:00 [Information] Start service...
+2017-10-12 20:12:51.885 +02:00 [Information] Start service...
+2017-10-12 20:32:43.766 +02:00 [Information] Start service...
+2017-10-12 20:32:44.016 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 20:32:44.126 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 20:32:44.194 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 20:32:44.197 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 20:32:46.448 +02:00 [Information] Stop service...
+2017-10-12 20:35:39.320 +02:00 [Information] Start service...
+2017-10-12 20:36:47.417 +02:00 [Information] Start service...
+2017-10-12 20:36:48.384 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 20:36:48.425 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 20:36:48.573 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 20:36:48.576 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 20:37:45.676 +02:00 [Information] Stop service...
+2017-10-12 20:50:56.859 +02:00 [Information] Start service...
+2017-10-12 20:54:03.763 +02:00 [Information] Start service...
+2017-10-12 20:54:14.083 +02:00 [Information] Stop service...
+2017-10-12 20:54:35.873 +02:00 [Information] Start service...
+2017-10-12 20:54:36.093 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 20:54:36.192 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 20:54:36.605 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 20:54:36.608 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 20:54:50.465 +02:00 [Information] Start service...
+2017-10-12 20:54:50.768 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 20:54:50.839 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 20:54:50.952 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 20:54:50.954 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 20:55:26.869 +02:00 [Information] Start service...
+2017-10-12 20:55:27.133 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 20:55:27.260 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 20:55:27.441 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 20:55:27.444 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:06:47.271 +02:00 [Information] Start service...
+2017-10-12 21:06:47.596 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:06:47.719 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:06:47.901 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:06:47.906 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:08:48.476 +02:00 [Information] Start service...
+2017-10-12 21:12:30.463 +02:00 [Information] Start service...
+2017-10-12 21:17:37.617 +02:00 [Information] Start service...
+2017-10-12 21:18:00.958 +02:00 [Information] Start service...
+2017-10-12 21:18:49.759 +02:00 [Information] Start service...
+2017-10-12 21:21:51.582 +02:00 [Information] Start service...
+2017-10-12 21:21:52.297 +02:00 [Information] Starting Hangfire Server
+2017-10-12 21:21:52.298 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 21:21:52.300 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 21:21:52.301 +02:00 [Information]     Worker count: 20
+2017-10-12 21:21:52.303 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 21:21:52.304 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 21:21:52.305 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 21:21:52.343 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 21:21:52.493 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 21:21:52.494 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 21:21:52.544 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 21:21:52.567 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 21:21:52.582 +02:00 [Debug] Background process 'Worker #27b68edb' started.
+2017-10-12 21:21:52.623 +02:00 [Debug] Background process 'Worker #e479e99c' started.
+2017-10-12 21:21:52.665 +02:00 [Debug] Background process 'Worker #d26a7c62' started.
+2017-10-12 21:21:52.665 +02:00 [Debug] Background process 'Worker #9cf5a6de' started.
+2017-10-12 21:21:52.683 +02:00 [Debug] Background process 'Worker #93e648f6' started.
+2017-10-12 21:21:52.684 +02:00 [Debug] Background process 'Worker #1f26e6ec' started.
+2017-10-12 21:21:52.737 +02:00 [Debug] Background process 'Worker #31022729' started.
+2017-10-12 21:21:52.737 +02:00 [Debug] Background process 'Worker #f9c02c15' started.
+2017-10-12 21:21:52.790 +02:00 [Debug] Background process 'Worker #3c589737' started.
+2017-10-12 21:21:52.796 +02:00 [Debug] Background process 'Worker #d698e90a' started.
+2017-10-12 21:21:52.802 +02:00 [Debug] Background process 'Worker #a7db9881' started.
+2017-10-12 21:21:52.811 +02:00 [Debug] Background process 'Worker #6be8eb78' started.
+2017-10-12 21:21:52.842 +02:00 [Debug] Background process 'Worker #0f40ae48' started.
+2017-10-12 21:21:52.846 +02:00 [Debug] Background process 'Worker #f82ad5cc' started.
+2017-10-12 21:21:52.848 +02:00 [Debug] Background process 'Worker #31a9887f' started.
+2017-10-12 21:21:52.858 +02:00 [Debug] Background process 'Worker #cb812e10' started.
+2017-10-12 21:21:52.869 +02:00 [Debug] Background process 'Worker #cc15e3ad' started.
+2017-10-12 21:21:52.873 +02:00 [Debug] Background process 'Worker #a9a9dcf2' started.
+2017-10-12 21:21:52.875 +02:00 [Debug] Background process 'Worker #579b2f16' started.
+2017-10-12 21:21:52.904 +02:00 [Debug] Background process 'Worker #5183551f' started.
+2017-10-12 21:21:52.907 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 21:21:52.911 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 21:24:39.760 +02:00 [Information] Start service...
+2017-10-12 21:24:40.246 +02:00 [Information] Starting Hangfire Server
+2017-10-12 21:24:40.249 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 21:24:40.249 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 21:24:40.250 +02:00 [Information]     Worker count: 20
+2017-10-12 21:24:40.252 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 21:24:40.253 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 21:24:40.254 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 21:24:40.332 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 21:24:40.588 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 21:24:40.593 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 21:24:40.599 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 21:24:40.614 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 21:24:40.639 +02:00 [Debug] Background process 'Worker #a809f3dd' started.
+2017-10-12 21:24:40.652 +02:00 [Debug] Background process 'Worker #b20439d1' started.
+2017-10-12 21:24:40.675 +02:00 [Debug] Background process 'Worker #08a609e7' started.
+2017-10-12 21:24:40.699 +02:00 [Debug] Background process 'Worker #4d5219cb' started.
+2017-10-12 21:24:40.728 +02:00 [Debug] Background process 'Worker #4211eaca' started.
+2017-10-12 21:24:40.733 +02:00 [Debug] Background process 'Worker #e7673db9' started.
+2017-10-12 21:24:40.766 +02:00 [Debug] Background process 'Worker #e2d627c6' started.
+2017-10-12 21:24:40.792 +02:00 [Debug] Background process 'Worker #518f0aff' started.
+2017-10-12 21:24:40.803 +02:00 [Debug] Background process 'Worker #9a0a82b5' started.
+2017-10-12 21:24:40.809 +02:00 [Debug] Background process 'Worker #3a8f33aa' started.
+2017-10-12 21:24:40.829 +02:00 [Debug] Background process 'Worker #d185cded' started.
+2017-10-12 21:24:40.845 +02:00 [Debug] Background process 'Worker #56c5a72d' started.
+2017-10-12 21:24:40.849 +02:00 [Debug] Background process 'Worker #2165605d' started.
+2017-10-12 21:24:40.863 +02:00 [Debug] Background process 'Worker #3dee6d87' started.
+2017-10-12 21:24:40.881 +02:00 [Debug] Background process 'Worker #05458060' started.
+2017-10-12 21:24:40.890 +02:00 [Debug] Background process 'Worker #1665c452' started.
+2017-10-12 21:24:40.893 +02:00 [Debug] Background process 'Worker #cc8fb816' started.
+2017-10-12 21:24:40.900 +02:00 [Debug] Background process 'Worker #cd8b86bc' started.
+2017-10-12 21:24:40.922 +02:00 [Debug] Background process 'Worker #e456117d' started.
+2017-10-12 21:24:40.922 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 21:24:40.928 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 21:24:40.928 +02:00 [Debug] Background process 'Worker #be8a934d' started.
+2017-10-12 21:26:20.083 +02:00 [Information] Start service...
+2017-10-12 21:26:20.605 +02:00 [Information] Starting Hangfire Server
+2017-10-12 21:26:20.606 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 21:26:20.607 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 21:26:20.608 +02:00 [Information]     Worker count: 20
+2017-10-12 21:26:20.609 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 21:26:20.610 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 21:26:20.611 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 21:26:20.626 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 21:26:20.725 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 21:26:20.760 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 21:26:20.772 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 21:26:20.778 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 21:26:20.792 +02:00 [Debug] Background process 'Worker #c5720993' started.
+2017-10-12 21:26:20.812 +02:00 [Debug] Background process 'Worker #763c9a38' started.
+2017-10-12 21:26:20.833 +02:00 [Debug] Background process 'Worker #655d3f97' started.
+2017-10-12 21:26:20.844 +02:00 [Debug] Background process 'Worker #fefa5a5a' started.
+2017-10-12 21:26:20.863 +02:00 [Debug] Background process 'Worker #3a3b2046' started.
+2017-10-12 21:26:20.870 +02:00 [Debug] Background process 'Worker #9bd2525c' started.
+2017-10-12 21:26:20.887 +02:00 [Debug] Background process 'Worker #759989fd' started.
+2017-10-12 21:26:20.891 +02:00 [Debug] Background process 'Worker #cecd4612' started.
+2017-10-12 21:26:20.893 +02:00 [Debug] Background process 'Worker #dd077fc1' started.
+2017-10-12 21:26:20.896 +02:00 [Debug] Background process 'Worker #fe2bb420' started.
+2017-10-12 21:26:20.908 +02:00 [Debug] Background process 'Worker #daff96f0' started.
+2017-10-12 21:26:20.908 +02:00 [Debug] Background process 'Worker #13be5f6b' started.
+2017-10-12 21:26:20.916 +02:00 [Debug] Background process 'Worker #1ba006a3' started.
+2017-10-12 21:26:20.920 +02:00 [Debug] Background process 'Worker #5752a693' started.
+2017-10-12 21:26:20.927 +02:00 [Debug] Background process 'Worker #011885d2' started.
+2017-10-12 21:26:20.929 +02:00 [Debug] Background process 'Worker #bcdc9630' started.
+2017-10-12 21:26:20.936 +02:00 [Debug] Background process 'Worker #afcc9c42' started.
+2017-10-12 21:26:20.937 +02:00 [Debug] Background process 'Worker #c3526851' started.
+2017-10-12 21:26:20.941 +02:00 [Debug] Background process 'Worker #81edba6c' started.
+2017-10-12 21:26:20.947 +02:00 [Debug] Background process 'Worker #163fdccb' started.
+2017-10-12 21:26:20.959 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 21:26:20.972 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 21:27:45.475 +02:00 [Information] Start service...
+2017-10-12 21:28:10.561 +02:00 [Information] Start service...
+2017-10-12 21:29:49.268 +02:00 [Information] Start service...
+2017-10-12 21:29:50.093 +02:00 [Information] Starting Hangfire Server
+2017-10-12 21:29:50.096 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 21:29:50.099 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 21:29:50.100 +02:00 [Information]     Worker count: 20
+2017-10-12 21:29:50.102 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 21:29:50.104 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 21:29:50.106 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 21:29:50.145 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 21:29:50.363 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 21:29:50.373 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 21:29:50.378 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 21:29:50.389 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 21:29:50.409 +02:00 [Debug] Background process 'Worker #40e09631' started.
+2017-10-12 21:29:50.409 +02:00 [Debug] Background process 'Worker #29272012' started.
+2017-10-12 21:29:50.419 +02:00 [Debug] Background process 'Worker #741860eb' started.
+2017-10-12 21:29:50.437 +02:00 [Debug] Background process 'Worker #930026f4' started.
+2017-10-12 21:29:50.478 +02:00 [Debug] Background process 'Worker #df7fc576' started.
+2017-10-12 21:29:50.488 +02:00 [Debug] Background process 'Worker #6c6ab6fd' started.
+2017-10-12 21:29:50.497 +02:00 [Debug] Background process 'Worker #e29b39fa' started.
+2017-10-12 21:29:50.499 +02:00 [Debug] Background process 'Worker #a03bcea5' started.
+2017-10-12 21:29:50.535 +02:00 [Debug] Background process 'Worker #e4f6deab' started.
+2017-10-12 21:29:50.538 +02:00 [Debug] Background process 'Worker #f0586c82' started.
+2017-10-12 21:29:50.543 +02:00 [Debug] Background process 'Worker #753be3a6' started.
+2017-10-12 21:29:50.553 +02:00 [Debug] Background process 'Worker #a5866552' started.
+2017-10-12 21:29:50.560 +02:00 [Debug] Background process 'Worker #f32519cb' started.
+2017-10-12 21:29:50.571 +02:00 [Debug] Background process 'Worker #89e55e46' started.
+2017-10-12 21:29:50.599 +02:00 [Debug] Background process 'Worker #32706334' started.
+2017-10-12 21:29:50.609 +02:00 [Debug] Background process 'Worker #070473d9' started.
+2017-10-12 21:29:50.612 +02:00 [Debug] Background process 'Worker #f71d06f8' started.
+2017-10-12 21:29:50.624 +02:00 [Debug] Background process 'Worker #3d28950e' started.
+2017-10-12 21:29:50.631 +02:00 [Debug] Background process 'Worker #bc012126' started.
+2017-10-12 21:29:50.633 +02:00 [Debug] Background process 'Worker #c1df9002' started.
+2017-10-12 21:29:50.639 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 21:29:50.643 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 21:31:07.352 +02:00 [Information] Start service...
+2017-10-12 21:31:08.057 +02:00 [Information] Starting Hangfire Server
+2017-10-12 21:31:08.060 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 21:31:08.063 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 21:31:08.065 +02:00 [Information]     Worker count: 20
+2017-10-12 21:31:08.068 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 21:31:08.069 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 21:31:08.071 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 21:31:08.119 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 21:31:08.271 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 21:31:08.277 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 21:31:08.278 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 21:31:08.301 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 21:31:08.313 +02:00 [Debug] Background process 'Worker #b53e1142' started.
+2017-10-12 21:31:08.333 +02:00 [Debug] Background process 'Worker #81cb4a4d' started.
+2017-10-12 21:31:08.346 +02:00 [Debug] Background process 'Worker #17963b4d' started.
+2017-10-12 21:31:08.373 +02:00 [Debug] Background process 'Worker #edb1e4d9' started.
+2017-10-12 21:31:08.380 +02:00 [Debug] Background process 'Worker #18788d51' started.
+2017-10-12 21:31:08.383 +02:00 [Debug] Background process 'Worker #6eaad1f1' started.
+2017-10-12 21:31:08.390 +02:00 [Debug] Background process 'Worker #8ed22c78' started.
+2017-10-12 21:31:08.394 +02:00 [Debug] Background process 'Worker #1c4c0e5b' started.
+2017-10-12 21:31:08.422 +02:00 [Debug] Background process 'Worker #44d52807' started.
+2017-10-12 21:31:08.423 +02:00 [Debug] Background process 'Worker #93cfe031' started.
+2017-10-12 21:31:08.428 +02:00 [Debug] Background process 'Worker #4ee6494d' started.
+2017-10-12 21:31:08.453 +02:00 [Debug] Background process 'Worker #505215f4' started.
+2017-10-12 21:31:08.480 +02:00 [Debug] Background process 'Worker #f9a5ddc2' started.
+2017-10-12 21:31:08.494 +02:00 [Debug] Background process 'Worker #da426bcc' started.
+2017-10-12 21:31:08.511 +02:00 [Debug] Background process 'Worker #12c4eee9' started.
+2017-10-12 21:31:08.530 +02:00 [Debug] Background process 'Worker #d51265a4' started.
+2017-10-12 21:31:08.552 +02:00 [Debug] Background process 'Worker #add5ff5f' started.
+2017-10-12 21:31:08.566 +02:00 [Debug] Background process 'Worker #0a1b0a66' started.
+2017-10-12 21:31:08.574 +02:00 [Debug] Background process 'Worker #4118daf6' started.
+2017-10-12 21:31:08.602 +02:00 [Debug] Background process 'Worker #a35ee24f' started.
+2017-10-12 21:31:08.621 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 21:31:08.629 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 21:32:24.459 +02:00 [Information] Start service...
+2017-10-12 21:32:25.026 +02:00 [Information] Starting Hangfire Server
+2017-10-12 21:32:25.028 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 21:32:25.030 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 21:32:25.031 +02:00 [Information]     Worker count: 20
+2017-10-12 21:32:25.032 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 21:32:25.033 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 21:32:25.034 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 21:32:25.051 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 21:32:25.173 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 21:32:25.174 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 21:32:25.185 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 21:32:25.178 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 21:32:25.196 +02:00 [Debug] Background process 'Worker #12e8d99c' started.
+2017-10-12 21:32:25.214 +02:00 [Debug] Background process 'Worker #f131856d' started.
+2017-10-12 21:32:25.233 +02:00 [Debug] Background process 'Worker #59ede49d' started.
+2017-10-12 21:32:25.281 +02:00 [Debug] Background process 'Worker #de3227e1' started.
+2017-10-12 21:32:25.282 +02:00 [Debug] Background process 'Worker #961d973a' started.
+2017-10-12 21:32:25.287 +02:00 [Debug] Background process 'Worker #376940a7' started.
+2017-10-12 21:32:25.289 +02:00 [Debug] Background process 'Worker #877a18a8' started.
+2017-10-12 21:32:25.352 +02:00 [Debug] Background process 'Worker #f568b4e3' started.
+2017-10-12 21:32:25.353 +02:00 [Debug] Background process 'Worker #68fcf6a2' started.
+2017-10-12 21:32:25.320 +02:00 [Debug] Background process 'Worker #3e9264ec' started.
+2017-10-12 21:32:25.372 +02:00 [Debug] Background process 'Worker #781c655e' started.
+2017-10-12 21:32:25.391 +02:00 [Debug] Background process 'Worker #75ece2f4' started.
+2017-10-12 21:32:25.404 +02:00 [Debug] Background process 'Worker #d5a2b191' started.
+2017-10-12 21:32:25.439 +02:00 [Debug] Background process 'Worker #af38f522' started.
+2017-10-12 21:32:25.447 +02:00 [Debug] Background process 'Worker #3ecbd4d4' started.
+2017-10-12 21:32:25.465 +02:00 [Debug] Background process 'Worker #458bd5c5' started.
+2017-10-12 21:32:25.476 +02:00 [Debug] Background process 'Worker #c410a67b' started.
+2017-10-12 21:32:25.486 +02:00 [Debug] Background process 'Worker #b8a8f2be' started.
+2017-10-12 21:32:25.495 +02:00 [Debug] Background process 'Worker #94a49bfb' started.
+2017-10-12 21:32:25.553 +02:00 [Debug] Background process 'Worker #0785ae78' started.
+2017-10-12 21:32:25.577 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 21:32:25.579 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 21:35:46.562 +02:00 [Information] Start service...
+2017-10-12 21:35:47.194 +02:00 [Information] Starting Hangfire Server
+2017-10-12 21:35:47.197 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 21:35:47.198 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 21:35:47.200 +02:00 [Information]     Worker count: 20
+2017-10-12 21:35:47.202 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 21:35:47.203 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 21:35:47.204 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 21:35:47.233 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 21:35:47.402 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 21:35:47.405 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 21:35:47.412 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 21:35:47.445 +02:00 [Debug] Background process 'Worker #dc48c2a9' started.
+2017-10-12 21:35:47.411 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 21:35:47.450 +02:00 [Debug] Background process 'Worker #a9350a63' started.
+2017-10-12 21:35:47.420 +02:00 [Debug] Background process 'Worker #b331d7d0' started.
+2017-10-12 21:35:47.465 +02:00 [Debug] Background process 'Worker #718ec09c' started.
+2017-10-12 21:35:47.475 +02:00 [Debug] Background process 'Worker #ba31afc3' started.
+2017-10-12 21:35:47.495 +02:00 [Debug] Background process 'Worker #21531e33' started.
+2017-10-12 21:35:47.490 +02:00 [Debug] Background process 'Worker #b9f783d9' started.
+2017-10-12 21:35:47.503 +02:00 [Debug] Background process 'Worker #b51f70f4' started.
+2017-10-12 21:35:47.506 +02:00 [Debug] Background process 'Worker #7028bea9' started.
+2017-10-12 21:35:47.569 +02:00 [Debug] Background process 'Worker #d52295dc' started.
+2017-10-12 21:35:47.577 +02:00 [Debug] Background process 'Worker #680e00a4' started.
+2017-10-12 21:35:47.582 +02:00 [Debug] Background process 'Worker #0001101f' started.
+2017-10-12 21:35:47.588 +02:00 [Debug] Background process 'Worker #fbb1442f' started.
+2017-10-12 21:35:47.594 +02:00 [Debug] Background process 'Worker #cfbae87a' started.
+2017-10-12 21:35:47.596 +02:00 [Debug] Background process 'Worker #eff849e4' started.
+2017-10-12 21:35:47.600 +02:00 [Debug] Background process 'Worker #41a39f28' started.
+2017-10-12 21:35:47.625 +02:00 [Debug] Background process 'Worker #bf5dc6ac' started.
+2017-10-12 21:35:47.630 +02:00 [Debug] Background process 'Worker #8c0a3590' started.
+2017-10-12 21:35:47.642 +02:00 [Debug] Background process 'Worker #d7095de4' started.
+2017-10-12 21:35:47.649 +02:00 [Debug] Background process 'Worker #9daeedea' started.
+2017-10-12 21:35:47.658 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 21:35:47.679 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 21:40:26.839 +02:00 [Information] Start service...
+2017-10-12 21:40:27.319 +02:00 [Information] Starting Hangfire Server
+2017-10-12 21:40:27.320 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 21:40:27.321 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 21:40:27.322 +02:00 [Information]     Worker count: 20
+2017-10-12 21:40:27.323 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 21:40:27.324 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 21:40:27.325 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 21:40:27.359 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 21:40:27.442 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 21:40:27.453 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 21:40:27.477 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 21:40:27.504 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 21:40:27.523 +02:00 [Debug] Background process 'Worker #b6bcaf1f' started.
+2017-10-12 21:40:27.573 +02:00 [Debug] Background process 'Worker #f3326b30' started.
+2017-10-12 21:40:27.577 +02:00 [Debug] Background process 'Worker #8d5079fa' started.
+2017-10-12 21:40:27.579 +02:00 [Debug] Background process 'Worker #8958bf5e' started.
+2017-10-12 21:40:27.583 +02:00 [Debug] Background process 'Worker #1b681731' started.
+2017-10-12 21:40:27.584 +02:00 [Debug] Background process 'Worker #f61f9c87' started.
+2017-10-12 21:40:27.632 +02:00 [Debug] Background process 'Worker #4049e16f' started.
+2017-10-12 21:40:27.632 +02:00 [Debug] Background process 'Worker #3b557b00' started.
+2017-10-12 21:40:27.634 +02:00 [Debug] Background process 'Worker #130beae2' started.
+2017-10-12 21:40:27.658 +02:00 [Debug] Background process 'Worker #65fb6218' started.
+2017-10-12 21:40:27.658 +02:00 [Debug] Background process 'Worker #d3744aa6' started.
+2017-10-12 21:40:27.687 +02:00 [Debug] Background process 'Worker #320caa49' started.
+2017-10-12 21:40:27.698 +02:00 [Debug] Background process 'Worker #60187177' started.
+2017-10-12 21:40:27.726 +02:00 [Debug] Background process 'Worker #6a4f1dee' started.
+2017-10-12 21:40:27.726 +02:00 [Debug] Background process 'Worker #489091e1' started.
+2017-10-12 21:40:27.741 +02:00 [Debug] Background process 'Worker #762593a5' started.
+2017-10-12 21:40:27.746 +02:00 [Debug] Background process 'Worker #39e49564' started.
+2017-10-12 21:40:27.761 +02:00 [Debug] Background process 'Worker #f1ed415e' started.
+2017-10-12 21:40:27.761 +02:00 [Debug] Background process 'Worker #6bb64dd5' started.
+2017-10-12 21:40:27.763 +02:00 [Debug] Background process 'Worker #b31c0170' started.
+2017-10-12 21:40:27.774 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 21:40:27.776 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 21:41:01.392 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:41:01.539 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:41:01.893 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:41:01.898 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:42:00.169 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:42:02.277 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:42:02.285 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:42:02.290 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:42:05.242 +02:00 [Information] Stop service...
+2017-10-12 21:43:00.175 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:43:00.183 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:43:00.189 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:43:00.198 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:44:00.199 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:44:00.251 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:44:00.258 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:44:00.274 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:45:00.216 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:45:00.226 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:45:00.232 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:45:00.262 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:46:00.220 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:46:00.302 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:46:00.310 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:46:00.390 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:47:00.239 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:47:00.299 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:47:00.307 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:47:00.320 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:48:00.247 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:48:00.373 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:48:00.379 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:48:00.386 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:49:00.270 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:49:00.282 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:49:00.288 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:49:00.302 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:50:00.282 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:50:00.299 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:50:00.304 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:50:00.311 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:51:00.294 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:51:00.300 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:51:00.318 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:51:00.341 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:52:00.299 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:52:00.315 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:52:00.329 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:52:00.340 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:53:00.325 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:53:00.339 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:53:00.352 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:53:00.363 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 21:54:00.331 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 21:54:00.400 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 21:54:00.408 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 21:54:00.417 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 22:00:15.616 +02:00 [Information] Start service...
+2017-10-12 22:00:16.275 +02:00 [Information] Starting Hangfire Server
+2017-10-12 22:00:16.277 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 22:00:16.278 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 22:00:16.279 +02:00 [Information]     Worker count: 20
+2017-10-12 22:00:16.280 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 22:00:16.281 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 22:00:16.282 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 22:00:16.314 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 22:00:16.433 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 22:00:16.433 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 22:00:16.443 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 22:00:16.464 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 22:00:16.495 +02:00 [Debug] Background process 'Worker #b5eca77a' started.
+2017-10-12 22:00:16.536 +02:00 [Debug] Background process 'Worker #5712c42f' started.
+2017-10-12 22:00:16.553 +02:00 [Debug] Background process 'Worker #26ce8331' started.
+2017-10-12 22:00:16.558 +02:00 [Debug] Background process 'Worker #d2a6bd0c' started.
+2017-10-12 22:00:16.565 +02:00 [Debug] Background process 'Worker #9043ea25' started.
+2017-10-12 22:00:16.614 +02:00 [Debug] Background process 'Worker #c0ee79f5' started.
+2017-10-12 22:00:16.594 +02:00 [Debug] Background process 'Worker #333f86ad' started.
+2017-10-12 22:00:16.616 +02:00 [Debug] Background process 'Worker #c4df2a8c' started.
+2017-10-12 22:00:16.622 +02:00 [Debug] Background process 'Worker #50cdda55' started.
+2017-10-12 22:00:16.627 +02:00 [Debug] Background process 'Worker #0c197c5f' started.
+2017-10-12 22:00:16.634 +02:00 [Debug] Background process 'Worker #eca23053' started.
+2017-10-12 22:00:16.639 +02:00 [Debug] Background process 'Worker #919a21ad' started.
+2017-10-12 22:00:16.646 +02:00 [Debug] Background process 'Worker #5e5f6590' started.
+2017-10-12 22:00:16.647 +02:00 [Debug] Background process 'Worker #ebb6dd9e' started.
+2017-10-12 22:00:16.655 +02:00 [Debug] Background process 'Worker #358b1415' started.
+2017-10-12 22:00:16.660 +02:00 [Debug] Background process 'Worker #5e033d32' started.
+2017-10-12 22:00:16.676 +02:00 [Debug] Background process 'Worker #06084af4' started.
+2017-10-12 22:00:16.684 +02:00 [Debug] Background process 'Worker #460b335e' started.
+2017-10-12 22:00:16.684 +02:00 [Debug] Background process 'Worker #c57bf96c' started.
+2017-10-12 22:00:16.686 +02:00 [Debug] Background process 'Worker #98bd48df' started.
+2017-10-12 22:00:16.690 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 22:00:16.693 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 22:00:16.917 +02:00 [Information] Stop service...
+2017-10-12 22:00:33.947 +02:00 [Information] Start service...
+2017-10-12 22:00:34.436 +02:00 [Information] Starting Hangfire Server
+2017-10-12 22:00:34.437 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 22:00:34.438 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 22:00:34.439 +02:00 [Information]     Worker count: 20
+2017-10-12 22:00:34.440 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 22:00:34.442 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 22:00:34.442 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 22:00:34.456 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 22:00:34.570 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 22:00:34.579 +02:00 [Information] Stop service...
+2017-10-12 22:00:34.600 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 22:00:34.634 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 22:00:34.640 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 22:00:34.658 +02:00 [Debug] Background process 'Worker #50a6e622' started.
+2017-10-12 22:00:34.659 +02:00 [Debug] Background process 'Worker #51f04660' started.
+2017-10-12 22:00:34.695 +02:00 [Debug] Background process 'Worker #9f639346' started.
+2017-10-12 22:00:34.753 +02:00 [Debug] Background process 'Worker #d2a092e5' started.
+2017-10-12 22:00:34.772 +02:00 [Debug] Background process 'Worker #1f834682' started.
+2017-10-12 22:00:34.777 +02:00 [Debug] Background process 'Worker #8d9a6fa2' started.
+2017-10-12 22:00:34.793 +02:00 [Debug] Background process 'Worker #e3a4977b' started.
+2017-10-12 22:00:34.811 +02:00 [Debug] Background process 'Worker #07864ee0' started.
+2017-10-12 22:00:34.811 +02:00 [Debug] Background process 'Worker #3d1d7b39' started.
+2017-10-12 22:00:34.815 +02:00 [Debug] Background process 'Worker #55a535c1' started.
+2017-10-12 22:00:34.827 +02:00 [Debug] Background process 'Worker #4bad3879' started.
+2017-10-12 22:00:34.841 +02:00 [Debug] Background process 'Worker #5fd3346f' started.
+2017-10-12 22:00:34.843 +02:00 [Debug] Background process 'Worker #3ba222a5' started.
+2017-10-12 22:00:34.849 +02:00 [Debug] Background process 'Worker #f70e2d97' started.
+2017-10-12 22:00:34.867 +02:00 [Debug] Background process 'Worker #52079676' started.
+2017-10-12 22:00:34.879 +02:00 [Debug] Background process 'Worker #d4fd952f' started.
+2017-10-12 22:00:34.880 +02:00 [Debug] Background process 'Worker #37715a27' started.
+2017-10-12 22:00:34.883 +02:00 [Debug] Background process 'Worker #f518f4ee' started.
+2017-10-12 22:00:34.897 +02:00 [Debug] Background process 'Worker #1377f7bf' started.
+2017-10-12 22:00:34.908 +02:00 [Debug] Background process 'Worker #5e598d15' started.
+2017-10-12 22:00:34.917 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 22:00:34.918 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 22:01:55.010 +02:00 [Information] Start service...
+2017-10-12 22:01:55.553 +02:00 [Information] Starting Hangfire Server
+2017-10-12 22:01:55.555 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 22:01:55.556 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 22:01:55.557 +02:00 [Information]     Worker count: 20
+2017-10-12 22:01:55.559 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 22:01:55.560 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 22:01:55.561 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 22:01:55.583 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 22:01:55.685 +02:00 [Information] Stop service...
+2017-10-12 22:01:55.733 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 22:01:55.739 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 22:01:55.739 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 22:01:55.787 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 22:01:55.921 +02:00 [Debug] Background process 'Worker #0f498b11' started.
+2017-10-12 22:01:55.942 +02:00 [Debug] Background process 'Worker #987afcda' started.
+2017-10-12 22:01:55.968 +02:00 [Debug] Background process 'Worker #78beacd4' started.
+2017-10-12 22:01:55.971 +02:00 [Debug] Background process 'Worker #44dba158' started.
+2017-10-12 22:01:55.995 +02:00 [Debug] Background process 'Worker #f3a530fa' started.
+2017-10-12 22:01:56.021 +02:00 [Debug] Background process 'Worker #caf4609d' started.
+2017-10-12 22:01:56.029 +02:00 [Debug] Background process 'Worker #73db5173' started.
+2017-10-12 22:01:56.030 +02:00 [Debug] Background process 'Worker #72b1cd1b' started.
+2017-10-12 22:01:56.036 +02:00 [Debug] Background process 'Worker #4886dd4f' started.
+2017-10-12 22:01:56.036 +02:00 [Debug] Background process 'Worker #2e448a5c' started.
+2017-10-12 22:01:56.041 +02:00 [Debug] Background process 'Worker #a9bafffd' started.
+2017-10-12 22:01:56.055 +02:00 [Debug] Background process 'Worker #56d7d8ec' started.
+2017-10-12 22:01:56.057 +02:00 [Debug] Background process 'Worker #15c6b35e' started.
+2017-10-12 22:01:56.057 +02:00 [Debug] Background process 'Worker #5af2b3e2' started.
+2017-10-12 22:01:56.061 +02:00 [Debug] Background process 'Worker #96866b96' started.
+2017-10-12 22:01:56.065 +02:00 [Debug] Background process 'Worker #a07216c6' started.
+2017-10-12 22:01:56.072 +02:00 [Debug] Background process 'Worker #80718030' started.
+2017-10-12 22:01:56.079 +02:00 [Debug] Background process 'Worker #a831d057' started.
+2017-10-12 22:01:56.080 +02:00 [Debug] Background process 'Worker #24e63f4a' started.
+2017-10-12 22:01:56.087 +02:00 [Debug] Background process 'Worker #3b952378' started.
+2017-10-12 22:01:56.088 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 22:01:56.092 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 22:15:31.488 +02:00 [Information] Start service...
+2017-10-12 22:15:32.175 +02:00 [Information] Starting Hangfire Server
+2017-10-12 22:15:32.178 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 22:15:32.180 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 22:15:32.181 +02:00 [Information]     Worker count: 20
+2017-10-12 22:15:32.183 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 22:15:32.185 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 22:15:32.186 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 22:15:32.216 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 22:15:32.362 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 22:15:32.370 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 22:15:32.404 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 22:15:32.425 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 22:15:32.545 +02:00 [Debug] Background process 'Worker #c90093e4' started.
+2017-10-12 22:15:32.583 +02:00 [Debug] Background process 'Worker #6e84458b' started.
+2017-10-12 22:15:32.583 +02:00 [Debug] Background process 'Worker #5ff2d297' started.
+2017-10-12 22:15:32.641 +02:00 [Debug] Background process 'Worker #17513530' started.
+2017-10-12 22:15:32.652 +02:00 [Debug] Background process 'Worker #51f9e904' started.
+2017-10-12 22:15:32.658 +02:00 [Debug] Background process 'Worker #bf0a9578' started.
+2017-10-12 22:15:32.664 +02:00 [Debug] Background process 'Worker #de4f5240' started.
+2017-10-12 22:15:32.684 +02:00 [Debug] Background process 'Worker #8732c5bc' started.
+2017-10-12 22:15:32.686 +02:00 [Debug] Background process 'Worker #1fb9c735' started.
+2017-10-12 22:15:32.693 +02:00 [Debug] Background process 'Worker #2334fa60' started.
+2017-10-12 22:15:32.701 +02:00 [Debug] Background process 'Worker #ca5bead1' started.
+2017-10-12 22:15:32.708 +02:00 [Debug] Background process 'Worker #fd8ff80f' started.
+2017-10-12 22:15:32.724 +02:00 [Debug] Background process 'Worker #92a84a87' started.
+2017-10-12 22:15:32.724 +02:00 [Debug] Background process 'Worker #c272f021' started.
+2017-10-12 22:15:32.730 +02:00 [Debug] Background process 'Worker #aa047fde' started.
+2017-10-12 22:15:32.740 +02:00 [Debug] Background process 'Worker #c7b89a76' started.
+2017-10-12 22:15:32.741 +02:00 [Debug] Background process 'Worker #306431f9' started.
+2017-10-12 22:15:32.747 +02:00 [Debug] Background process 'Worker #1530813d' started.
+2017-10-12 22:15:32.768 +02:00 [Debug] Background process 'Worker #6fc5d28f' started.
+2017-10-12 22:15:32.786 +02:00 [Debug] Background process 'Worker #79b234ff' started.
+2017-10-12 22:15:32.795 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 22:15:32.806 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 22:15:39.768 +02:00 [Information] Stop service...
+2017-10-12 22:17:27.476 +02:00 [Information] Start service...
+2017-10-12 22:17:27.786 +02:00 [Information] Starting Hangfire Server
+2017-10-12 22:17:27.790 +02:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-10-12 22:17:27.790 +02:00 [Information] Using the following options for Hangfire Server:
+2017-10-12 22:17:27.791 +02:00 [Information]     Worker count: 20
+2017-10-12 22:17:27.792 +02:00 [Information]     Listening queues: 'default'
+2017-10-12 22:17:27.793 +02:00 [Information]     Shutdown timeout: 00:00:15
+2017-10-12 22:17:27.794 +02:00 [Information]     Schedule polling interval: 00:00:15
+2017-10-12 22:17:27.808 +02:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-10-12 22:17:28.080 +02:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-10-12 22:17:28.134 +02:00 [Debug] Background process 'ServerWatchdog' started.
+2017-10-12 22:17:28.144 +02:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-10-12 22:17:28.271 +02:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-10-12 22:17:28.300 +02:00 [Debug] Background process 'Worker #b14b48a6' started.
+2017-10-12 22:17:28.322 +02:00 [Debug] Background process 'Worker #62ca7703' started.
+2017-10-12 22:17:28.325 +02:00 [Debug] Background process 'Worker #517b1ea1' started.
+2017-10-12 22:17:28.382 +02:00 [Debug] Background process 'Worker #91bf72b2' started.
+2017-10-12 22:17:28.399 +02:00 [Debug] Background process 'Worker #31868db2' started.
+2017-10-12 22:17:28.412 +02:00 [Debug] Background process 'Worker #0a12534a' started.
+2017-10-12 22:17:28.420 +02:00 [Debug] Background process 'Worker #264153c5' started.
+2017-10-12 22:17:28.428 +02:00 [Debug] Background process 'Worker #5e35d01a' started.
+2017-10-12 22:17:28.439 +02:00 [Debug] Background process 'Worker #54d32cee' started.
+2017-10-12 22:17:28.440 +02:00 [Debug] Background process 'Worker #a68b401a' started.
+2017-10-12 22:17:28.442 +02:00 [Debug] Background process 'Worker #658f931d' started.
+2017-10-12 22:17:28.449 +02:00 [Debug] Background process 'Worker #6550c35b' started.
+2017-10-12 22:17:28.459 +02:00 [Debug] Background process 'Worker #814846c6' started.
+2017-10-12 22:17:28.468 +02:00 [Debug] Background process 'Worker #6d6a211a' started.
+2017-10-12 22:17:28.471 +02:00 [Debug] Background process 'Worker #02efab9f' started.
+2017-10-12 22:17:28.471 +02:00 [Debug] Background process 'Worker #765d96e8' started.
+2017-10-12 22:17:28.476 +02:00 [Debug] Background process 'Worker #31c3e3a1' started.
+2017-10-12 22:17:28.500 +02:00 [Debug] Background process 'Worker #e7f4058b' started.
+2017-10-12 22:17:28.500 +02:00 [Debug] Background process 'Worker #d35b0c78' started.
+2017-10-12 22:17:28.511 +02:00 [Debug] Background process 'Worker #d175e407' started.
+2017-10-12 22:17:28.514 +02:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-10-12 22:17:28.518 +02:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-10-12 22:18:00.949 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 22:18:01.106 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 22:18:01.557 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 22:18:01.566 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 22:19:00.702 +02:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-10-12 22:19:00.712 +02:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-10-12 22:19:00.717 +02:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-10-12 22:19:00.725 +02:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-10-12 22:19:03.507 +02:00 [Information] Stop service...

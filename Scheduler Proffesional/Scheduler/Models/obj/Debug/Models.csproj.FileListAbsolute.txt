@@ -1,0 +1,6 @@
+D:\backup ZTP\Sheduler proffesional\Scheduler\Models\bin\Debug\Models.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Models\bin\Debug\Models.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\backup ZTP\Sheduler proffesional\Scheduler\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\backup ZTP\Sheduler proffesional\Scheduler\Models\obj\Debug\Models.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Models\obj\Debug\Models.pdb

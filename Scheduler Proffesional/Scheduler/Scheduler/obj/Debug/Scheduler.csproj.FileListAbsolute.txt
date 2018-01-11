@@ -1,0 +1,449 @@
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.Scheduler.exe.config
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\netstandard.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.AppContext.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Collections.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Collections.Specialized.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.ComponentModel.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Console.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Data.Common.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Globalization.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.Compression.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.FileSystem.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.Pipes.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Linq.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Linq.Expressions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Linq.Parallel.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Linq.Queryable.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.Http.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.NameResolution.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.Ping.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.Requests.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.Security.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.Sockets.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.WebSockets.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.ObjectModel.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Reflection.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Resources.Reader.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Resources.Writer.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.Handles.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Security.Claims.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Security.Principal.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Security.SecureString.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Text.Encoding.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Threading.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Threading.Tasks.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Threading.Thread.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Threading.Timer.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.ValueTuple.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Xml.XDocument.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Xml.XPath.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\CsvHelper.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\CsvParser.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FluentEmail.Core.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FluentEmail.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FluentEmail.Mailgun.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FluentEmail.Razor.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FParsec.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FParsecCS.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FSharp.Core.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Mvc.Mailer.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\NLog.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\nunit.framework.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\RazorEngine.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\RazorLight.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\RestSharp.NetCore.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.Literate.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.RollingFile.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Buffers.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Collections.Immutable.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Web.Razor.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Topshelf.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Topshelf.NLog.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Xipton.Razor.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\CsvHelper.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\CsvHelper.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\CsvParser.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\CsvParser.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FParsec.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FParsecCS.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FParsecCS.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\FSharp.Core.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\NLog.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\nunit.framework.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\RazorEngine.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\RazorEngine.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.Literate.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.RollingFile.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Collections.Immutable.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Topshelf.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Topshelf.NLog.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Hangfire.Core.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Hangfire.SqlServer.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Owin.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Hangfire.Core.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Hangfire.SqlServer.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Common.Logging.Core.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Common.Logging.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Quartz.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Web.Http.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Common.Logging.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Common.Logging.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Common.Logging.Core.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Common.Logging.Core.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Quartz.pdb
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Quartz.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Web.Http.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\arutkowski\source\repos\Scheduler\Scheduler\bin\Debug\Hangfire.MemoryStorage.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\obj\Debug\Scheduler.csprojResolveAssemblyReference.cache
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.Scheduler.exe.config
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.CoreCompileInputs.cache
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\netstandard.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.AppContext.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Collections.Concurrent.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Collections.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Collections.NonGeneric.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Collections.Specialized.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.ComponentModel.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.ComponentModel.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Console.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Data.Common.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Contracts.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Debug.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Process.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Tools.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.Tracing.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Drawing.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Dynamic.Runtime.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Globalization.Calendars.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Globalization.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Globalization.Extensions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.Compression.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.FileSystem.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.IsolatedStorage.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.Pipes.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Linq.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Linq.Expressions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Linq.Parallel.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Linq.Queryable.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.Http.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.NameResolution.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.NetworkInformation.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.Ping.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.Requests.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.Security.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.Sockets.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.WebSockets.Client.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.WebSockets.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.ObjectModel.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Reflection.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Reflection.Extensions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Reflection.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Resources.Reader.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Resources.ResourceManager.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Resources.Writer.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.Extensions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.Handles.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.InteropServices.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.Numerics.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Security.Claims.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Security.Principal.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Security.SecureString.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Text.Encoding.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Text.RegularExpressions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Threading.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Threading.Overlapped.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Threading.Tasks.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Threading.Thread.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Threading.ThreadPool.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Threading.Timer.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.ValueTuple.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Xml.ReaderWriter.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Xml.XDocument.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Xml.XmlDocument.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Xml.XmlSerializer.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Xml.XPath.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Common.Logging.Core.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Common.Logging.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\CsvHelper.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\CsvParser.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FluentEmail.Core.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FluentEmail.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FluentEmail.Mailgun.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FluentEmail.Razor.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FParsec.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FParsecCS.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FSharp.Core.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\GreenPipes.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Hangfire.Core.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Hangfire.MemoryStorage.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Hangfire.SqlServer.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\MassTransit.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\MassTransit.RabbitMqTransport.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Options.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Mvc.Mailer.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\NewId.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Newtonsoft.Json.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\NLog.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\nunit.framework.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Owin.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Quartz.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\RabbitMQ.Client.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\RazorEngine.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\RazorLight.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\RestSharp.NetCore.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.Console.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.File.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.Literate.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.RollingFile.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Buffers.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Collections.Immutable.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.Http.Formatting.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Reflection.Metadata.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Text.Encodings.Web.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Web.Http.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Web.Http.Owin.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Web.Razor.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Topshelf.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Topshelf.NLog.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Xipton.Razor.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Common.Logging.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Common.Logging.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Common.Logging.Core.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Common.Logging.Core.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\CsvHelper.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\CsvHelper.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\CsvParser.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\CsvParser.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FParsec.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FParsecCS.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FParsecCS.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\FSharp.Core.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\GreenPipes.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Hangfire.Core.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Hangfire.SqlServer.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\MassTransit.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\MassTransit.RabbitMqTransport.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Options.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Newtonsoft.Json.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\NLog.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\nunit.framework.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Quartz.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Quartz.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\RabbitMQ.Client.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\RazorEngine.pdb
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\RazorEngine.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.Console.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.File.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.Literate.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Serilog.Sinks.RollingFile.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Collections.Immutable.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Net.Http.Formatting.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Reflection.Metadata.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Text.Encodings.Web.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Web.Http.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\System.Web.Http.Owin.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Topshelf.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Topshelf.NLog.xml
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\es\Hangfire.Core.resources.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\zh\Hangfire.Core.resources.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Models.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\bin\Debug\Models.pdb

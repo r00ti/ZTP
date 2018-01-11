@@ -1,0 +1,27 @@
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.csprojResolveAssemblyReference.cache
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.csproj.CoreCompileInputs.cache
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.exe.config
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.exe
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.pdb
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\bin\Debug\GUSAanalyzer.dll
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\bin\Debug\GUSAanalyzer.pdb
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.exe
+C:\Users\arutkowski\source\repos\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.pdb
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.exe.config
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.exe
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.pdb
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\bin\Debug\GUSAanalyzer.dll
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\bin\Debug\GUSAanalyzer.pdb
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.csprojResolveAssemblyReference.cache
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.csproj.CoreCompileInputs.cache
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.exe
+C:\Users\Marcin Wójcik\source\repos\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.pdb
+d:\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.exe.config
+d:\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.exe
+d:\GUSAanalyzer\Runnerr\bin\Debug\Runnerr.pdb
+d:\GUSAanalyzer\Runnerr\bin\Debug\GUSAanalyzer.dll
+d:\GUSAanalyzer\Runnerr\bin\Debug\GUSAanalyzer.pdb
+d:\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.csprojResolveAssemblyReference.cache
+d:\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.csproj.CoreCompileInputs.cache
+d:\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.exe
+d:\GUSAanalyzer\Runnerr\obj\Debug\Runnerr.pdb

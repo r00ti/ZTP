@@ -1,0 +1,11 @@
+c:\users\arutkowski\source\repos\Multikulti\Multikulti\bin\Debug\netcoreapp2.0\Multikulti.deps.json
+c:\users\arutkowski\source\repos\Multikulti\Multikulti\bin\Debug\netcoreapp2.0\Multikulti.runtimeconfig.json
+c:\users\arutkowski\source\repos\Multikulti\Multikulti\bin\Debug\netcoreapp2.0\Multikulti.runtimeconfig.dev.json
+c:\users\arutkowski\source\repos\Multikulti\Multikulti\bin\Debug\netcoreapp2.0\Multikulti.dll
+c:\users\arutkowski\source\repos\Multikulti\Multikulti\obj\Debug\netcoreapp2.0\Multikulti.csprojResolveAssemblyReference.cache
+c:\users\arutkowski\source\repos\Multikulti\Multikulti\obj\Debug\netcoreapp2.0\Multikulti.csproj.CoreCompileInputs.cache
+c:\users\arutkowski\source\repos\Multikulti\Multikulti\obj\Debug\netcoreapp2.0\Multikulti.AssemblyInfoInputs.cache
+c:\users\arutkowski\source\repos\Multikulti\Multikulti\obj\Debug\netcoreapp2.0\Multikulti.AssemblyInfo.cs
+C:\Users\arutkowski\source\repos\Multikulti\Multikulti\bin\Debug\netcoreapp2.0\Multikulti.pdb
+C:\Users\arutkowski\source\repos\Multikulti\Multikulti\obj\Debug\netcoreapp2.0\Multikulti.dll
+C:\Users\arutkowski\source\repos\Multikulti\Multikulti\obj\Debug\netcoreapp2.0\Multikulti.pdb

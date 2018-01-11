@@ -1,0 +1,6 @@
+C:\Users\arutkowski\source\repos\GUSAanalyzer\GUSAanalyzer\bin\Debug\GUSAanalyzer.dll
+C:\Users\arutkowski\source\repos\GUSAanalyzer\GUSAanalyzer\bin\Debug\GUSAanalyzer.pdb
+C:\Users\arutkowski\source\repos\GUSAanalyzer\GUSAanalyzer\obj\Debug\GUSAanalyzer.csprojResolveAssemblyReference.cache
+C:\Users\arutkowski\source\repos\GUSAanalyzer\GUSAanalyzer\obj\Debug\GUSAanalyzer.csproj.CoreCompileInputs.cache
+C:\Users\arutkowski\source\repos\GUSAanalyzer\GUSAanalyzer\obj\Debug\GUSAanalyzer.dll
+C:\Users\arutkowski\source\repos\GUSAanalyzer\GUSAanalyzer\obj\Debug\GUSAanalyzer.pdb

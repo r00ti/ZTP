@@ -1,0 +1,52 @@
+2017-11-22 08:41:49.983 +01:00 [Information] Start service...
+2017-11-22 08:41:50.942 +01:00 [Information] Starting Hangfire Server
+2017-11-22 08:41:50.945 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-11-22 08:41:50.946 +01:00 [Information] Using the following options for Hangfire Server:
+2017-11-22 08:41:50.947 +01:00 [Information]     Worker count: 20
+2017-11-22 08:41:50.949 +01:00 [Information]     Listening queues: 'default'
+2017-11-22 08:41:50.950 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-11-22 08:41:50.951 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-11-22 08:41:50.972 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-11-22 08:41:51.128 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-11-22 08:41:51.135 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-11-22 08:41:51.139 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-11-22 08:41:51.139 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-11-22 08:41:51.191 +01:00 [Debug] Background process 'Worker #f10c81d6' started.
+2017-11-22 08:41:51.191 +01:00 [Debug] Background process 'Worker #2a884282' started.
+2017-11-22 08:41:51.215 +01:00 [Debug] Background process 'Worker #42ca4c4b' started.
+2017-11-22 08:41:51.255 +01:00 [Debug] Background process 'Worker #22cf1057' started.
+2017-11-22 08:41:51.272 +01:00 [Debug] Background process 'Worker #f4d5c2ab' started.
+2017-11-22 08:41:51.293 +01:00 [Debug] Background process 'Worker #a85a6c17' started.
+2017-11-22 08:41:51.294 +01:00 [Debug] Background process 'Worker #455829ef' started.
+2017-11-22 08:41:51.301 +01:00 [Debug] Background process 'Worker #c36aaefc' started.
+2017-11-22 08:41:51.327 +01:00 [Debug] Background process 'Worker #1eb24b1d' started.
+2017-11-22 08:41:51.363 +01:00 [Debug] Background process 'Worker #18eaa787' started.
+2017-11-22 08:41:51.356 +01:00 [Debug] Background process 'Worker #95d47302' started.
+2017-11-22 08:41:51.365 +01:00 [Debug] Background process 'Worker #aea8758d' started.
+2017-11-22 08:41:51.405 +01:00 [Debug] Background process 'Worker #57bb58a4' started.
+2017-11-22 08:41:51.406 +01:00 [Debug] Background process 'Worker #3f0617a8' started.
+2017-11-22 08:41:51.414 +01:00 [Debug] Background process 'Worker #7a746c65' started.
+2017-11-22 08:41:51.413 +01:00 [Debug] Background process 'Worker #819cc807' started.
+2017-11-22 08:41:51.449 +01:00 [Debug] Background process 'Worker #6f28381e' started.
+2017-11-22 08:41:51.457 +01:00 [Debug] Background process 'Worker #eeb17347' started.
+2017-11-22 08:41:51.460 +01:00 [Debug] Background process 'Worker #d7c27cae' started.
+2017-11-22 08:41:51.470 +01:00 [Debug] Background process 'Worker #6ac3db42' started.
+2017-11-22 08:41:51.478 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-11-22 08:41:51.498 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-11-22 08:42:01.114 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-11-22 08:42:01.271 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-11-22 08:42:01.402 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-11-22 08:42:01.407 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-11-22 08:57:32.605 +01:00 [Information] Start service...
+2017-11-22 09:12:41.560 +01:00 [Information] Start service...
+2017-11-22 09:14:43.249 +01:00 [Information] Start service...
+2017-11-22 09:22:45.840 +01:00 [Information] Start service...
+2017-11-22 11:03:12.596 +01:00 [Information] Start service...
+2017-11-22 12:04:30.835 +01:00 [Information] Start service...
+2017-11-22 12:06:23.551 +01:00 [Information] Start service...
+2017-11-22 12:06:57.271 +01:00 [Information] Start service...
+2017-11-22 12:15:46.970 +01:00 [Information] Start service...
+2017-11-22 12:16:33.237 +01:00 [Information] Start service...
+2017-11-22 13:19:18.551 +01:00 [Information] Start service...
+2017-11-22 13:22:18.250 +01:00 [Information] Start service...
+2017-11-22 13:29:20.857 +01:00 [Information] Start service...
