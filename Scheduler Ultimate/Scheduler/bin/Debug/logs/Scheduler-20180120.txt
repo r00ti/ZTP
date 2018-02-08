@@ -1,0 +1,266 @@
+2018-01-20 15:02:43.036 +01:00 [Information] Start service...
+2018-01-20 15:07:22.802 +01:00 [Information] Start service...
+2018-01-20 15:37:49.320 +01:00 [Information] Start service...
+2018-01-20 15:45:06.955 +01:00 [Information] Start service...
+2018-01-20 15:52:24.291 +01:00 [Information] Start service...
+2018-01-20 15:56:06.115 +01:00 [Information] Start service...
+2018-01-20 15:56:07.961 +01:00 [Information] Starting Hangfire Server
+2018-01-20 15:56:07.963 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2018-01-20 15:56:07.964 +01:00 [Information] Using the following options for Hangfire Server:
+2018-01-20 15:56:07.965 +01:00 [Information]     Worker count: 20
+2018-01-20 15:56:07.966 +01:00 [Information]     Listening queues: 'default'
+2018-01-20 15:56:07.967 +01:00 [Information]     Shutdown timeout: 00:00:15
+2018-01-20 15:56:07.968 +01:00 [Information]     Schedule polling interval: 00:00:15
+2018-01-20 15:56:07.993 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2018-01-20 15:56:08.205 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2018-01-20 15:56:08.210 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2018-01-20 15:56:08.211 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2018-01-20 15:56:08.224 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2018-01-20 15:56:08.273 +01:00 [Debug] Background process 'Worker #6724d2a7' started.
+2018-01-20 15:56:08.312 +01:00 [Debug] Background process 'Worker #47b7a18b' started.
+2018-01-20 15:56:08.314 +01:00 [Debug] Background process 'Worker #fd43a547' started.
+2018-01-20 15:56:08.363 +01:00 [Debug] Background process 'Worker #03107676' started.
+2018-01-20 15:56:08.378 +01:00 [Debug] Background process 'Worker #b027f71b' started.
+2018-01-20 15:56:08.378 +01:00 [Debug] Background process 'Worker #e8cc86cf' started.
+2018-01-20 15:56:08.436 +01:00 [Debug] Background process 'Worker #4f5f8874' started.
+2018-01-20 15:56:08.451 +01:00 [Debug] Background process 'Worker #900819fb' started.
+2018-01-20 15:56:08.456 +01:00 [Debug] Background process 'Worker #732b44dc' started.
+2018-01-20 15:56:08.464 +01:00 [Debug] Background process 'Worker #1d4dd321' started.
+2018-01-20 15:56:08.506 +01:00 [Debug] Background process 'Worker #be2167e9' started.
+2018-01-20 15:56:08.519 +01:00 [Debug] Background process 'Worker #e01f217e' started.
+2018-01-20 15:56:08.535 +01:00 [Debug] Background process 'Worker #23f7d676' started.
+2018-01-20 15:56:08.581 +01:00 [Debug] Background process 'Worker #69a0499e' started.
+2018-01-20 15:56:08.582 +01:00 [Debug] Background process 'Worker #72d8aa60' started.
+2018-01-20 15:56:08.591 +01:00 [Debug] Background process 'Worker #b3e6ec4c' started.
+2018-01-20 15:56:08.596 +01:00 [Debug] Background process 'Worker #6256eb2b' started.
+2018-01-20 15:56:08.607 +01:00 [Debug] Background process 'ServerWatchdog' stopped.
+2018-01-20 15:56:08.603 +01:00 [Debug] Background process 'Worker #e01f217e' stopped.
+2018-01-20 15:56:08.606 +01:00 [Debug] Background process 'Worker #e8cc86cf' stopped.
+2018-01-20 15:56:08.604 +01:00 [Debug] Background process 'Worker #900819fb' stopped.
+2018-01-20 15:56:08.601 +01:00 [Debug] Background process 'Worker #69a0499e' stopped.
+2018-01-20 15:56:08.601 +01:00 [Debug] Background process 'Worker #b3e6ec4c' stopped.
+2018-01-20 15:56:08.604 +01:00 [Debug] Background process 'Worker #b027f71b' stopped.
+2018-01-20 15:56:08.603 +01:00 [Debug] Background process 'Worker #1d4dd321' stopped.
+2018-01-20 15:56:08.600 +01:00 [Debug] Background process 'Counter Table Aggregator' stopped.
+2018-01-20 15:56:08.611 +01:00 [Debug] Background process 'Worker #6256eb2b' stopped.
+2018-01-20 15:56:08.603 +01:00 [Debug] Background process 'Worker #23f7d676' stopped.
+2018-01-20 15:56:08.601 +01:00 [Debug] Background process 'Worker #47b7a18b' stopped.
+2018-01-20 15:56:08.601 +01:00 [Debug] Background process 'Worker #fd43a547' stopped.
+2018-01-20 15:56:08.600 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' stopped.
+2018-01-20 15:56:08.607 +01:00 [Debug] Background process 'ServerHeartbeat' stopped.
+2018-01-20 15:56:08.642 +01:00 [Debug] Background process 'Worker #4f5f8874' stopped.
+2018-01-20 15:56:08.605 +01:00 [Debug] Background process 'Worker #03107676' stopped.
+2018-01-20 15:56:08.604 +01:00 [Debug] Background process 'Worker #732b44dc' stopped.
+2018-01-20 15:56:08.607 +01:00 [Debug] Background process 'Worker #6724d2a7' stopped.
+2018-01-20 15:56:08.727 +01:00 [Debug] Background process 'Worker #72d8aa60' stopped.
+2018-01-20 15:56:08.728 +01:00 [Debug] Background process 'Worker #be2167e9' stopped.
+2018-01-20 15:56:08.730 +01:00 [Debug] Background process 'Worker #98d13152' started.
+2018-01-20 15:56:08.732 +01:00 [Debug] Background process 'Worker #98d13152' stopped.
+2018-01-20 15:56:08.744 +01:00 [Debug] Background process 'Worker #0f3a89d3' started.
+2018-01-20 15:56:08.745 +01:00 [Debug] Background process 'Worker #0f3a89d3' stopped.
+2018-01-20 15:56:08.820 +01:00 [Debug] Background process 'Worker #d7422437' started.
+2018-01-20 15:56:08.821 +01:00 [Debug] Background process 'Worker #d7422437' stopped.
+2018-01-20 15:56:08.836 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2018-01-20 15:56:08.837 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2018-01-20 15:56:08.838 +01:00 [Debug] Background process 'DelayedJobScheduler' stopped.
+2018-01-20 15:56:08.840 +01:00 [Debug] Background process 'RecurringJobScheduler' stopped.
+2018-01-20 15:56:08.846 +01:00 [Debug] Background process 'BackgroundProcessingServer' stopped.
+2018-01-20 15:56:08.854 +01:00 [Information] Hangfire Server stopped.
+2018-01-20 15:57:39.902 +01:00 [Information] Start service...
+2018-01-20 15:59:29.067 +01:00 [Information] Start service...
+2018-01-20 16:06:29.766 +01:00 [Information] Start service...
+2018-01-20 16:10:47.308 +01:00 [Information] Start service...
+2018-01-20 16:14:31.447 +01:00 [Information] Start service...
+2018-01-20 16:17:47.504 +01:00 [Information] Start service...
+2018-01-20 16:19:59.634 +01:00 [Information] Start service...
+2018-01-20 16:24:17.321 +01:00 [Information] Start service...
+2018-01-20 16:25:06.255 +01:00 [Information] Start service...
+2018-01-20 16:42:09.989 +01:00 [Information] Start service...
+2018-01-20 16:42:12.196 +01:00 [Information] Starting Hangfire Server
+2018-01-20 16:42:12.218 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2018-01-20 16:42:12.219 +01:00 [Information] Using the following options for Hangfire Server:
+2018-01-20 16:42:12.220 +01:00 [Information]     Worker count: 20
+2018-01-20 16:42:12.221 +01:00 [Information]     Listening queues: 'default'
+2018-01-20 16:42:12.223 +01:00 [Information]     Shutdown timeout: 00:00:15
+2018-01-20 16:42:12.224 +01:00 [Information]     Schedule polling interval: 00:00:15
+2018-01-20 16:42:12.315 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2018-01-20 16:42:12.824 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2018-01-20 16:42:12.828 +01:00 [Debug] Background process 'ServerWatchdog' stopped.
+2018-01-20 16:42:12.839 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2018-01-20 16:42:12.841 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' stopped.
+2018-01-20 16:42:12.841 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2018-01-20 16:42:12.848 +01:00 [Debug] Background process 'ServerHeartbeat' stopped.
+2018-01-20 16:42:12.874 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2018-01-20 16:42:12.888 +01:00 [Debug] Background process 'Worker #0f71a073' started.
+2018-01-20 16:42:12.892 +01:00 [Debug] Background process 'Worker #749457de' started.
+2018-01-20 16:42:12.899 +01:00 [Debug] Background process 'Worker #2fe08ed6' started.
+2018-01-20 16:42:12.930 +01:00 [Debug] Background process 'Worker #2fe08ed6' stopped.
+2018-01-20 16:42:12.929 +01:00 [Debug] Background process 'Worker #0f71a073' stopped.
+2018-01-20 16:42:12.930 +01:00 [Debug] Background process 'Worker #749457de' stopped.
+2018-01-20 16:42:12.924 +01:00 [Debug] Background process 'Worker #2e045bf9' started.
+2018-01-20 16:42:12.946 +01:00 [Debug] Background process 'Worker #2e045bf9' stopped.
+2018-01-20 16:42:12.945 +01:00 [Debug] Background process 'Worker #474b98c3' started.
+2018-01-20 16:42:12.954 +01:00 [Debug] Background process 'Worker #474b98c3' stopped.
+2018-01-20 16:42:12.928 +01:00 [Debug] Background process 'Counter Table Aggregator' stopped.
+2018-01-20 16:42:13.008 +01:00 [Debug] Background process 'Worker #254ca057' started.
+2018-01-20 16:42:13.010 +01:00 [Debug] Background process 'Worker #254ca057' stopped.
+2018-01-20 16:42:13.008 +01:00 [Debug] Background process 'Worker #07095e70' started.
+2018-01-20 16:42:13.035 +01:00 [Debug] Background process 'Worker #07095e70' stopped.
+2018-01-20 16:42:13.069 +01:00 [Debug] Background process 'Worker #6b5b0104' started.
+2018-01-20 16:42:13.070 +01:00 [Debug] Background process 'Worker #6b5b0104' stopped.
+2018-01-20 16:42:13.087 +01:00 [Debug] Background process 'Worker #3bf0f433' started.
+2018-01-20 16:42:13.088 +01:00 [Debug] Background process 'Worker #3bf0f433' stopped.
+2018-01-20 16:42:13.096 +01:00 [Debug] Background process 'Worker #3944acf2' started.
+2018-01-20 16:42:13.107 +01:00 [Debug] Background process 'Worker #3944acf2' stopped.
+2018-01-20 16:42:13.123 +01:00 [Debug] Background process 'Worker #e6f5abbc' started.
+2018-01-20 16:42:13.134 +01:00 [Debug] Background process 'Worker #432d9c9b' started.
+2018-01-20 16:42:13.136 +01:00 [Debug] Background process 'Worker #e6f5abbc' stopped.
+2018-01-20 16:42:13.139 +01:00 [Debug] Background process 'Worker #432d9c9b' stopped.
+2018-01-20 16:42:13.186 +01:00 [Debug] Background process 'Worker #fd0a8240' started.
+2018-01-20 16:42:13.220 +01:00 [Debug] Background process 'Worker #fd0a8240' stopped.
+2018-01-20 16:42:13.220 +01:00 [Debug] Background process 'Worker #dcd94768' started.
+2018-01-20 16:42:13.225 +01:00 [Debug] Background process 'Worker #dcd94768' stopped.
+2018-01-20 16:42:13.238 +01:00 [Debug] Background process 'Worker #5a939a80' started.
+2018-01-20 16:42:13.242 +01:00 [Debug] Background process 'Worker #bc09a934' started.
+2018-01-20 16:42:13.243 +01:00 [Debug] Background process 'Worker #5a939a80' stopped.
+2018-01-20 16:42:13.285 +01:00 [Debug] Background process 'Worker #bc09a934' stopped.
+2018-01-20 16:42:13.291 +01:00 [Debug] Background process 'Worker #3ea28314' started.
+2018-01-20 16:42:13.292 +01:00 [Debug] Background process 'Worker #3ea28314' stopped.
+2018-01-20 16:42:13.279 +01:00 [Debug] Background process 'Worker #94d4c935' started.
+2018-01-20 16:42:13.297 +01:00 [Debug] Background process 'Worker #94d4c935' stopped.
+2018-01-20 16:42:13.295 +01:00 [Debug] Background process 'Worker #f94e2df9' started.
+2018-01-20 16:42:13.306 +01:00 [Debug] Background process 'Worker #f94e2df9' stopped.
+2018-01-20 16:42:13.308 +01:00 [Debug] Background process 'Worker #6cc64b61' started.
+2018-01-20 16:42:13.335 +01:00 [Debug] Background process 'Worker #6cc64b61' stopped.
+2018-01-20 16:42:13.335 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2018-01-20 16:42:13.343 +01:00 [Debug] Background process 'DelayedJobScheduler' stopped.
+2018-01-20 16:42:13.341 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2018-01-20 16:42:13.346 +01:00 [Debug] Background process 'RecurringJobScheduler' stopped.
+2018-01-20 16:42:13.350 +01:00 [Debug] Background process 'BackgroundProcessingServer' stopped.
+2018-01-20 16:42:13.351 +01:00 [Information] Hangfire Server stopped.
+2018-01-20 16:53:38.260 +01:00 [Information] Start service...
+2018-01-20 16:53:40.101 +01:00 [Information] Starting Hangfire Server
+2018-01-20 16:53:40.110 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2018-01-20 16:53:40.111 +01:00 [Information] Using the following options for Hangfire Server:
+2018-01-20 16:53:40.112 +01:00 [Information]     Worker count: 20
+2018-01-20 16:53:40.113 +01:00 [Information]     Listening queues: 'default'
+2018-01-20 16:53:40.114 +01:00 [Information]     Shutdown timeout: 00:00:15
+2018-01-20 16:53:40.115 +01:00 [Information]     Schedule polling interval: 00:00:15
+2018-01-20 16:53:40.302 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2018-01-20 16:53:40.620 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2018-01-20 16:53:40.646 +01:00 [Debug] Background process 'ServerHeartbeat' stopped.
+2018-01-20 16:53:40.668 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2018-01-20 16:53:40.681 +01:00 [Debug] Background process 'ServerWatchdog' stopped.
+2018-01-20 16:53:40.709 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2018-01-20 16:53:40.710 +01:00 [Debug] Background process 'Counter Table Aggregator' stopped.
+2018-01-20 16:53:40.725 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2018-01-20 16:53:40.771 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' stopped.
+2018-01-20 16:53:40.812 +01:00 [Debug] Background process 'Worker #4e4e85f8' started.
+2018-01-20 16:53:40.814 +01:00 [Debug] Background process 'Worker #4e4e85f8' stopped.
+2018-01-20 16:53:40.873 +01:00 [Debug] Background process 'Worker #70ef07d1' started.
+2018-01-20 16:53:40.892 +01:00 [Debug] Background process 'Worker #70ef07d1' stopped.
+2018-01-20 16:53:40.968 +01:00 [Debug] Background process 'Worker #d3ef5b44' started.
+2018-01-20 16:53:40.971 +01:00 [Debug] Background process 'Worker #d3ef5b44' stopped.
+2018-01-20 16:53:41.019 +01:00 [Debug] Background process 'Worker #aecf9700' started.
+2018-01-20 16:53:41.019 +01:00 [Debug] Background process 'Worker #6bca904c' started.
+2018-01-20 16:53:41.028 +01:00 [Debug] Background process 'Worker #aecf9700' stopped.
+2018-01-20 16:53:41.019 +01:00 [Debug] Background process 'Worker #487d2b9d' started.
+2018-01-20 16:53:41.050 +01:00 [Debug] Background process 'Worker #487d2b9d' stopped.
+2018-01-20 16:53:41.080 +01:00 [Debug] Background process 'Worker #9803149c' started.
+2018-01-20 16:53:41.035 +01:00 [Debug] Background process 'Worker #6bca904c' stopped.
+2018-01-20 16:53:41.033 +01:00 [Debug] Background process 'Worker #c1a2f272' started.
+2018-01-20 16:53:41.093 +01:00 [Debug] Background process 'Worker #9803149c' stopped.
+2018-01-20 16:53:41.129 +01:00 [Debug] Background process 'Worker #4e9f9907' started.
+2018-01-20 16:53:41.131 +01:00 [Debug] Background process 'Worker #4e9f9907' stopped.
+2018-01-20 16:53:41.138 +01:00 [Debug] Background process 'Worker #adddf429' started.
+2018-01-20 16:53:41.144 +01:00 [Debug] Background process 'Worker #0b9abaea' started.
+2018-01-20 16:53:41.149 +01:00 [Debug] Background process 'Worker #0b9abaea' stopped.
+2018-01-20 16:53:41.147 +01:00 [Debug] Background process 'Worker #adddf429' stopped.
+2018-01-20 16:53:41.126 +01:00 [Debug] Background process 'Worker #c1a2f272' stopped.
+2018-01-20 16:53:41.157 +01:00 [Debug] Background process 'Worker #3a6dafe2' started.
+2018-01-20 16:53:41.162 +01:00 [Debug] Background process 'Worker #3a6dafe2' stopped.
+2018-01-20 16:53:41.201 +01:00 [Debug] Background process 'Worker #9d64f534' started.
+2018-01-20 16:53:41.205 +01:00 [Debug] Background process 'Worker #9d64f534' stopped.
+2018-01-20 16:53:41.204 +01:00 [Debug] Background process 'Worker #843faf4d' started.
+2018-01-20 16:53:41.220 +01:00 [Debug] Background process 'Worker #e13d666a' started.
+2018-01-20 16:53:41.223 +01:00 [Debug] Background process 'Worker #e13d666a' stopped.
+2018-01-20 16:53:41.222 +01:00 [Debug] Background process 'Worker #843faf4d' stopped.
+2018-01-20 16:53:41.220 +01:00 [Debug] Background process 'Worker #eebef43c' started.
+2018-01-20 16:53:41.234 +01:00 [Debug] Background process 'Worker #eebef43c' stopped.
+2018-01-20 16:53:41.241 +01:00 [Debug] Background process 'Worker #6b56e068' started.
+2018-01-20 16:53:41.243 +01:00 [Debug] Background process 'Worker #6b56e068' stopped.
+2018-01-20 16:53:41.233 +01:00 [Debug] Background process 'Worker #0c295cf7' started.
+2018-01-20 16:53:41.246 +01:00 [Debug] Background process 'Worker #0c295cf7' stopped.
+2018-01-20 16:53:41.251 +01:00 [Debug] Background process 'Worker #79b76373' started.
+2018-01-20 16:53:41.252 +01:00 [Debug] Background process 'Worker #79b76373' stopped.
+2018-01-20 16:53:41.258 +01:00 [Debug] Background process 'Worker #0ce91c05' started.
+2018-01-20 16:53:41.264 +01:00 [Debug] Background process 'Worker #0ce91c05' stopped.
+2018-01-20 16:53:41.267 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2018-01-20 16:53:41.268 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2018-01-20 16:53:41.274 +01:00 [Debug] Background process 'RecurringJobScheduler' stopped.
+2018-01-20 16:53:41.271 +01:00 [Debug] Background process 'DelayedJobScheduler' stopped.
+2018-01-20 16:53:41.307 +01:00 [Debug] Background process 'BackgroundProcessingServer' stopped.
+2018-01-20 16:53:41.394 +01:00 [Information] Hangfire Server stopped.
+2018-01-20 17:19:22.622 +01:00 [Information] Start service...
+2018-01-20 17:19:24.513 +01:00 [Information] Starting Hangfire Server
+2018-01-20 17:19:24.516 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2018-01-20 17:19:24.517 +01:00 [Information] Using the following options for Hangfire Server:
+2018-01-20 17:19:24.518 +01:00 [Information]     Worker count: 20
+2018-01-20 17:19:24.519 +01:00 [Information]     Listening queues: 'default'
+2018-01-20 17:19:24.520 +01:00 [Information]     Shutdown timeout: 00:00:15
+2018-01-20 17:19:24.521 +01:00 [Information]     Schedule polling interval: 00:00:15
+2018-01-20 17:19:24.568 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2018-01-20 17:19:24.722 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2018-01-20 17:19:24.770 +01:00 [Debug] Background process 'ServerHeartbeat' stopped.
+2018-01-20 17:19:24.814 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2018-01-20 17:19:24.815 +01:00 [Debug] Background process 'ServerWatchdog' stopped.
+2018-01-20 17:19:24.947 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2018-01-20 17:19:24.948 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' stopped.
+2018-01-20 17:19:25.001 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2018-01-20 17:19:25.002 +01:00 [Debug] Background process 'Counter Table Aggregator' stopped.
+2018-01-20 17:19:25.010 +01:00 [Debug] Background process 'Worker #c2f74ba7' started.
+2018-01-20 17:19:25.015 +01:00 [Debug] Background process 'Worker #c2f74ba7' stopped.
+2018-01-20 17:19:25.082 +01:00 [Debug] Background process 'Worker #07a922f9' started.
+2018-01-20 17:19:25.083 +01:00 [Debug] Background process 'Worker #07a922f9' stopped.
+2018-01-20 17:19:25.134 +01:00 [Debug] Background process 'Worker #48ce3a69' started.
+2018-01-20 17:19:25.139 +01:00 [Debug] Background process 'Worker #48ce3a69' stopped.
+2018-01-20 17:19:25.152 +01:00 [Debug] Background process 'Worker #903a3f26' started.
+2018-01-20 17:19:25.161 +01:00 [Debug] Background process 'Worker #903a3f26' stopped.
+2018-01-20 17:19:25.189 +01:00 [Debug] Background process 'Worker #585b5443' started.
+2018-01-20 17:19:25.191 +01:00 [Debug] Background process 'Worker #585b5443' stopped.
+2018-01-20 17:19:25.192 +01:00 [Debug] Background process 'Worker #f434c263' started.
+2018-01-20 17:19:25.200 +01:00 [Debug] Background process 'Worker #f434c263' stopped.
+2018-01-20 17:19:25.233 +01:00 [Debug] Background process 'Worker #929f56c1' started.
+2018-01-20 17:19:25.237 +01:00 [Debug] Background process 'Worker #929f56c1' stopped.
+2018-01-20 17:19:25.241 +01:00 [Debug] Background process 'Worker #aa2aa6e3' started.
+2018-01-20 17:19:25.244 +01:00 [Debug] Background process 'Worker #aa2aa6e3' stopped.
+2018-01-20 17:19:25.255 +01:00 [Debug] Background process 'Worker #729b8c3f' started.
+2018-01-20 17:19:25.256 +01:00 [Debug] Background process 'Worker #729b8c3f' stopped.
+2018-01-20 17:19:25.265 +01:00 [Debug] Background process 'Worker #05f27b63' started.
+2018-01-20 17:19:25.276 +01:00 [Debug] Background process 'Worker #05f27b63' stopped.
+2018-01-20 17:19:25.274 +01:00 [Debug] Background process 'Worker #b98ba19a' started.
+2018-01-20 17:19:25.282 +01:00 [Debug] Background process 'Worker #b98ba19a' stopped.
+2018-01-20 17:19:25.287 +01:00 [Debug] Background process 'Worker #cf93f07b' started.
+2018-01-20 17:19:25.297 +01:00 [Debug] Background process 'Worker #0c138379' started.
+2018-01-20 17:19:25.299 +01:00 [Debug] Background process 'Worker #0c138379' stopped.
+2018-01-20 17:19:25.298 +01:00 [Debug] Background process 'Worker #cf93f07b' stopped.
+2018-01-20 17:19:25.308 +01:00 [Debug] Background process 'Worker #0df6f35f' started.
+2018-01-20 17:19:25.312 +01:00 [Debug] Background process 'Worker #0df6f35f' stopped.
+2018-01-20 17:19:25.311 +01:00 [Debug] Background process 'Worker #773b4ca0' started.
+2018-01-20 17:19:25.316 +01:00 [Debug] Background process 'Worker #773b4ca0' stopped.
+2018-01-20 17:19:25.325 +01:00 [Debug] Background process 'Worker #433259e3' started.
+2018-01-20 17:19:25.326 +01:00 [Debug] Background process 'Worker #433259e3' stopped.
+2018-01-20 17:19:25.351 +01:00 [Debug] Background process 'Worker #5a19a7a7' started.
+2018-01-20 17:19:25.353 +01:00 [Debug] Background process 'Worker #5a19a7a7' stopped.
+2018-01-20 17:19:25.366 +01:00 [Debug] Background process 'Worker #c3efdab6' started.
+2018-01-20 17:19:25.371 +01:00 [Debug] Background process 'Worker #c3efdab6' stopped.
+2018-01-20 17:19:25.378 +01:00 [Debug] Background process 'Worker #72073730' started.
+2018-01-20 17:19:25.378 +01:00 [Debug] Background process 'Worker #a3e29e5b' started.
+2018-01-20 17:19:25.385 +01:00 [Debug] Background process 'Worker #72073730' stopped.
+2018-01-20 17:19:25.387 +01:00 [Debug] Background process 'Worker #a3e29e5b' stopped.
+2018-01-20 17:19:25.414 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2018-01-20 17:19:25.420 +01:00 [Debug] Background process 'RecurringJobScheduler' stopped.
+2018-01-20 17:19:25.416 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2018-01-20 17:19:25.425 +01:00 [Debug] Background process 'DelayedJobScheduler' stopped.
+2018-01-20 17:19:25.429 +01:00 [Debug] Background process 'BackgroundProcessingServer' stopped.
+2018-01-20 17:19:25.430 +01:00 [Information] Hangfire Server stopped.

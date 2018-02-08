@@ -1,0 +1,152 @@
+2018-02-08 19:51:47.288 +01:00 [Information] Start service...
+2018-02-08 19:51:48.428 +01:00 [Information] Starting Hangfire Server
+2018-02-08 19:51:48.434 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2018-02-08 19:51:48.440 +01:00 [Information] Using the following options for Hangfire Server:
+2018-02-08 19:51:48.443 +01:00 [Information]     Worker count: 20
+2018-02-08 19:51:48.450 +01:00 [Information]     Listening queues: 'default'
+2018-02-08 19:51:48.458 +01:00 [Information]     Shutdown timeout: 00:00:15
+2018-02-08 19:51:48.461 +01:00 [Information]     Schedule polling interval: 00:00:15
+2018-02-08 19:51:48.530 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2018-02-08 19:51:48.864 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2018-02-08 19:51:49.000 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2018-02-08 19:51:49.026 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2018-02-08 19:51:49.028 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2018-02-08 19:51:49.088 +01:00 [Debug] Background process 'Worker #d7a84b47' started.
+2018-02-08 19:51:49.115 +01:00 [Debug] Background process 'Worker #6645f31c' started.
+2018-02-08 19:51:49.147 +01:00 [Debug] Background process 'Worker #e593fc68' started.
+2018-02-08 19:51:49.187 +01:00 [Debug] Background process 'Worker #e01e26d8' started.
+2018-02-08 19:51:49.235 +01:00 [Debug] Background process 'Worker #6c4273f3' started.
+2018-02-08 19:51:49.263 +01:00 [Debug] Background process 'Worker #d7ec4aa2' started.
+2018-02-08 19:51:49.266 +01:00 [Debug] Background process 'Worker #7d5cd631' started.
+2018-02-08 19:51:49.286 +01:00 [Debug] Background process 'Worker #8712c5e3' started.
+2018-02-08 19:51:49.296 +01:00 [Debug] Background process 'Worker #997f9586' started.
+2018-02-08 19:51:49.296 +01:00 [Debug] Background process 'Worker #471c70b8' started.
+2018-02-08 19:51:49.316 +01:00 [Debug] Background process 'Worker #77f7df08' started.
+2018-02-08 19:51:49.316 +01:00 [Debug] Background process 'Worker #8779dcca' started.
+2018-02-08 19:51:49.326 +01:00 [Debug] Background process 'Worker #394ac331' started.
+2018-02-08 19:51:49.376 +01:00 [Debug] Background process 'Worker #32d7b78c' started.
+2018-02-08 19:51:49.376 +01:00 [Debug] Background process 'Worker #79b7a465' started.
+2018-02-08 19:51:49.429 +01:00 [Debug] Background process 'Worker #4db9b8b7' started.
+2018-02-08 19:51:49.433 +01:00 [Debug] Background process 'Worker #97fb567c' started.
+2018-02-08 19:51:49.448 +01:00 [Debug] Background process 'Worker #7bd635b5' started.
+2018-02-08 19:51:49.458 +01:00 [Debug] Background process 'Worker #559f211c' started.
+2018-02-08 19:51:49.468 +01:00 [Debug] Background process 'Worker #4b5dba4f' started.
+2018-02-08 19:51:49.488 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2018-02-08 19:51:49.488 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2018-02-08 19:52:01.033 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2018-02-08 19:52:01.143 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2018-02-08 19:52:01.233 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2018-02-08 19:54:07.163 +01:00 [Information] Start service...
+2018-02-08 19:54:08.414 +01:00 [Information] Starting Hangfire Server
+2018-02-08 19:54:08.424 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2018-02-08 19:54:08.424 +01:00 [Information] Using the following options for Hangfire Server:
+2018-02-08 19:54:08.424 +01:00 [Information]     Worker count: 20
+2018-02-08 19:54:08.434 +01:00 [Information]     Listening queues: 'default'
+2018-02-08 19:54:08.434 +01:00 [Information]     Shutdown timeout: 00:00:15
+2018-02-08 19:54:08.434 +01:00 [Information]     Schedule polling interval: 00:00:15
+2018-02-08 19:54:08.492 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2018-02-08 19:54:08.744 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2018-02-08 19:54:08.752 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2018-02-08 19:54:08.755 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2018-02-08 19:54:08.770 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2018-02-08 19:54:08.810 +01:00 [Debug] Background process 'Worker #d67af5cd' started.
+2018-02-08 19:54:08.820 +01:00 [Debug] Background process 'Worker #5f1d6bc9' started.
+2018-02-08 19:54:08.850 +01:00 [Debug] Background process 'Worker #4043f86a' started.
+2018-02-08 19:54:08.916 +01:00 [Debug] Background process 'Worker #8ffb1ae1' started.
+2018-02-08 19:54:08.980 +01:00 [Debug] Background process 'Worker #988c2ce7' started.
+2018-02-08 19:54:09.006 +01:00 [Debug] Background process 'Worker #ed6a533c' started.
+2018-02-08 19:54:09.006 +01:00 [Debug] Background process 'Worker #0b5a0778' started.
+2018-02-08 19:54:09.041 +01:00 [Debug] Background process 'Worker #33a595c7' started.
+2018-02-08 19:54:09.039 +01:00 [Debug] Background process 'Worker #437793c9' started.
+2018-02-08 19:54:09.071 +01:00 [Debug] Background process 'Worker #51c8c2ee' started.
+2018-02-08 19:54:09.102 +01:00 [Debug] Background process 'Worker #30e8ef3a' started.
+2018-02-08 19:54:09.174 +01:00 [Debug] Background process 'Worker #bcebc50b' started.
+2018-02-08 19:54:09.174 +01:00 [Debug] Background process 'Worker #79059dc7' started.
+2018-02-08 19:54:09.204 +01:00 [Debug] Background process 'Worker #4ea5fdda' started.
+2018-02-08 19:54:09.209 +01:00 [Debug] Background process 'Worker #0a23737c' started.
+2018-02-08 19:54:09.219 +01:00 [Debug] Background process 'Worker #646504d9' started.
+2018-02-08 19:54:09.259 +01:00 [Debug] Background process 'Worker #29d797db' started.
+2018-02-08 19:54:09.259 +01:00 [Debug] Background process 'Worker #392dfe3f' started.
+2018-02-08 19:54:09.269 +01:00 [Debug] Background process 'Worker #d2e65860' started.
+2018-02-08 19:54:09.279 +01:00 [Debug] Background process 'Worker #b506c700' started.
+2018-02-08 19:54:09.289 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2018-02-08 19:54:09.299 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2018-02-08 19:55:00.934 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2018-02-08 19:55:01.051 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2018-02-08 19:55:01.139 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2018-02-08 20:56:42.016 +01:00 [Information] Start service...
+2018-02-08 20:56:42.473 +01:00 [Information] Starting Hangfire Server
+2018-02-08 20:56:42.473 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2018-02-08 20:56:42.473 +01:00 [Information] Using the following options for Hangfire Server:
+2018-02-08 20:56:42.473 +01:00 [Information]     Worker count: 20
+2018-02-08 20:56:42.473 +01:00 [Information]     Listening queues: 'default'
+2018-02-08 20:56:42.473 +01:00 [Information]     Shutdown timeout: 00:00:15
+2018-02-08 20:56:42.483 +01:00 [Information]     Schedule polling interval: 00:00:15
+2018-02-08 20:56:42.493 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2018-02-08 20:56:42.607 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2018-02-08 20:56:42.607 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2018-02-08 20:56:42.607 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2018-02-08 20:56:42.617 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2018-02-08 20:56:42.647 +01:00 [Debug] Background process 'Worker #4bf3b035' started.
+2018-02-08 20:56:42.657 +01:00 [Debug] Background process 'Worker #13453b84' started.
+2018-02-08 20:56:42.669 +01:00 [Debug] Background process 'Worker #b04a7785' started.
+2018-02-08 20:56:42.669 +01:00 [Debug] Background process 'Worker #50b0e539' started.
+2018-02-08 20:56:42.709 +01:00 [Debug] Background process 'Worker #0cb881c5' started.
+2018-02-08 20:56:42.721 +01:00 [Debug] Background process 'Worker #cb56eeb4' started.
+2018-02-08 20:56:42.721 +01:00 [Debug] Background process 'Worker #c6152739' started.
+2018-02-08 20:56:42.751 +01:00 [Debug] Background process 'Worker #e78c6142' started.
+2018-02-08 20:56:42.751 +01:00 [Debug] Background process 'Worker #54258566' started.
+2018-02-08 20:56:42.741 +01:00 [Debug] Background process 'Worker #4fb5a841' started.
+2018-02-08 20:56:42.738 +01:00 [Debug] Background process 'Worker #6e73e042' started.
+2018-02-08 20:56:42.771 +01:00 [Debug] Background process 'Worker #785e7bac' started.
+2018-02-08 20:56:42.791 +01:00 [Debug] Background process 'Worker #a70eeae1' started.
+2018-02-08 20:56:42.801 +01:00 [Debug] Background process 'Worker #76f800c9' started.
+2018-02-08 20:56:42.781 +01:00 [Debug] Background process 'Worker #e0fed981' started.
+2018-02-08 20:56:42.811 +01:00 [Debug] Background process 'Worker #6a42ee54' started.
+2018-02-08 20:56:42.834 +01:00 [Debug] Background process 'Worker #ad415cd9' started.
+2018-02-08 20:56:42.834 +01:00 [Debug] Background process 'Worker #21f2151d' started.
+2018-02-08 20:56:42.840 +01:00 [Debug] Background process 'Worker #e8839baa' started.
+2018-02-08 20:56:42.846 +01:00 [Debug] Background process 'Worker #85ac7ced' started.
+2018-02-08 20:56:42.854 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2018-02-08 20:56:42.854 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2018-02-08 20:57:01.307 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2018-02-08 20:57:01.387 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2018-02-08 20:57:01.450 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2018-02-08 20:58:08.169 +01:00 [Information] Start service...
+2018-02-08 20:58:08.763 +01:00 [Information] Starting Hangfire Server
+2018-02-08 20:58:08.770 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2018-02-08 20:58:08.772 +01:00 [Information] Using the following options for Hangfire Server:
+2018-02-08 20:58:08.776 +01:00 [Information]     Worker count: 20
+2018-02-08 20:58:08.779 +01:00 [Information]     Listening queues: 'default'
+2018-02-08 20:58:08.780 +01:00 [Information]     Shutdown timeout: 00:00:15
+2018-02-08 20:58:08.783 +01:00 [Information]     Schedule polling interval: 00:00:15
+2018-02-08 20:58:08.913 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2018-02-08 20:58:09.063 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2018-02-08 20:58:09.066 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2018-02-08 20:58:09.067 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2018-02-08 20:58:09.090 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2018-02-08 20:58:09.121 +01:00 [Debug] Background process 'Worker #c0839ee0' started.
+2018-02-08 20:58:09.141 +01:00 [Debug] Background process 'Worker #29b754e2' started.
+2018-02-08 20:58:09.170 +01:00 [Debug] Background process 'Worker #e4d85b3e' started.
+2018-02-08 20:58:09.192 +01:00 [Debug] Background process 'Worker #afce98ff' started.
+2018-02-08 20:58:09.200 +01:00 [Debug] Background process 'Worker #ff5e10cb' started.
+2018-02-08 20:58:09.206 +01:00 [Debug] Background process 'Worker #d4252cdf' started.
+2018-02-08 20:58:09.233 +01:00 [Debug] Background process 'Worker #01308639' started.
+2018-02-08 20:58:09.250 +01:00 [Debug] Background process 'Worker #3a7c4f34' started.
+2018-02-08 20:58:09.255 +01:00 [Debug] Background process 'Worker #bdbb17ee' started.
+2018-02-08 20:58:09.267 +01:00 [Debug] Background process 'Worker #50439ff1' started.
+2018-02-08 20:58:09.275 +01:00 [Debug] Background process 'Worker #3f79feb1' started.
+2018-02-08 20:58:09.301 +01:00 [Debug] Background process 'Worker #48497f01' started.
+2018-02-08 20:58:09.318 +01:00 [Debug] Background process 'Worker #8323edd6' started.
+2018-02-08 20:58:09.318 +01:00 [Debug] Background process 'Worker #7e09a1ae' started.
+2018-02-08 20:58:09.330 +01:00 [Debug] Background process 'Worker #8fa0098e' started.
+2018-02-08 20:58:09.337 +01:00 [Debug] Background process 'Worker #86f0c881' started.
+2018-02-08 20:58:09.340 +01:00 [Debug] Background process 'Worker #1951748e' started.
+2018-02-08 20:58:09.342 +01:00 [Debug] Background process 'Worker #1cb07fc8' started.
+2018-02-08 20:58:09.348 +01:00 [Debug] Background process 'Worker #830dcac9' started.
+2018-02-08 20:58:09.353 +01:00 [Debug] Background process 'Worker #cf4f8e23' started.
+2018-02-08 20:58:09.358 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2018-02-08 20:58:09.362 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2018-02-08 20:59:00.880 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2018-02-08 20:59:00.958 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2018-02-08 20:59:02.918 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"

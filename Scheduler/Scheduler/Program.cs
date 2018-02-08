@@ -3,49 +3,54 @@ using Topshelf;
 using Serilog;
 using Hangfire;
 using Microsoft.Owin.Hosting;
-using RabbitMQ.Client;
 
-using System.Diagnostics;
 
-using Topshelf.Logging;
-using Topshelf.Runtime;
-using MassTransit.Monitoring.Performance.Windows;
 
 namespace Scheduler
 {
+ 
     class Program
     {
-        static int Main()
+       
+        static void Main(string[] args)
         {
-
-
-            return (int)HostFactory.Run(x =>
+           
+            /*Tworzenie usługi TopShelf */
+            HostFactory.Run(x =>
             {
-                x.AfterInstall(() =>
+              //  x.UseUnityContainer(container);
+                x.SetServiceName("CSVtoMail");
+                x.SetDisplayName("CSVtoMail");
+                x.SetDescription("This is sample service powered by TopShelf.");
+        
+         
+                x.StartAutomatically();   // automatyczny start przy uruchomieniu systemu
+                Log.Logger = new LoggerConfiguration()
+                    .MinimumLevel.Debug()
+                    .WriteTo.LiterateConsole()
+                    .WriteTo.RollingFile("logs\\Scheduler-{Date}.txt")
+                    .CreateLogger();
+
+                x.Service<IService> (service =>
                 {
-                    VerifyEventLogSourceExists();
+                    service.ConstructUsing(srv => new IService());
 
-                    // this will force the performance counters to register during service installation
-                    // making them created - of course using the InstallUtil stuff completely skips
-                    // this part of the install :(
-                    BusPerformanceCounters.Install();
+                    service.WhenStarted(srv =>
+                    {
+                        srv.Start();
+                    });
+                    service.WhenStopped(srv =>
+                    {
+                      //  Log.Information("Stop service...");
+                        srv.Stop();
+                        
+                        });
                 });
-
-                x.Service(CreateService);
+                x.RunAsLocalSystem();
+                x.StartManually();
             });
-        }
 
-        static void VerifyEventLogSourceExists()
-        {
-            if (!EventLog.SourceExists("MassTransit"))
-                EventLog.CreateEventSource("MassTransit Quartz Service", "MassTransit");
-        }
 
-        static ScheduleMessageService CreateService(HostSettings arg)
-        {
-            var configurationProvider = new FileConfigurationProvider();
-
-            return new ScheduleMessageService(configurationProvider);
         }
     }
 }
