@@ -15,15 +15,9 @@ namespace Multikulti.Services
     public class Pizzaservices
     {
         public class PizzaService : IPizzaServices
-        {
-          //  private readonly IPizzaRepository repository;
-         //   private readonly ILanguageSelectorsBuilder languageSelectorsBuilder;
-
-        
+        {   
             public List<PizzaContent> showPizza(string code)
             {
-
-                //  var languageSelector = this.languageSelectorsBuilder.getLanguageSelectorForLanguageCode(code);
                 var pizzas = this.repository.getPizzas();
                 var allPizza = this.
                 var pizzaContent = new List<PizzaContent>();
@@ -34,8 +28,7 @@ namespace Multikulti.Services
                 var pizzas = this.repository.getPizzas();
                 var pizzaContents = new List<PizzaContent>();
                 pizzas.ToList().ForEach(pizza => pizzaContents.Add(languageSelector.getLanguageDescription(pizza)));
-                return pizzaContents;
-                
+                return pizzaContents;               
             }
         }
     }

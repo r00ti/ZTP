@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Multikulti.Services;
 
 namespace Multikulti.Interfaces
 {
-    interface IChainOfResp
+    public interface IChainOfResp
     {
-        LanguageSelector getLanguageSelectorForLanguageCode(string code);
+        GetLanguage getTransLang(string code);
     }
 }

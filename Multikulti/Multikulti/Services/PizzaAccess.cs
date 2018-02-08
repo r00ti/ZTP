@@ -14,24 +14,19 @@ namespace Multikulti
 {
     public class PizzaAccess : IPizzaAccess
     {
-      
-            protected static IMongoCollection<Pizza> _collection;
-            protected static IMongoCollection<PizzaContent> _collection2;
-            protected static MongoClient _client;
-            protected static IMongoDatabase _database;
+        private readonly MongoClient _client;
+        private readonly IMongoDatabase _database;
 
         public PizzaAccess()
-            {
-                 _client = new MongoClient("mongodb://localhost:27017");
-                 _database = _client.GetDatabase("pizzaStore");
-         
-
+        {
+            this._client = new MongoClient("mongodb://localhost:27017");
+            this._database = this._client.GetDatabase("PizzaStore");
         }
 
-            public IEnumerable<Pizza> getcollection()
-            {
-            _collection = _database.GetCollection<Pizza>("pizza");
-            return _collection.AsQueryable().ToList();
-            }
-     }
+        public IEnumerable<Pizza> getcollection()
+        {
+            var collection = this._database.GetCollection<Pizza>("pizza");
+            return collection.AsQueryable().ToList();
+        }
+    }
 }

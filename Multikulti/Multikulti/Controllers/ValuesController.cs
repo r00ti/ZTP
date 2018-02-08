@@ -6,30 +6,38 @@ using Microsoft.AspNetCore.Mvc;
 using Multikulti.Services;
 using Multikulti.Model;
 using Multikulti.Interfaces;
+using Microsoft.AspNetCore.Mvc;
+using MongoDB.Bson;
+using MongoDB.Driver;
+using System.Web;
+
+
 
 namespace Multikulti.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
-        private readonly Pizzaservices services;
+        private readonly IPizzaService services;
 
-        public ValuesController(Pizzaservices service)
+        public ValuesController(IPizzaService service)
         {
             this.services = service;
         }
 
-    
-        // GET api/pizza/fr
-        [HttpGet("{lanCode}")]
-        public string Get(string code)
+      
+         [HttpGet("{LanguageCode}")]
+       
+         public IActionResult Get (string languageCode)
+      //  public string Get(string languageCode)
         {
-          
-                var codeLan = this.services.showPizza(code);
-                return codeLan.ToJson();
-           
+            var codeLan = this.services.showPizza(languageCode);
+            if (codeLan == null)
+            {
+                ;
+            }
+            return new ObjectResult(codeLan.ToJson());
         }
-                
-
+       
     }
 }

@@ -9,30 +9,27 @@ using Multikulti.Services;
 
 namespace Multikulti.Services
 {
-    public IGetLanguage Selector;
-    private readonly string languageCode;
 
-    public class ChainOfResp
+
+    public class ChainOfResp : IChainOfResp
     {
-        private readonly ChainOfResp startLanguageSelector;
+        private readonly IGetLanguage langu;
 
         public ChainOfResp()
         {
-            var anyLanguageSelector = new LanguageSelector(null);
-            var polishLanguageSelector = new LanguageSelector("pl");
-            var englishLanguageSelector = new LanguageSelector("en");
+            var requestLanguage = new GetLanguage(null);
+            var plLanguage = new GetLanguage("pl");
+            var enLanguage = new GetLanguage("en");
 
-            englishLanguageSelector.failureSelector = polishLanguageSelector;
-            polishLanguageSelector.failureSelector = anyLanguageSelector;
-
-            this.startLanguageSelector = englishLanguageSelector;
+            enLanguage.langcode = plLanguage;
+            plLanguage.langcode = requestLanguage;
+            this.langu = enLanguage;
         }
-
-        public LanguageSelector getLanguageSelectorForLanguageCode(string code)
+        public GetLanguage getTransLang(string code)
         {
-            var languageSelector = new LanguageSelector(code);
-            languageSelector.failureSelector = this.startLanguageSelector;
-            return languageSelector;
+            var chainLan = new GetLanguage(code);
+            chainLan.langcode = this.langu;
+            return chainLan;
         }
     }
 }

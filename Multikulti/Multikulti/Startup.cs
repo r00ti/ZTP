@@ -8,6 +8,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Multikulti.Interfaces;
+using Multikulti.Services;
+using Multikulti.Controllers;
+using Multikulti.Model;
 
 namespace Multikulti
 {
@@ -22,8 +26,11 @@ namespace Multikulti
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {
+        {          
             services.AddMvc();
+            services.AddSingleton<IPizzaService, PizzaService>();
+            services.AddSingleton<IPizzaAccess, PizzaAccess>();            
+            services.AddSingleton<IChainOfResp, ChainOfResp>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -31,10 +38,9 @@ namespace Multikulti
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                app.UseDeveloperExceptionPage();         
             }
             app.UseMvcWithDefaultRoute();
-            
         }
     }
 }

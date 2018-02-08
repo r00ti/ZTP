@@ -12863,11 +12863,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\arutkowski\\source\\repos\\Multikulti\\Multikulti\\Multikulti.csproj",
+      "projectUniqueName": "c:\\Users\\arutkowski\\source\\repos\\Multikulti\\Multikulti\\Multikulti.csproj",
       "projectName": "Multikulti",
-      "projectPath": "C:\\Users\\arutkowski\\source\\repos\\Multikulti\\Multikulti\\Multikulti.csproj",
+      "projectPath": "c:\\Users\\arutkowski\\source\\repos\\Multikulti\\Multikulti\\Multikulti.csproj",
       "packagesPath": "C:\\Users\\arutkowski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arutkowski\\source\\repos\\Multikulti\\Multikulti\\obj\\",
+      "outputPath": "c:\\Users\\arutkowski\\source\\repos\\Multikulti\\Multikulti\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

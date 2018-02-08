@@ -9,26 +9,32 @@ using Multikulti.Services;
 
 namespace Multikulti.Services
 {
-    public class GetLanguage
+    public class GetLanguage : IGetLanguage
     {
-             private readonly string languageCode;
+        private readonly string languageCode;
+        public IGetLanguage langcode;
 
-        public LanguageSelector(string code)
+        public GetLanguage(string code)
         {
             this.languageCode = code;
         }
 
-        public PizzaContent getLanguageDescription(Pizza pizza)
+        public PizzaContent getTranslation(Pizza pizza)
         {
             var contents = pizza.Contents;
-
             var queryGood2 = contents.AsQueryable().Where((r => r.LanguageCode == languageCode)).FirstOrDefault();
             if (queryGood2 != null)
             {
                 return queryGood2;
             }
-     
+            else if (langcode != null)
+            {
+                return langcode.getTranslation(pizza);
+            }
+            else
+            {
+                return contents.FirstOrDefault();
+            }
         }
-
     }
 }

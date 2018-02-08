@@ -4,10 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Multikulti.Model;
 
+
 namespace Multikulti.Interfaces
 {
-   public  interface IPizzaAccess
+    public interface IPizzaService
     {
-        IEnumerable<Pizza> getcollection();
+      List<PizzaContent> showPizza(string code);
     }
 }
