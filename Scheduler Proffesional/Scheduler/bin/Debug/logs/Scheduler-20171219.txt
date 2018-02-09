@@ -1,0 +1,544 @@
+2017-12-19 12:06:26.998 +01:00 [Information] Start service...
+2017-12-19 12:06:28.848 +01:00 [Information] Starting Hangfire Server
+2017-12-19 12:06:28.850 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-19 12:06:28.853 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-19 12:06:28.854 +01:00 [Information]     Worker count: 20
+2017-12-19 12:06:28.855 +01:00 [Information]     Listening queues: 'default'
+2017-12-19 12:06:28.856 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-19 12:06:28.857 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-19 12:06:28.965 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-19 12:06:29.623 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-19 12:06:29.674 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-19 12:06:29.936 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-19 12:06:30.005 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-19 12:06:30.060 +01:00 [Debug] Background process 'Worker #21c309a6' started.
+2017-12-19 12:06:30.118 +01:00 [Debug] Background process 'Worker #eae27d88' started.
+2017-12-19 12:06:30.132 +01:00 [Debug] Background process 'Worker #d17e4c8a' started.
+2017-12-19 12:06:30.162 +01:00 [Debug] Background process 'Worker #c9874acb' started.
+2017-12-19 12:06:30.184 +01:00 [Debug] Background process 'Worker #2846dada' started.
+2017-12-19 12:06:30.224 +01:00 [Debug] Background process 'Worker #5df63307' started.
+2017-12-19 12:06:30.239 +01:00 [Debug] Background process 'Worker #8dc21217' started.
+2017-12-19 12:06:30.239 +01:00 [Debug] Background process 'Worker #2954ee2d' started.
+2017-12-19 12:06:30.269 +01:00 [Debug] Background process 'Worker #af579329' started.
+2017-12-19 12:06:30.289 +01:00 [Debug] Background process 'Worker #ea444ab9' started.
+2017-12-19 12:06:30.308 +01:00 [Debug] Background process 'Worker #c4a84334' started.
+2017-12-19 12:06:30.321 +01:00 [Debug] Background process 'Worker #2aeeb442' started.
+2017-12-19 12:06:30.439 +01:00 [Debug] Background process 'Worker #f28a5405' started.
+2017-12-19 12:06:30.453 +01:00 [Debug] Background process 'Worker #a8570b1e' started.
+2017-12-19 12:06:30.477 +01:00 [Debug] Background process 'Worker #699bdefe' started.
+2017-12-19 12:06:30.489 +01:00 [Debug] Background process 'Worker #490f76cd' started.
+2017-12-19 12:06:30.503 +01:00 [Debug] Background process 'Worker #8e677b8f' started.
+2017-12-19 12:06:30.503 +01:00 [Debug] Background process 'Worker #a8c67fca' started.
+2017-12-19 12:06:30.554 +01:00 [Debug] Background process 'Worker #81a1cb1b' started.
+2017-12-19 12:06:30.604 +01:00 [Debug] Background process 'Worker #4bd3930a' started.
+2017-12-19 12:06:30.624 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-19 12:06:30.625 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-19 12:07:01.438 +01:00 [Warning] Failed to process the job 'eca040fc-8791-4959-8e8f-bf5cb2f32db5': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:25.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:07:30.729 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:07:30.999 +01:00 [Warning] Failed to process the job 'eca040fc-8791-4959-8e8f-bf5cb2f32db5': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:32.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:08:01.428 +01:00 [Warning] Failed to process the job '4146de31-7f4d-428d-8455-fefe7dd4397c': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:39.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:08:15.900 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:08:16.250 +01:00 [Warning] Failed to process the job 'eca040fc-8791-4959-8e8f-bf5cb2f32db5': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:43.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:08:46.068 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:08:46.358 +01:00 [Warning] Failed to process the job '4146de31-7f4d-428d-8455-fefe7dd4397c': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:36.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:09:00.613 +01:00 [Warning] Failed to process the job '6e172aaa-b000-4091-97bc-cc7fd5e8266c': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:33.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:09:01.163 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:09:01.563 +01:00 [Warning] Failed to process the job 'eca040fc-8791-4959-8e8f-bf5cb2f32db5': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:24.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:09:31.260 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:09:31.630 +01:00 [Warning] Failed to process the job '4146de31-7f4d-428d-8455-fefe7dd4397c': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:22.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:09:46.392 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:09:46.972 +01:00 [Warning] Failed to process the job '6e172aaa-b000-4091-97bc-cc7fd5e8266c': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:04.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:10:00.952 +01:00 [Warning] Failed to process the job '9412e872-a96f-49ea-8b64-29d9136c66c2': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:23.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:12:53.623 +01:00 [Information] Start service...
+2017-12-19 12:12:55.813 +01:00 [Information] Starting Hangfire Server
+2017-12-19 12:12:55.813 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-19 12:12:55.813 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-19 12:12:55.813 +01:00 [Information]     Worker count: 20
+2017-12-19 12:12:55.813 +01:00 [Information]     Listening queues: 'default'
+2017-12-19 12:12:55.823 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-19 12:12:55.823 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-19 12:12:55.833 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-19 12:12:55.893 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-19 12:12:55.903 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-19 12:12:55.903 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-19 12:12:55.913 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-19 12:12:55.913 +01:00 [Debug] Background process 'Worker #23177cae' started.
+2017-12-19 12:12:55.923 +01:00 [Debug] Background process 'Worker #d647467d' started.
+2017-12-19 12:12:55.943 +01:00 [Debug] Background process 'Worker #5fb84f76' started.
+2017-12-19 12:12:56.002 +01:00 [Debug] Background process 'Worker #7a72d6a8' started.
+2017-12-19 12:12:56.005 +01:00 [Debug] Background process 'Worker #dce850b0' started.
+2017-12-19 12:12:56.025 +01:00 [Debug] Background process 'Worker #2f8bbe5d' started.
+2017-12-19 12:12:56.035 +01:00 [Debug] Background process 'Worker #6d31654d' started.
+2017-12-19 12:12:56.045 +01:00 [Debug] Background process 'Worker #84f38d3e' started.
+2017-12-19 12:12:56.045 +01:00 [Debug] Background process 'Worker #b47107f1' started.
+2017-12-19 12:12:56.055 +01:00 [Debug] Background process 'Worker #f61fa61d' started.
+2017-12-19 12:12:56.065 +01:00 [Debug] Background process 'Worker #56f06e9e' started.
+2017-12-19 12:12:56.075 +01:00 [Debug] Background process 'Worker #df35f681' started.
+2017-12-19 12:12:56.075 +01:00 [Debug] Background process 'Worker #b6f72d75' started.
+2017-12-19 12:12:56.085 +01:00 [Debug] Background process 'Worker #e137251d' started.
+2017-12-19 12:12:56.085 +01:00 [Debug] Background process 'Worker #e7523d81' started.
+2017-12-19 12:12:56.095 +01:00 [Debug] Background process 'Worker #baece9c3' started.
+2017-12-19 12:12:56.105 +01:00 [Debug] Background process 'Worker #8d607a63' started.
+2017-12-19 12:12:56.115 +01:00 [Debug] Background process 'Worker #a69f86b3' started.
+2017-12-19 12:12:56.115 +01:00 [Debug] Background process 'Worker #4a46db03' started.
+2017-12-19 12:12:56.125 +01:00 [Debug] Background process 'Worker #8d9e214a' started.
+2017-12-19 12:12:56.135 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-19 12:12:56.135 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-19 12:13:00.975 +01:00 [Warning] Failed to process the job '952c21ef-ab7d-41e2-a560-ab5f7b9184d1': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:41.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:13:41.304 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:13:41.594 +01:00 [Warning] Failed to process the job '952c21ef-ab7d-41e2-a560-ab5f7b9184d1': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:16.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:14:00.905 +01:00 [Warning] Failed to process the job '95888287-700c-4c80-9a5d-cc46fc9cd4e8': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:33.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:14:11.475 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:14:11.735 +01:00 [Warning] Failed to process the job '952c21ef-ab7d-41e2-a560-ab5f7b9184d1': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:52.
+CsvHelper.ValidationException: Header matching ['common'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:15:33.900 +01:00 [Information] Start service...
+2017-12-19 12:15:35.774 +01:00 [Information] Starting Hangfire Server
+2017-12-19 12:15:35.774 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-19 12:15:35.774 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-19 12:15:35.774 +01:00 [Information]     Worker count: 20
+2017-12-19 12:15:35.774 +01:00 [Information]     Listening queues: 'default'
+2017-12-19 12:15:35.774 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-19 12:15:35.774 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-19 12:15:35.794 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-19 12:15:35.864 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-19 12:15:35.894 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-19 12:15:35.894 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-19 12:15:35.904 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-19 12:15:35.904 +01:00 [Debug] Background process 'Worker #0fc27747' started.
+2017-12-19 12:15:35.936 +01:00 [Debug] Background process 'Worker #854984d9' started.
+2017-12-19 12:15:35.936 +01:00 [Debug] Background process 'Worker #eb58b849' started.
+2017-12-19 12:15:35.936 +01:00 [Debug] Background process 'Worker #f03ff5cb' started.
+2017-12-19 12:15:35.946 +01:00 [Debug] Background process 'Worker #88f6013a' started.
+2017-12-19 12:15:35.956 +01:00 [Debug] Background process 'Worker #a2648f3d' started.
+2017-12-19 12:15:35.956 +01:00 [Debug] Background process 'Worker #f6423536' started.
+2017-12-19 12:15:35.956 +01:00 [Debug] Background process 'Worker #1c5fb311' started.
+2017-12-19 12:15:35.966 +01:00 [Debug] Background process 'Worker #0fc1ff0e' started.
+2017-12-19 12:15:35.986 +01:00 [Debug] Background process 'Worker #639da8be' started.
+2017-12-19 12:15:35.986 +01:00 [Debug] Background process 'Worker #4a748953' started.
+2017-12-19 12:15:35.996 +01:00 [Debug] Background process 'Worker #dff96a4d' started.
+2017-12-19 12:15:35.996 +01:00 [Debug] Background process 'Worker #191c6509' started.
+2017-12-19 12:15:36.006 +01:00 [Debug] Background process 'Worker #517d988c' started.
+2017-12-19 12:15:36.016 +01:00 [Debug] Background process 'Worker #f91830d4' started.
+2017-12-19 12:15:36.016 +01:00 [Debug] Background process 'Worker #c7548073' started.
+2017-12-19 12:15:36.036 +01:00 [Debug] Background process 'Worker #4987d5b7' started.
+2017-12-19 12:15:36.036 +01:00 [Debug] Background process 'Worker #49648021' started.
+2017-12-19 12:15:36.036 +01:00 [Debug] Background process 'Worker #fdc479a9' started.
+2017-12-19 12:15:36.046 +01:00 [Debug] Background process 'Worker #0966e897' started.
+2017-12-19 12:15:36.046 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-19 12:15:36.056 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-19 12:16:00.725 +01:00 [Warning] Failed to process the job 'a4e44ef2-e482-4155-9a7c-e086728dc764': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:21.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:16:21.167 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:16:21.557 +01:00 [Warning] Failed to process the job 'a4e44ef2-e482-4155-9a7c-e086728dc764': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:30.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:16:51.316 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:16:51.626 +01:00 [Warning] Failed to process the job 'a4e44ef2-e482-4155-9a7c-e086728dc764': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:52.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:17:00.785 +01:00 [Warning] Failed to process the job 'eb80a657-3935-4e77-8507-15e8a0d23741': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:17.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:17:21.533 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:17:21.823 +01:00 [Warning] Failed to process the job 'eb80a657-3935-4e77-8507-15e8a0d23741': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:26.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:17:51.963 +01:00 [Information] 2 scheduled job(s) enqueued.
+2017-12-19 12:17:52.313 +01:00 [Warning] Failed to process the job 'a4e44ef2-e482-4155-9a7c-e086728dc764': an exception occurred. Retry attempt 4 of 10 will be performed in 00:01:44.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:17:52.313 +01:00 [Warning] Failed to process the job 'eb80a657-3935-4e77-8507-15e8a0d23741': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:37.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:18:01.085 +01:00 [Warning] Failed to process the job '5102c8b4-32af-4838-b506-0e250708fc2b': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:21.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:18:37.564 +01:00 [Information] 2 scheduled job(s) enqueued.
+2017-12-19 12:18:37.904 +01:00 [Warning] Failed to process the job 'eb80a657-3935-4e77-8507-15e8a0d23741': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:16.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:18:38.064 +01:00 [Warning] Failed to process the job '5102c8b4-32af-4838-b506-0e250708fc2b': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:56.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:19:01.332 +01:00 [Warning] Failed to process the job 'bdd3872e-0ff1-4ba2-9f28-165127962d20': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:23.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:19:38.171 +01:00 [Information] 3 scheduled job(s) enqueued.
+2017-12-19 12:19:38.553 +01:00 [Warning] Failed to process the job 'a4e44ef2-e482-4155-9a7c-e086728dc764': an exception occurred. Retry attempt 5 of 10 will be performed in 00:06:56.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:19:38.723 +01:00 [Warning] Failed to process the job '5102c8b4-32af-4838-b506-0e250708fc2b': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:58.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:19:38.803 +01:00 [Warning] Failed to process the job 'bdd3872e-0ff1-4ba2-9f28-165127962d20': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:20.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:20:00.825 +01:00 [Warning] Failed to process the job '06dd5d48-375e-4c8d-af57-2a2f06cea73e': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:16.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:20:08.346 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:20:08.696 +01:00 [Warning] Failed to process the job 'bdd3872e-0ff1-4ba2-9f28-165127962d20': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:04.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:20:23.479 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:20:23.859 +01:00 [Warning] Failed to process the job '06dd5d48-375e-4c8d-af57-2a2f06cea73e': an exception occurred. Retry attempt 2 of 10 will be performed in 00:01:10.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:20:38.656 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:20:39.086 +01:00 [Warning] Failed to process the job '5102c8b4-32af-4838-b506-0e250708fc2b': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:16.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:20:53.770 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:20:54.220 +01:00 [Warning] Failed to process the job 'eb80a657-3935-4e77-8507-15e8a0d23741': an exception occurred. Retry attempt 5 of 10 will be performed in 00:04:36.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:21:00.910 +01:00 [Warning] Failed to process the job '86393531-a793-44d8-b500-fb2f3b2cea9c': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:23.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:21:24.211 +01:00 [Information] 2 scheduled job(s) enqueued.
+2017-12-19 12:21:24.661 +01:00 [Warning] Failed to process the job '86393531-a793-44d8-b500-fb2f3b2cea9c': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:50.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:21:24.771 +01:00 [Warning] Failed to process the job 'bdd3872e-0ff1-4ba2-9f28-165127962d20': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:40.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:21:39.377 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:21:39.744 +01:00 [Warning] Failed to process the job '06dd5d48-375e-4c8d-af57-2a2f06cea73e': an exception occurred. Retry attempt 3 of 10 will be performed in 00:01:04.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:22:01.043 +01:00 [Warning] Failed to process the job '9141d5ea-dc5c-424e-aa78-fc449a50d8bb': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:42.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:22:24.504 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-19 12:22:24.914 +01:00 [Warning] Failed to process the job '86393531-a793-44d8-b500-fb2f3b2cea9c': an exception occurred. Retry attempt 3 of 10 will be performed in 00:00:43.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:22:55.361 +01:00 [Information] 3 scheduled job(s) enqueued.
+2017-12-19 12:22:55.703 +01:00 [Warning] Failed to process the job '06dd5d48-375e-4c8d-af57-2a2f06cea73e': an exception occurred. Retry attempt 4 of 10 will be performed in 00:02:04.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:22:55.813 +01:00 [Warning] Failed to process the job '9141d5ea-dc5c-424e-aa78-fc449a50d8bb': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:26.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:22:56.073 +01:00 [Warning] Failed to process the job '5102c8b4-32af-4838-b506-0e250708fc2b': an exception occurred. Retry attempt 5 of 10 will be performed in 00:06:01.
+CsvHelper.ValidationException: Header matching ['commonName'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-19 12:24:30.866 +01:00 [Information] Start service...
+2017-12-19 12:24:33.212 +01:00 [Information] Starting Hangfire Server
+2017-12-19 12:24:33.212 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-19 12:24:33.212 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-19 12:24:33.212 +01:00 [Information]     Worker count: 20
+2017-12-19 12:24:33.212 +01:00 [Information]     Listening queues: 'default'
+2017-12-19 12:24:33.212 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-19 12:24:33.222 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-19 12:24:33.232 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-19 12:24:33.302 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-19 12:24:33.312 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-19 12:24:33.312 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-19 12:24:33.322 +01:00 [Debug] Background process 'Worker #7f972a0a' started.
+2017-12-19 12:24:33.322 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-19 12:24:33.342 +01:00 [Debug] Background process 'Worker #1fcf03a8' started.
+2017-12-19 12:24:33.342 +01:00 [Debug] Background process 'Worker #3be09b5e' started.
+2017-12-19 12:24:33.372 +01:00 [Debug] Background process 'Worker #afc426cf' started.
+2017-12-19 12:24:33.372 +01:00 [Debug] Background process 'Worker #055c033f' started.
+2017-12-19 12:24:33.372 +01:00 [Debug] Background process 'Worker #1cdd4f39' started.
+2017-12-19 12:24:33.382 +01:00 [Debug] Background process 'Worker #0e66f94f' started.
+2017-12-19 12:24:33.392 +01:00 [Debug] Background process 'Worker #776da2d4' started.
+2017-12-19 12:24:33.392 +01:00 [Debug] Background process 'Worker #94677803' started.
+2017-12-19 12:24:33.422 +01:00 [Debug] Background process 'Worker #02602af6' started.
+2017-12-19 12:24:33.432 +01:00 [Debug] Background process 'Worker #699941e5' started.
+2017-12-19 12:24:33.442 +01:00 [Debug] Background process 'Worker #1dfaf47e' started.
+2017-12-19 12:24:33.442 +01:00 [Debug] Background process 'Worker #0cf0b54b' started.
+2017-12-19 12:24:33.462 +01:00 [Debug] Background process 'Worker #7e33470f' started.
+2017-12-19 12:24:33.462 +01:00 [Debug] Background process 'Worker #4263e7e7' started.
+2017-12-19 12:24:33.482 +01:00 [Debug] Background process 'Worker #741125b2' started.
+2017-12-19 12:24:33.492 +01:00 [Debug] Background process 'Worker #24cf09a7' started.
+2017-12-19 12:24:33.492 +01:00 [Debug] Background process 'Worker #7f343f46' started.
+2017-12-19 12:24:33.505 +01:00 [Debug] Background process 'Worker #660f0937' started.
+2017-12-19 12:24:33.518 +01:00 [Debug] Background process 'Worker #36b70e7e' started.
+2017-12-19 12:24:33.519 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-19 12:24:33.524 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-19 12:25:01.252 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-19 12:25:01.272 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-19 12:25:01.282 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-19 12:25:01.312 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"

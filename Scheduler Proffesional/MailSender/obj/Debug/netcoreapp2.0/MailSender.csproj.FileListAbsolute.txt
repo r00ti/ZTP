@@ -1,0 +1,8 @@
+D:\backup ZTP\Sheduler proffesional\Scheduler\MailSender\bin\Debug\netcoreapp2.0\MailSender.deps.json
+D:\backup ZTP\Sheduler proffesional\Scheduler\MailSender\bin\Debug\netcoreapp2.0\MailSender.runtimeconfig.json
+D:\backup ZTP\Sheduler proffesional\Scheduler\MailSender\bin\Debug\netcoreapp2.0\MailSender.runtimeconfig.dev.json
+D:\backup ZTP\Sheduler proffesional\Scheduler\MailSender\bin\Debug\netcoreapp2.0\MailSender.dll
+D:\backup ZTP\Sheduler proffesional\Scheduler\MailSender\obj\Debug\netcoreapp2.0\MailSender.csprojResolveAssemblyReference.cache
+D:\backup ZTP\Sheduler proffesional\Scheduler\MailSender\obj\Debug\netcoreapp2.0\MailSender.csproj.CoreCompileInputs.cache
+D:\backup ZTP\Sheduler proffesional\Scheduler\MailSender\obj\Debug\netcoreapp2.0\MailSender.AssemblyInfoInputs.cache
+D:\backup ZTP\Sheduler proffesional\Scheduler\MailSender\obj\Debug\netcoreapp2.0\MailSender.AssemblyInfo.cs

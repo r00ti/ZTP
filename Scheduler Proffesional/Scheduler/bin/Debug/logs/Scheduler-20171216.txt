@@ -1,0 +1,942 @@
+2017-12-16 15:08:12.574 +01:00 [Information] Start service...
+2017-12-16 15:08:12.885 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:08:12.887 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:08:12.888 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:08:12.888 +01:00 [Information]     Worker count: 20
+2017-12-16 15:08:12.889 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:08:12.890 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:08:12.891 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:08:12.901 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:08:12.975 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:08:12.975 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:08:12.981 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:08:12.984 +01:00 [Debug] Background process 'Worker #d494f7b8' started.
+2017-12-16 15:08:12.984 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:08:12.996 +01:00 [Debug] Background process 'Worker #99540124' started.
+2017-12-16 15:08:13.005 +01:00 [Debug] Background process 'Worker #3d1cd28d' started.
+2017-12-16 15:08:13.006 +01:00 [Debug] Background process 'Worker #67f5e2a6' started.
+2017-12-16 15:08:13.029 +01:00 [Debug] Background process 'Worker #f3db6693' started.
+2017-12-16 15:08:13.030 +01:00 [Debug] Background process 'Worker #1bfccbf3' started.
+2017-12-16 15:08:13.035 +01:00 [Debug] Background process 'Worker #d0f6e17a' started.
+2017-12-16 15:08:13.036 +01:00 [Debug] Background process 'Worker #4439b54f' started.
+2017-12-16 15:08:13.046 +01:00 [Debug] Background process 'Worker #9091e561' started.
+2017-12-16 15:08:13.048 +01:00 [Debug] Background process 'Worker #c094afc6' started.
+2017-12-16 15:08:13.050 +01:00 [Debug] Background process 'Worker #542471e0' started.
+2017-12-16 15:08:13.058 +01:00 [Debug] Background process 'Worker #9cb00f70' started.
+2017-12-16 15:08:13.060 +01:00 [Debug] Background process 'Worker #98547831' started.
+2017-12-16 15:08:13.062 +01:00 [Debug] Background process 'Worker #0b518259' started.
+2017-12-16 15:08:13.065 +01:00 [Debug] Background process 'Worker #66a5483e' started.
+2017-12-16 15:08:13.073 +01:00 [Debug] Background process 'Worker #9f22d22d' started.
+2017-12-16 15:08:13.079 +01:00 [Debug] Background process 'Worker #e22d4ee2' started.
+2017-12-16 15:08:13.080 +01:00 [Debug] Background process 'Worker #01795906' started.
+2017-12-16 15:08:13.090 +01:00 [Debug] Background process 'Worker #3083cda0' started.
+2017-12-16 15:08:13.092 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:08:13.092 +01:00 [Debug] Background process 'Worker #1635af43' started.
+2017-12-16 15:08:13.095 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:09:49.397 +01:00 [Information] Start service...
+2017-12-16 15:09:49.996 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:09:50.007 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:09:50.009 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:09:50.015 +01:00 [Information]     Worker count: 20
+2017-12-16 15:09:50.017 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:09:50.018 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:09:50.021 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:09:50.034 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:09:50.141 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:09:50.142 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:09:50.166 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:09:50.180 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:09:50.255 +01:00 [Debug] Background process 'Worker #3cf9032a' started.
+2017-12-16 15:09:50.264 +01:00 [Debug] Background process 'Worker #67341679' started.
+2017-12-16 15:09:50.311 +01:00 [Debug] Background process 'Worker #ea7b9443' started.
+2017-12-16 15:09:50.321 +01:00 [Debug] Background process 'Worker #2db95c1c' started.
+2017-12-16 15:09:50.324 +01:00 [Debug] Background process 'Worker #0db93882' started.
+2017-12-16 15:09:50.334 +01:00 [Debug] Background process 'Worker #b03a7d82' started.
+2017-12-16 15:09:50.351 +01:00 [Debug] Background process 'Worker #2b582e9e' started.
+2017-12-16 15:09:50.353 +01:00 [Debug] Background process 'Worker #f22f5cc4' started.
+2017-12-16 15:09:50.410 +01:00 [Debug] Background process 'Worker #83fb02b8' started.
+2017-12-16 15:09:50.420 +01:00 [Debug] Background process 'Worker #81744f04' started.
+2017-12-16 15:09:50.435 +01:00 [Debug] Background process 'Worker #99627a3a' started.
+2017-12-16 15:09:50.446 +01:00 [Debug] Background process 'Worker #cbce3c39' started.
+2017-12-16 15:09:50.466 +01:00 [Debug] Background process 'Worker #b9166f3c' started.
+2017-12-16 15:09:50.492 +01:00 [Debug] Background process 'Worker #55d4d94f' started.
+2017-12-16 15:09:50.500 +01:00 [Debug] Background process 'Worker #514f3775' started.
+2017-12-16 15:09:50.504 +01:00 [Debug] Background process 'Worker #00498f5b' started.
+2017-12-16 15:09:50.522 +01:00 [Debug] Background process 'Worker #5a9bf01a' started.
+2017-12-16 15:09:50.523 +01:00 [Debug] Background process 'Worker #ff76ea27' started.
+2017-12-16 15:09:50.534 +01:00 [Debug] Background process 'Worker #8feaca41' started.
+2017-12-16 15:09:50.548 +01:00 [Debug] Background process 'Worker #75905083' started.
+2017-12-16 15:09:50.553 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:09:50.554 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:10:03.176 +01:00 [Warning] Failed to process the job '06b957ca-56de-4184-ab77-65b9eae1aea6': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:21.
+System.InvalidCastException: Nie można rzutować obiektu typu '<GetRecords>d__63`1[Scheduler.DataRecord]' na typ 'Scheduler.DataRecord'.
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 27
+2017-12-16 15:10:35.571 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-16 15:10:35.777 +01:00 [Warning] Failed to process the job '06b957ca-56de-4184-ab77-65b9eae1aea6': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:38.
+System.InvalidCastException: Nie można rzutować obiektu typu '<GetRecords>d__63`1[Scheduler.DataRecord]' na typ 'Scheduler.DataRecord'.
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 27
+2017-12-16 15:11:00.911 +01:00 [Warning] Failed to process the job '7594e2c8-c52c-47c1-a3ea-61127af79ae7': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:44.
+System.InvalidCastException: Nie można rzutować obiektu typu '<GetRecords>d__63`1[Scheduler.DataRecord]' na typ 'Scheduler.DataRecord'.
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 27
+2017-12-16 15:13:34.615 +01:00 [Information] Start service...
+2017-12-16 15:13:35.464 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:13:35.466 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:13:35.467 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:13:35.468 +01:00 [Information]     Worker count: 20
+2017-12-16 15:13:35.469 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:13:35.470 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:13:35.472 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:13:35.483 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:13:35.580 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:13:35.584 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:13:35.625 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:13:35.650 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:13:35.688 +01:00 [Debug] Background process 'Worker #bece7ce4' started.
+2017-12-16 15:13:35.716 +01:00 [Debug] Background process 'Worker #786f7470' started.
+2017-12-16 15:13:35.728 +01:00 [Debug] Background process 'Worker #d7cbff26' started.
+2017-12-16 15:13:35.796 +01:00 [Debug] Background process 'Worker #7486868b' started.
+2017-12-16 15:13:35.838 +01:00 [Debug] Background process 'Worker #04343d88' started.
+2017-12-16 15:13:35.863 +01:00 [Debug] Background process 'Worker #9fee6f6a' started.
+2017-12-16 15:13:35.899 +01:00 [Debug] Background process 'Worker #07d2c9e7' started.
+2017-12-16 15:13:35.924 +01:00 [Debug] Background process 'Worker #d4733b30' started.
+2017-12-16 15:13:35.997 +01:00 [Debug] Background process 'Worker #2c994498' started.
+2017-12-16 15:13:35.997 +01:00 [Debug] Background process 'Worker #504f0204' started.
+2017-12-16 15:13:35.997 +01:00 [Debug] Background process 'Worker #266b43fc' started.
+2017-12-16 15:13:36.001 +01:00 [Debug] Background process 'Worker #45ec3c1e' started.
+2017-12-16 15:13:36.005 +01:00 [Debug] Background process 'Worker #33202514' started.
+2017-12-16 15:13:36.013 +01:00 [Debug] Background process 'Worker #1588b2ff' started.
+2017-12-16 15:13:36.025 +01:00 [Debug] Background process 'Worker #702b8828' started.
+2017-12-16 15:13:36.033 +01:00 [Debug] Background process 'Worker #ab58a0ef' started.
+2017-12-16 15:13:36.041 +01:00 [Debug] Background process 'Worker #e3e1d3bc' started.
+2017-12-16 15:13:36.045 +01:00 [Debug] Background process 'Worker #3cd7f146' started.
+2017-12-16 15:13:36.069 +01:00 [Debug] Background process 'Worker #f311d192' started.
+2017-12-16 15:13:36.071 +01:00 [Debug] Background process 'Worker #a5746108' started.
+2017-12-16 15:13:36.069 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:13:36.083 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:14:02.710 +01:00 [Warning] Failed to process the job 'c6b7a3f4-a3c3-4de7-a519-fce70e399a4c': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:33.
+CsvHelper.ValidationException: Header matching ['Adress'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   w System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 26
+2017-12-16 15:14:36.105 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-16 15:14:36.333 +01:00 [Warning] Failed to process the job 'c6b7a3f4-a3c3-4de7-a519-fce70e399a4c': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:36.
+CsvHelper.ValidationException: Header matching ['Adress'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   w System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 26
+2017-12-16 15:15:07.827 +01:00 [Information] Start service...
+2017-12-16 15:15:08.958 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:15:08.961 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:15:08.962 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:15:08.963 +01:00 [Information]     Worker count: 20
+2017-12-16 15:15:08.965 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:15:08.966 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:15:08.967 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:15:08.986 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:15:09.141 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:15:09.141 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:15:09.143 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:15:09.143 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:15:09.169 +01:00 [Debug] Background process 'Worker #60886550' started.
+2017-12-16 15:15:09.185 +01:00 [Debug] Background process 'Worker #484d9e5d' started.
+2017-12-16 15:15:09.185 +01:00 [Debug] Background process 'Worker #267736a8' started.
+2017-12-16 15:15:09.239 +01:00 [Debug] Background process 'Worker #36a5b3bb' started.
+2017-12-16 15:15:09.283 +01:00 [Debug] Background process 'Worker #dd7f3c61' started.
+2017-12-16 15:15:09.314 +01:00 [Debug] Background process 'Worker #67a3362c' started.
+2017-12-16 15:15:09.350 +01:00 [Debug] Background process 'Worker #1d9caa5f' started.
+2017-12-16 15:15:09.367 +01:00 [Debug] Background process 'Worker #bf9f63fd' started.
+2017-12-16 15:15:09.368 +01:00 [Debug] Background process 'Worker #b3bf077d' started.
+2017-12-16 15:15:09.401 +01:00 [Debug] Background process 'Worker #3bc03bbb' started.
+2017-12-16 15:15:09.401 +01:00 [Debug] Background process 'Worker #14e92a3e' started.
+2017-12-16 15:15:09.423 +01:00 [Debug] Background process 'Worker #3d82fe9b' started.
+2017-12-16 15:15:09.455 +01:00 [Debug] Background process 'Worker #e9493783' started.
+2017-12-16 15:15:09.455 +01:00 [Debug] Background process 'Worker #5b4c4aef' started.
+2017-12-16 15:15:09.491 +01:00 [Debug] Background process 'Worker #756bd48c' started.
+2017-12-16 15:15:09.513 +01:00 [Debug] Background process 'Worker #6a9ffc0b' started.
+2017-12-16 15:15:09.542 +01:00 [Debug] Background process 'Worker #68258eda' started.
+2017-12-16 15:15:09.564 +01:00 [Debug] Background process 'Worker #cdb8c4e7' started.
+2017-12-16 15:15:09.579 +01:00 [Debug] Background process 'Worker #a9b2aede' started.
+2017-12-16 15:15:09.600 +01:00 [Debug] Background process 'Worker #2fa54c15' started.
+2017-12-16 15:15:09.603 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:15:09.609 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:16:03.602 +01:00 [Warning] Failed to process the job '766fd0a5-208b-4912-a9b5-b75625b9fce0': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:40.
+CsvHelper.ValidationException: Header matching ['Adress'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-16 15:16:54.644 +01:00 [Information] 1 scheduled job(s) enqueued.
+2017-12-16 15:16:54.827 +01:00 [Warning] Failed to process the job '766fd0a5-208b-4912-a9b5-b75625b9fce0': an exception occurred. Retry attempt 2 of 10 will be performed in 00:00:28.
+CsvHelper.ValidationException: Header matching ['Adress'] names at index 0 was not found. If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+   w CsvHelper.Configuration.Configuration.<>c.<.ctor>b__148_1(Boolean isValid, String[] headerNames, Int32 headerNameIndex, IReadingContext context)
+   w CsvHelper.CsvReader.ValidateHeader(ClassMap map)
+   w CsvHelper.CsvReader.ValidateHeader(Type type)
+   w CsvHelper.CsvReader.ValidateHeader[T]()
+   w CsvHelper.CsvReader.<GetRecords>d__63`1.MoveNext()
+   w System.Linq.Enumerable.<TakeIterator>d__24`1.MoveNext()
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 28
+2017-12-16 15:18:07.668 +01:00 [Information] Start service...
+2017-12-16 15:18:07.914 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:18:07.916 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:18:07.917 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:18:07.917 +01:00 [Information]     Worker count: 20
+2017-12-16 15:18:07.918 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:18:07.919 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:18:07.919 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:18:07.929 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:18:08.001 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:18:08.012 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:18:08.016 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:18:08.038 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:18:08.043 +01:00 [Debug] Background process 'Worker #a56e4c1b' started.
+2017-12-16 15:18:08.043 +01:00 [Debug] Background process 'Worker #1f3733af' started.
+2017-12-16 15:18:08.052 +01:00 [Debug] Background process 'Worker #98cbdb87' started.
+2017-12-16 15:18:08.065 +01:00 [Debug] Background process 'Worker #74b64658' started.
+2017-12-16 15:18:08.072 +01:00 [Debug] Background process 'Worker #8b32733b' started.
+2017-12-16 15:18:08.084 +01:00 [Debug] Background process 'Worker #43a0f995' started.
+2017-12-16 15:18:08.087 +01:00 [Debug] Background process 'Worker #64479127' started.
+2017-12-16 15:18:08.089 +01:00 [Debug] Background process 'Worker #cb48f250' started.
+2017-12-16 15:18:08.096 +01:00 [Debug] Background process 'Worker #0660f6d2' started.
+2017-12-16 15:18:08.101 +01:00 [Debug] Background process 'Worker #57ac165f' started.
+2017-12-16 15:18:08.104 +01:00 [Debug] Background process 'Worker #88c19afe' started.
+2017-12-16 15:18:08.112 +01:00 [Debug] Background process 'Worker #85054493' started.
+2017-12-16 15:18:08.114 +01:00 [Debug] Background process 'Worker #4ce29ca2' started.
+2017-12-16 15:18:08.125 +01:00 [Debug] Background process 'Worker #a74fe410' started.
+2017-12-16 15:18:08.127 +01:00 [Debug] Background process 'Worker #12973333' started.
+2017-12-16 15:18:08.132 +01:00 [Debug] Background process 'Worker #873c1357' started.
+2017-12-16 15:18:08.139 +01:00 [Debug] Background process 'Worker #29588e6e' started.
+2017-12-16 15:18:08.140 +01:00 [Debug] Background process 'Worker #aac27f75' started.
+2017-12-16 15:18:08.145 +01:00 [Debug] Background process 'Worker #7236018b' started.
+2017-12-16 15:18:08.146 +01:00 [Debug] Background process 'Worker #84466a4b' started.
+2017-12-16 15:18:08.152 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:18:08.153 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:19:02.883 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:19:02.928 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:19:02.933 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:19:02.939 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:20:00.723 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:20:00.756 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:20:00.764 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:20:00.774 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:21:00.459 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:21:00.472 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:21:00.479 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:21:00.491 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:24:26.763 +01:00 [Information] Start service...
+2017-12-16 15:24:27.225 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:24:27.228 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:24:27.229 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:24:27.230 +01:00 [Information]     Worker count: 20
+2017-12-16 15:24:27.230 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:24:27.231 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:24:27.231 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:24:27.248 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:24:27.389 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:24:27.402 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:24:27.404 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:24:27.407 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:24:27.421 +01:00 [Debug] Background process 'Worker #98cdc36b' started.
+2017-12-16 15:24:27.423 +01:00 [Debug] Background process 'Worker #1b55388d' started.
+2017-12-16 15:24:27.434 +01:00 [Debug] Background process 'Worker #bb076c94' started.
+2017-12-16 15:24:27.452 +01:00 [Debug] Background process 'Worker #501f3ccc' started.
+2017-12-16 15:24:27.463 +01:00 [Debug] Background process 'Worker #d67b5a5e' started.
+2017-12-16 15:24:27.467 +01:00 [Debug] Background process 'Worker #da94c46e' started.
+2017-12-16 15:24:27.468 +01:00 [Debug] Background process 'Worker #3f765a57' started.
+2017-12-16 15:24:27.470 +01:00 [Debug] Background process 'Worker #9582de57' started.
+2017-12-16 15:24:27.496 +01:00 [Debug] Background process 'Worker #71b4f71a' started.
+2017-12-16 15:24:27.517 +01:00 [Debug] Background process 'Worker #554fc442' started.
+2017-12-16 15:24:27.539 +01:00 [Debug] Background process 'Worker #199a54ef' started.
+2017-12-16 15:24:27.557 +01:00 [Debug] Background process 'Worker #d288841b' started.
+2017-12-16 15:24:27.600 +01:00 [Debug] Background process 'Worker #1b98d1eb' started.
+2017-12-16 15:24:27.614 +01:00 [Debug] Background process 'Worker #87473c72' started.
+2017-12-16 15:24:27.639 +01:00 [Debug] Background process 'Worker #38edcdb7' started.
+2017-12-16 15:24:27.651 +01:00 [Debug] Background process 'Worker #92a2cc0a' started.
+2017-12-16 15:24:27.662 +01:00 [Debug] Background process 'Worker #e88e0cdc' started.
+2017-12-16 15:24:27.667 +01:00 [Debug] Background process 'Worker #1f4f11ff' started.
+2017-12-16 15:24:27.675 +01:00 [Debug] Background process 'Worker #22f71736' started.
+2017-12-16 15:24:27.676 +01:00 [Debug] Background process 'Worker #75b47c7c' started.
+2017-12-16 15:24:27.682 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:24:27.680 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:25:03.298 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:25:03.313 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:25:03.320 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:25:03.328 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:26:01.097 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:26:01.114 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:26:01.125 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:26:01.134 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:28:59.901 +01:00 [Information] Start service...
+2017-12-16 15:29:00.485 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:29:00.487 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:29:00.487 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:29:00.488 +01:00 [Information]     Worker count: 20
+2017-12-16 15:29:00.489 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:29:00.490 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:29:00.491 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:29:00.532 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:29:00.816 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:29:00.828 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:29:00.948 +01:00 [Debug] Background process 'Worker #83767601' started.
+2017-12-16 15:29:00.959 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:29:01.008 +01:00 [Debug] Background process 'Worker #f65df519' started.
+2017-12-16 15:29:01.047 +01:00 [Debug] Background process 'Worker #7e0f040c' started.
+2017-12-16 15:29:01.021 +01:00 [Debug] Background process 'Worker #f24ab787' started.
+2017-12-16 15:29:01.059 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:29:01.133 +01:00 [Debug] Background process 'Worker #e3f52fdc' started.
+2017-12-16 15:29:01.123 +01:00 [Debug] Background process 'Worker #1665932f' started.
+2017-12-16 15:29:01.137 +01:00 [Debug] Background process 'Worker #14b40cfa' started.
+2017-12-16 15:29:01.097 +01:00 [Debug] Background process 'Worker #c817d5ec' started.
+2017-12-16 15:29:01.124 +01:00 [Debug] Background process 'Worker #16a96090' started.
+2017-12-16 15:29:01.174 +01:00 [Debug] Background process 'Worker #909914dc' started.
+2017-12-16 15:29:01.192 +01:00 [Debug] Background process 'Worker #44936619' started.
+2017-12-16 15:29:01.194 +01:00 [Debug] Background process 'Worker #f054afec' started.
+2017-12-16 15:29:01.186 +01:00 [Debug] Background process 'Worker #45a175af' started.
+2017-12-16 15:29:01.215 +01:00 [Debug] Background process 'Worker #06e84c52' started.
+2017-12-16 15:29:01.228 +01:00 [Debug] Background process 'Worker #c305b971' started.
+2017-12-16 15:29:01.231 +01:00 [Debug] Background process 'Worker #266db901' started.
+2017-12-16 15:29:01.237 +01:00 [Debug] Background process 'Worker #2a2446b9' started.
+2017-12-16 15:29:01.251 +01:00 [Debug] Background process 'Worker #b19e302b' started.
+2017-12-16 15:29:01.261 +01:00 [Debug] Background process 'Worker #e5d6d12d' started.
+2017-12-16 15:29:01.264 +01:00 [Debug] Background process 'Worker #a8dbe938' started.
+2017-12-16 15:29:01.279 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:29:01.280 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:30:15.895 +01:00 [Information] Start service...
+2017-12-16 15:30:16.672 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:30:16.675 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:30:16.676 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:30:16.678 +01:00 [Information]     Worker count: 20
+2017-12-16 15:30:16.680 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:30:16.681 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:30:16.683 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:30:16.775 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:30:17.197 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:30:17.207 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:30:17.230 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:30:17.247 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:30:17.309 +01:00 [Debug] Background process 'Worker #4c2cdc38' started.
+2017-12-16 15:30:17.327 +01:00 [Debug] Background process 'Worker #be8f2ccc' started.
+2017-12-16 15:30:17.327 +01:00 [Debug] Background process 'Worker #b9294789' started.
+2017-12-16 15:30:17.328 +01:00 [Debug] Background process 'Worker #81774267' started.
+2017-12-16 15:30:17.385 +01:00 [Debug] Background process 'Worker #3b27870b' started.
+2017-12-16 15:30:17.400 +01:00 [Debug] Background process 'Worker #e48562f8' started.
+2017-12-16 15:30:17.405 +01:00 [Debug] Background process 'Worker #3b333bfb' started.
+2017-12-16 15:30:17.434 +01:00 [Debug] Background process 'Worker #2c8a2500' started.
+2017-12-16 15:30:17.442 +01:00 [Debug] Background process 'Worker #e504220b' started.
+2017-12-16 15:30:17.460 +01:00 [Debug] Background process 'Worker #463adb15' started.
+2017-12-16 15:30:17.466 +01:00 [Debug] Background process 'Worker #b087b5b6' started.
+2017-12-16 15:30:17.474 +01:00 [Debug] Background process 'Worker #c8616ce4' started.
+2017-12-16 15:30:17.503 +01:00 [Debug] Background process 'Worker #99e116a4' started.
+2017-12-16 15:30:17.515 +01:00 [Debug] Background process 'Worker #3734ecf2' started.
+2017-12-16 15:30:17.518 +01:00 [Debug] Background process 'Worker #e3eabf1d' started.
+2017-12-16 15:30:17.529 +01:00 [Debug] Background process 'Worker #ddebe117' started.
+2017-12-16 15:30:17.541 +01:00 [Debug] Background process 'Worker #3b0da5eb' started.
+2017-12-16 15:30:17.554 +01:00 [Debug] Background process 'Worker #f5bf339d' started.
+2017-12-16 15:30:17.559 +01:00 [Debug] Background process 'Worker #626d9894' started.
+2017-12-16 15:30:17.578 +01:00 [Debug] Background process 'Worker #23684f52' started.
+2017-12-16 15:30:17.589 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:30:17.592 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:31:03.367 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:31:03.387 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:31:03.391 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:31:03.397 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:31:31.125 +01:00 [Information] Start service...
+2017-12-16 15:31:31.634 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:31:31.636 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:31:31.637 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:31:31.638 +01:00 [Information]     Worker count: 20
+2017-12-16 15:31:31.639 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:31:31.640 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:31:31.641 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:31:31.657 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:31:31.738 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:31:31.767 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:31:31.741 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:31:31.776 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:31:31.792 +01:00 [Debug] Background process 'Worker #3d64668c' started.
+2017-12-16 15:31:31.808 +01:00 [Debug] Background process 'Worker #74faad45' started.
+2017-12-16 15:31:31.822 +01:00 [Debug] Background process 'Worker #7b19c2f9' started.
+2017-12-16 15:31:31.831 +01:00 [Debug] Background process 'Worker #9bf6cd18' started.
+2017-12-16 15:31:31.836 +01:00 [Debug] Background process 'Worker #5ef65fa9' started.
+2017-12-16 15:31:31.836 +01:00 [Debug] Background process 'Worker #028b4f8a' started.
+2017-12-16 15:31:31.840 +01:00 [Debug] Background process 'Worker #3907d605' started.
+2017-12-16 15:31:31.899 +01:00 [Debug] Background process 'Worker #c7b11d72' started.
+2017-12-16 15:31:31.900 +01:00 [Debug] Background process 'Worker #a62ef9cf' started.
+2017-12-16 15:31:32.008 +01:00 [Debug] Background process 'Worker #b6785391' started.
+2017-12-16 15:31:32.008 +01:00 [Debug] Background process 'Worker #44efac52' started.
+2017-12-16 15:31:32.023 +01:00 [Debug] Background process 'Worker #f1fce4ee' started.
+2017-12-16 15:31:32.039 +01:00 [Debug] Background process 'Worker #88607908' started.
+2017-12-16 15:31:32.057 +01:00 [Debug] Background process 'Worker #39406b83' started.
+2017-12-16 15:31:32.067 +01:00 [Debug] Background process 'Worker #aa0c3f6d' started.
+2017-12-16 15:31:32.091 +01:00 [Debug] Background process 'Worker #69cfef00' started.
+2017-12-16 15:31:32.093 +01:00 [Debug] Background process 'Worker #5acb0114' started.
+2017-12-16 15:31:32.107 +01:00 [Debug] Background process 'Worker #a7f47476' started.
+2017-12-16 15:31:32.145 +01:00 [Debug] Background process 'Worker #802494f4' started.
+2017-12-16 15:31:32.145 +01:00 [Debug] Background process 'Worker #9e3ff52a' started.
+2017-12-16 15:31:32.155 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:31:32.156 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:32:02.815 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:32:02.838 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:32:02.855 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:32:02.859 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:33:00.687 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:33:00.703 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:33:00.710 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:33:00.720 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:34:00.795 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:34:00.810 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:34:00.821 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:34:00.831 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 15:47:21.598 +01:00 [Information] Start service...
+2017-12-16 15:47:22.389 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:47:22.391 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:47:22.392 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:47:22.392 +01:00 [Information]     Worker count: 20
+2017-12-16 15:47:22.393 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:47:22.394 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:47:22.395 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:47:22.429 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:47:22.592 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:47:22.601 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:47:22.616 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:47:22.623 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:47:22.650 +01:00 [Debug] Background process 'Worker #e0c159c8' started.
+2017-12-16 15:47:22.661 +01:00 [Debug] Background process 'Worker #62a0a6f1' started.
+2017-12-16 15:47:22.670 +01:00 [Debug] Background process 'Worker #02f61e64' started.
+2017-12-16 15:47:22.682 +01:00 [Debug] Background process 'Worker #3ff2b54b' started.
+2017-12-16 15:47:22.685 +01:00 [Debug] Background process 'Worker #b8112aeb' started.
+2017-12-16 15:47:22.692 +01:00 [Debug] Background process 'Worker #d8b52580' started.
+2017-12-16 15:47:22.703 +01:00 [Debug] Background process 'Worker #b168c991' started.
+2017-12-16 15:47:22.714 +01:00 [Debug] Background process 'Worker #0447fab4' started.
+2017-12-16 15:47:22.741 +01:00 [Debug] Background process 'Worker #dabb0422' started.
+2017-12-16 15:47:22.748 +01:00 [Debug] Background process 'Worker #86a07067' started.
+2017-12-16 15:47:22.759 +01:00 [Debug] Background process 'Worker #0c1df029' started.
+2017-12-16 15:47:22.760 +01:00 [Debug] Background process 'Worker #3bc44d78' started.
+2017-12-16 15:47:22.774 +01:00 [Debug] Background process 'Worker #81ab90eb' started.
+2017-12-16 15:47:22.779 +01:00 [Debug] Background process 'Worker #4e159b81' started.
+2017-12-16 15:47:22.791 +01:00 [Debug] Background process 'Worker #e4df618a' started.
+2017-12-16 15:47:22.792 +01:00 [Debug] Background process 'Worker #30f78450' started.
+2017-12-16 15:47:22.798 +01:00 [Debug] Background process 'Worker #3d0d2e1b' started.
+2017-12-16 15:47:22.808 +01:00 [Debug] Background process 'Worker #33b44c2c' started.
+2017-12-16 15:47:22.810 +01:00 [Debug] Background process 'Worker #cebcc439' started.
+2017-12-16 15:47:22.814 +01:00 [Debug] Background process 'Worker #a3c6d25b' started.
+2017-12-16 15:47:22.818 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:47:22.823 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:48:03.300 +01:00 [Warning] Failed to process the job 'decc28f0-0a5f-45f8-950d-69592360c374': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:27.
+MassTransit.RabbitMqTransport.RabbitMqConnectionException: Connect failed: guest@localhost:5672/mailer_queue ---> RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=530, text="NOT_ALLOWED - access to vhost 'mailer_queue' refused for user 'guest'", classId=10, methodId=40, cause=
+   w RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   w RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   w RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   w RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   w RabbitMQ.Client.Framing.Impl.ProtocolBase.CreateConnection(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   w RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- Koniec śladu stosu wyjątków wewnętrznych ---
+   w RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   w RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   w MassTransit.RabbitMqTransport.Integration.RabbitMqConnectionCache.SendUsingNewConnection(IPipe`1 connectionPipe, ConnectionScope scope, CancellationToken cancellationToken)
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.RabbitMqTransport.Integration.RabbitMqConnectionCache.ConnectionScope.<Attach>d__7.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.RabbitMqTransport.Integration.RabbitMqConnectionCache.<SendUsingExistingConnection>d__11.MoveNext()
+   --- Koniec śladu stosu wyjątków wewnętrznych ---
+   w MassTransit.RabbitMqTransport.Integration.RabbitMqConnectionCache.<SendUsingExistingConnection>d__11.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.RabbitMqTransport.Transport.RabbitMqReceiveTransport.<>c__DisplayClass16_0.<<Receiver>b__0>d.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.Transports.ReceiveEndpointCollection.<StartEndpoint>d__15.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.RabbitMqTransport.Transport.RabbitMqHost.<Start>d__13.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.Policies.PipeRetryExtensions.<Retry>d__1.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   w MassTransit.MassTransitBus.<StartAsync>d__25.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.Util.TaskUtil.Await[T](Func`1 taskFactory, CancellationToken cancellationToken)
+   w MassTransit.BusControlExtensions.Start(IBusControl busControl)
+   w Scheduler.BusSender..ctor() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\BusSender.cs:wiersz 27
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 20
+2017-12-16 15:50:20.024 +01:00 [Information] Start service...
+2017-12-16 15:50:20.526 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:50:20.528 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:50:20.529 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:50:20.529 +01:00 [Information]     Worker count: 20
+2017-12-16 15:50:20.531 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:50:20.532 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:50:20.533 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:50:20.589 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:50:21.035 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:50:21.084 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:50:21.144 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:50:21.157 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:50:21.168 +01:00 [Debug] Background process 'Worker #706118f7' started.
+2017-12-16 15:50:21.182 +01:00 [Debug] Background process 'Worker #1b98f375' started.
+2017-12-16 15:50:21.232 +01:00 [Debug] Background process 'Worker #d232743e' started.
+2017-12-16 15:50:21.232 +01:00 [Debug] Background process 'Worker #7331c4e3' started.
+2017-12-16 15:50:21.243 +01:00 [Debug] Background process 'Worker #5e3a6d7e' started.
+2017-12-16 15:50:21.254 +01:00 [Debug] Background process 'Worker #d88eac63' started.
+2017-12-16 15:50:21.291 +01:00 [Debug] Background process 'Worker #ee3d61d7' started.
+2017-12-16 15:50:21.267 +01:00 [Debug] Background process 'Worker #ca87b530' started.
+2017-12-16 15:50:21.319 +01:00 [Debug] Background process 'Worker #79da52d9' started.
+2017-12-16 15:50:21.336 +01:00 [Debug] Background process 'Worker #45fae058' started.
+2017-12-16 15:50:21.367 +01:00 [Debug] Background process 'Worker #e1ff46cf' started.
+2017-12-16 15:50:21.370 +01:00 [Debug] Background process 'Worker #fa736391' started.
+2017-12-16 15:50:21.379 +01:00 [Debug] Background process 'Worker #147134fa' started.
+2017-12-16 15:50:21.455 +01:00 [Debug] Background process 'Worker #557ec1b5' started.
+2017-12-16 15:50:21.471 +01:00 [Debug] Background process 'Worker #3cc168df' started.
+2017-12-16 15:50:21.479 +01:00 [Debug] Background process 'Worker #195af715' started.
+2017-12-16 15:50:21.491 +01:00 [Debug] Background process 'Worker #504a2f68' started.
+2017-12-16 15:50:21.523 +01:00 [Debug] Background process 'Worker #84ef16cc' started.
+2017-12-16 15:50:21.528 +01:00 [Debug] Background process 'Worker #b75ce579' started.
+2017-12-16 15:50:21.530 +01:00 [Debug] Background process 'Worker #38cf5aec' started.
+2017-12-16 15:50:21.535 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:50:21.540 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:51:02.758 +01:00 [Warning] Failed to process the job 'eec1fcac-7d7a-4cef-bbcb-9ca39cb94903': an exception occurred. Retry attempt 1 of 10 will be performed in 00:00:43.
+MassTransit.RabbitMqTransport.RabbitMqConnectionException: Connect failed: guest@localhost:5672/mailer_queue ---> RabbitMQ.Client.Exceptions.BrokerUnreachableException: None of the specified endpoints were reachable ---> RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=530, text="NOT_ALLOWED - access to vhost 'mailer_queue' refused for user 'guest'", classId=10, methodId=40, cause=
+   w RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   w RabbitMQ.Client.Impl.ModelBase.ConnectionOpen(String virtualHost, String capabilities, Boolean insist)
+   w RabbitMQ.Client.Framing.Impl.Connection.Open(Boolean insist)
+   w RabbitMQ.Client.Framing.Impl.Connection..ctor(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   w RabbitMQ.Client.Framing.Impl.ProtocolBase.CreateConnection(IConnectionFactory factory, Boolean insist, IFrameHandler frameHandler, String clientProvidedName)
+   w RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   --- Koniec śladu stosu wyjątków wewnętrznych ---
+   w RabbitMQ.Client.ConnectionFactory.CreateConnection(IEndpointResolver endpointResolver, String clientProvidedName)
+   w RabbitMQ.Client.ConnectionFactory.CreateConnection(IList`1 hostnames, String clientProvidedName)
+   w MassTransit.RabbitMqTransport.Integration.RabbitMqConnectionCache.SendUsingNewConnection(IPipe`1 connectionPipe, ConnectionScope scope, CancellationToken cancellationToken)
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.RabbitMqTransport.Integration.RabbitMqConnectionCache.ConnectionScope.<Attach>d__7.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.RabbitMqTransport.Integration.RabbitMqConnectionCache.<SendUsingExistingConnection>d__11.MoveNext()
+   --- Koniec śladu stosu wyjątków wewnętrznych ---
+   w MassTransit.RabbitMqTransport.Integration.RabbitMqConnectionCache.<SendUsingExistingConnection>d__11.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.RabbitMqTransport.Transport.RabbitMqReceiveTransport.<>c__DisplayClass16_0.<<Receiver>b__0>d.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w MassTransit.RabbitMqTransport.Transport.RabbitMqReceiveTransport.<>c__DisplayClass16_0.<<Receiver>b__0>d.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.Policies.PipeRetryExtensions.<Retry>d__1.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.Transports.ReceiveEndpointCollection.<StartEndpoint>d__15.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.RabbitMqTransport.Transport.RabbitMqHost.<Start>d__13.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.MassTransitBus.<StartAsync>d__25.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   w MassTransit.MassTransitBus.<StartAsync>d__25.MoveNext()
+--- Koniec śladu stosu z poprzedniej lokalizacji, w której wystąpił wyjątek ---
+   w System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   w System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   w MassTransit.Util.TaskUtil.Await[T](Func`1 taskFactory, CancellationToken cancellationToken)
+   w MassTransit.BusControlExtensions.Start(IBusControl busControl)
+   w Scheduler.BusSender..ctor() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\BusSender.cs:wiersz 28
+   w Scheduler.Tasks.<Process>d__0.MoveNext() w D:\backup ZTP\Sheduler proffesional\Scheduler\Scheduler\Tasks.cs:wiersz 20
+2017-12-16 15:53:58.106 +01:00 [Information] Start service...
+2017-12-16 15:53:58.756 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:53:58.758 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:53:58.759 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:53:58.760 +01:00 [Information]     Worker count: 20
+2017-12-16 15:53:58.761 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:53:58.762 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:53:58.762 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:53:58.775 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:53:59.068 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:53:59.075 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:53:59.094 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:53:59.131 +01:00 [Debug] Background process 'Worker #fc5b89ff' started.
+2017-12-16 15:53:59.131 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:53:59.138 +01:00 [Debug] Background process 'Worker #b26c78c9' started.
+2017-12-16 15:53:59.243 +01:00 [Debug] Background process 'Worker #5060faac' started.
+2017-12-16 15:53:59.318 +01:00 [Debug] Background process 'Worker #2653458c' started.
+2017-12-16 15:53:59.326 +01:00 [Debug] Background process 'Worker #3a9814b9' started.
+2017-12-16 15:53:59.358 +01:00 [Debug] Background process 'Worker #03daf09d' started.
+2017-12-16 15:53:59.378 +01:00 [Debug] Background process 'Worker #d4171f89' started.
+2017-12-16 15:53:59.385 +01:00 [Debug] Background process 'Worker #3dd3d5c4' started.
+2017-12-16 15:53:59.400 +01:00 [Debug] Background process 'Worker #8fb21842' started.
+2017-12-16 15:53:59.398 +01:00 [Debug] Background process 'Worker #6ccb32da' started.
+2017-12-16 15:53:59.400 +01:00 [Debug] Background process 'Worker #f3f368ee' started.
+2017-12-16 15:53:59.425 +01:00 [Debug] Background process 'Worker #440797ed' started.
+2017-12-16 15:54:22.625 +01:00 [Information] Start service...
+2017-12-16 15:54:23.113 +01:00 [Information] Starting Hangfire Server
+2017-12-16 15:54:23.115 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 15:54:23.116 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 15:54:23.117 +01:00 [Information]     Worker count: 20
+2017-12-16 15:54:23.118 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 15:54:23.119 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 15:54:23.119 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 15:54:23.144 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 15:54:23.264 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 15:54:23.279 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 15:54:23.280 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 15:54:23.328 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 15:54:23.332 +01:00 [Debug] Background process 'Worker #706913cf' started.
+2017-12-16 15:54:23.342 +01:00 [Debug] Background process 'Worker #5ebd79de' started.
+2017-12-16 15:54:23.358 +01:00 [Debug] Background process 'Worker #f9fae4b7' started.
+2017-12-16 15:54:23.380 +01:00 [Debug] Background process 'Worker #43bded67' started.
+2017-12-16 15:54:23.414 +01:00 [Debug] Background process 'Worker #f11fc313' started.
+2017-12-16 15:54:23.437 +01:00 [Debug] Background process 'Worker #6f5421e9' started.
+2017-12-16 15:54:23.498 +01:00 [Debug] Background process 'Worker #2dc493ae' started.
+2017-12-16 15:54:23.517 +01:00 [Debug] Background process 'Worker #f2ef5991' started.
+2017-12-16 15:54:23.524 +01:00 [Debug] Background process 'Worker #0cad7273' started.
+2017-12-16 15:54:23.525 +01:00 [Debug] Background process 'Worker #47af9d99' started.
+2017-12-16 15:54:23.532 +01:00 [Debug] Background process 'Worker #a6e5b5a7' started.
+2017-12-16 15:54:23.533 +01:00 [Debug] Background process 'Worker #028cae09' started.
+2017-12-16 15:54:23.542 +01:00 [Debug] Background process 'Worker #bdb49510' started.
+2017-12-16 15:54:23.550 +01:00 [Debug] Background process 'Worker #a1082d6e' started.
+2017-12-16 15:54:23.557 +01:00 [Debug] Background process 'Worker #28610249' started.
+2017-12-16 15:54:23.575 +01:00 [Debug] Background process 'Worker #51cff1e0' started.
+2017-12-16 15:54:23.575 +01:00 [Debug] Background process 'Worker #230c0a08' started.
+2017-12-16 15:54:23.579 +01:00 [Debug] Background process 'Worker #aa22f7c1' started.
+2017-12-16 15:54:23.582 +01:00 [Debug] Background process 'Worker #ddff754d' started.
+2017-12-16 15:54:23.619 +01:00 [Debug] Background process 'Worker #dee0038e' started.
+2017-12-16 15:54:23.639 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 15:54:23.649 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 15:55:03.066 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 15:55:03.080 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 15:55:03.085 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 15:55:03.092 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:18:13.950 +01:00 [Information] Start service...
+2017-12-16 17:18:14.453 +01:00 [Information] Starting Hangfire Server
+2017-12-16 17:18:14.455 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 17:18:14.456 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 17:18:14.457 +01:00 [Information]     Worker count: 20
+2017-12-16 17:18:14.458 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 17:18:14.459 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 17:18:14.460 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 17:18:14.491 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 17:18:14.714 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 17:18:14.867 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 17:18:14.875 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 17:18:14.979 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 17:18:15.019 +01:00 [Debug] Background process 'Worker #e5390b1a' started.
+2017-12-16 17:18:15.138 +01:00 [Debug] Background process 'Worker #e06e70eb' started.
+2017-12-16 17:18:15.197 +01:00 [Debug] Background process 'Worker #d8af7a2d' started.
+2017-12-16 17:18:15.233 +01:00 [Debug] Background process 'Worker #7d8d30b8' started.
+2017-12-16 17:18:15.238 +01:00 [Debug] Background process 'Worker #c0a9f302' started.
+2017-12-16 17:18:15.447 +01:00 [Debug] Background process 'Worker #59e4a698' started.
+2017-12-16 17:18:15.554 +01:00 [Debug] Background process 'Worker #d0c55b2c' started.
+2017-12-16 17:18:15.604 +01:00 [Debug] Background process 'Worker #c6ee113f' started.
+2017-12-16 17:18:15.604 +01:00 [Debug] Background process 'Worker #76448093' started.
+2017-12-16 17:18:15.691 +01:00 [Debug] Background process 'Worker #efca840e' started.
+2017-12-16 17:18:15.752 +01:00 [Debug] Background process 'Worker #31daade8' started.
+2017-12-16 17:18:15.769 +01:00 [Debug] Background process 'Worker #065bef06' started.
+2017-12-16 17:18:15.774 +01:00 [Debug] Background process 'Worker #4f047446' started.
+2017-12-16 17:18:15.798 +01:00 [Debug] Background process 'Worker #6ae8fef7' started.
+2017-12-16 17:18:15.807 +01:00 [Debug] Background process 'Worker #cf62ab92' started.
+2017-12-16 17:18:15.828 +01:00 [Debug] Background process 'Worker #2f34f600' started.
+2017-12-16 17:18:15.833 +01:00 [Debug] Background process 'Worker #46765d52' started.
+2017-12-16 17:18:15.876 +01:00 [Debug] Background process 'Worker #73234b57' started.
+2017-12-16 17:18:15.877 +01:00 [Debug] Background process 'Worker #781e60af' started.
+2017-12-16 17:18:15.891 +01:00 [Debug] Background process 'Worker #f2e1dfc4' started.
+2017-12-16 17:18:15.894 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 17:18:15.901 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 17:19:03.419 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:19:03.437 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:19:03.443 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:19:03.447 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:20:00.251 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:20:00.275 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:20:00.281 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:20:00.289 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:21:00.318 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:21:00.345 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:21:00.356 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:21:00.366 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:22:00.332 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:22:00.350 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:22:00.360 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:22:00.368 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:23:00.394 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:23:00.412 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:23:00.426 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:23:00.439 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:24:00.410 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:24:00.569 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:24:00.644 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:24:00.651 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:25:00.650 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:25:00.688 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:25:00.696 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:25:00.705 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:27:23.473 +01:00 [Information] Start service...
+2017-12-16 17:27:23.862 +01:00 [Information] Starting Hangfire Server
+2017-12-16 17:27:23.864 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 17:27:23.867 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 17:27:23.868 +01:00 [Information]     Worker count: 20
+2017-12-16 17:27:23.869 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 17:27:23.870 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 17:27:23.871 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 17:27:23.912 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 17:27:24.102 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 17:27:24.188 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 17:27:24.317 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 17:27:24.428 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 17:27:24.428 +01:00 [Debug] Background process 'Worker #9d651876' started.
+2017-12-16 17:27:24.503 +01:00 [Debug] Background process 'Worker #9d76a4f7' started.
+2017-12-16 17:27:24.513 +01:00 [Debug] Background process 'Worker #7ef6fc54' started.
+2017-12-16 17:27:24.529 +01:00 [Debug] Background process 'Worker #af65e1b5' started.
+2017-12-16 17:27:24.545 +01:00 [Debug] Background process 'Worker #5d1ce940' started.
+2017-12-16 17:27:24.575 +01:00 [Debug] Background process 'Worker #d2ba9d00' started.
+2017-12-16 17:27:24.619 +01:00 [Debug] Background process 'Worker #ffa47577' started.
+2017-12-16 17:27:24.619 +01:00 [Debug] Background process 'Worker #1a7699be' started.
+2017-12-16 17:27:24.711 +01:00 [Debug] Background process 'Worker #24ec3cf3' started.
+2017-12-16 17:27:24.787 +01:00 [Debug] Background process 'Worker #17595978' started.
+2017-12-16 17:27:24.850 +01:00 [Debug] Background process 'Worker #b065d666' started.
+2017-12-16 17:27:24.944 +01:00 [Debug] Background process 'Worker #90778106' started.
+2017-12-16 17:27:24.957 +01:00 [Debug] Background process 'Worker #be5d8e39' started.
+2017-12-16 17:27:25.076 +01:00 [Debug] Background process 'Worker #a6cc84d2' started.
+2017-12-16 17:27:25.122 +01:00 [Debug] Background process 'Worker #c79b656c' started.
+2017-12-16 17:27:25.095 +01:00 [Debug] Background process 'Worker #0484cc59' started.
+2017-12-16 17:27:25.137 +01:00 [Debug] Background process 'Worker #d80e813e' started.
+2017-12-16 17:27:25.184 +01:00 [Debug] Background process 'Worker #d466de78' started.
+2017-12-16 17:27:25.219 +01:00 [Debug] Background process 'Worker #08122f84' started.
+2017-12-16 17:27:25.265 +01:00 [Debug] Background process 'Worker #4a7c2b9c' started.
+2017-12-16 17:27:25.222 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 17:27:25.287 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 17:28:03.334 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:28:03.351 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:28:03.355 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:28:03.365 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:29:00.996 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:29:01.037 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:29:01.046 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:29:01.084 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:30:00.800 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:30:00.825 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:30:00.833 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:30:00.842 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:30:52.861 +01:00 [Information] Start service...
+2017-12-16 17:30:53.463 +01:00 [Information] Starting Hangfire Server
+2017-12-16 17:30:53.474 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 17:30:53.475 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 17:30:53.479 +01:00 [Information]     Worker count: 20
+2017-12-16 17:30:53.480 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 17:30:53.482 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 17:30:53.483 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 17:30:53.532 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 17:30:53.797 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 17:30:53.846 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 17:30:53.855 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 17:30:53.869 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 17:30:53.878 +01:00 [Debug] Background process 'Worker #92bd8a00' started.
+2017-12-16 17:30:53.894 +01:00 [Debug] Background process 'Worker #8dff3963' started.
+2017-12-16 17:30:53.921 +01:00 [Debug] Background process 'Worker #9b420c6c' started.
+2017-12-16 17:30:53.937 +01:00 [Debug] Background process 'Worker #1673ce09' started.
+2017-12-16 17:30:53.938 +01:00 [Debug] Background process 'Worker #32b26b64' started.
+2017-12-16 17:30:53.945 +01:00 [Debug] Background process 'Worker #485d10cc' started.
+2017-12-16 17:30:53.952 +01:00 [Debug] Background process 'Worker #7e224a53' started.
+2017-12-16 17:30:53.957 +01:00 [Debug] Background process 'Worker #585f7380' started.
+2017-12-16 17:30:53.981 +01:00 [Debug] Background process 'Worker #270de8a0' started.
+2017-12-16 17:30:53.991 +01:00 [Debug] Background process 'Worker #bae88de8' started.
+2017-12-16 17:30:53.992 +01:00 [Debug] Background process 'Worker #dc25a09f' started.
+2017-12-16 17:30:53.995 +01:00 [Debug] Background process 'Worker #2e00b881' started.
+2017-12-16 17:30:53.999 +01:00 [Debug] Background process 'Worker #d6f1e817' started.
+2017-12-16 17:30:54.006 +01:00 [Debug] Background process 'Worker #9f15c7e0' started.
+2017-12-16 17:30:54.007 +01:00 [Debug] Background process 'Worker #728c9707' started.
+2017-12-16 17:30:54.015 +01:00 [Debug] Background process 'Worker #d9e3e0da' started.
+2017-12-16 17:30:54.016 +01:00 [Debug] Background process 'Worker #9a7bff11' started.
+2017-12-16 17:30:54.023 +01:00 [Debug] Background process 'Worker #8bdcdf86' started.
+2017-12-16 17:30:54.024 +01:00 [Debug] Background process 'Worker #d21f00f9' started.
+2017-12-16 17:30:54.030 +01:00 [Debug] Background process 'Worker #a76ddf32' started.
+2017-12-16 17:30:54.034 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 17:30:54.037 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 17:31:01.756 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:31:01.771 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:31:01.774 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:31:01.777 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:32:00.415 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:32:00.424 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:32:00.429 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:32:00.433 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:35:15.314 +01:00 [Information] Start service...
+2017-12-16 17:35:15.873 +01:00 [Information] Starting Hangfire Server
+2017-12-16 17:35:15.876 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 17:35:15.877 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 17:35:15.878 +01:00 [Information]     Worker count: 20
+2017-12-16 17:35:15.881 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 17:35:15.882 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 17:35:15.883 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 17:35:15.924 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 17:35:16.050 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 17:35:16.084 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 17:35:16.118 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 17:35:16.228 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 17:35:16.263 +01:00 [Debug] Background process 'Worker #f037dd18' started.
+2017-12-16 17:35:16.349 +01:00 [Debug] Background process 'Worker #e1a20968' started.
+2017-12-16 17:35:16.350 +01:00 [Debug] Background process 'Worker #1c9bfc0d' started.
+2017-12-16 17:35:16.358 +01:00 [Debug] Background process 'Worker #1de4f637' started.
+2017-12-16 17:35:16.369 +01:00 [Debug] Background process 'Worker #d83f971f' started.
+2017-12-16 17:35:16.380 +01:00 [Debug] Background process 'Worker #53328ee9' started.
+2017-12-16 17:35:16.389 +01:00 [Debug] Background process 'Worker #0bc6cf0b' started.
+2017-12-16 17:35:16.429 +01:00 [Debug] Background process 'Worker #5c592aab' started.
+2017-12-16 17:35:16.451 +01:00 [Debug] Background process 'Worker #9d53375b' started.
+2017-12-16 17:35:16.529 +01:00 [Debug] Background process 'Worker #702d5958' started.
+2017-12-16 17:35:16.541 +01:00 [Debug] Background process 'Worker #7e78f20d' started.
+2017-12-16 17:35:16.555 +01:00 [Debug] Background process 'Worker #c676d632' started.
+2017-12-16 17:35:16.562 +01:00 [Debug] Background process 'Worker #155e75bf' started.
+2017-12-16 17:35:16.580 +01:00 [Debug] Background process 'Worker #7560b2a9' started.
+2017-12-16 17:35:16.565 +01:00 [Debug] Background process 'Worker #4cbe0a1d' started.
+2017-12-16 17:35:16.599 +01:00 [Debug] Background process 'Worker #65f6acb4' started.
+2017-12-16 17:35:16.645 +01:00 [Debug] Background process 'Worker #fcda72bf' started.
+2017-12-16 17:35:16.645 +01:00 [Debug] Background process 'Worker #b89df708' started.
+2017-12-16 17:35:16.684 +01:00 [Debug] Background process 'Worker #145ff052' started.
+2017-12-16 17:35:16.702 +01:00 [Debug] Background process 'Worker #df953dc2' started.
+2017-12-16 17:35:16.705 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 17:35:16.717 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 17:36:03.647 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:36:03.670 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:36:03.677 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:36:03.681 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:51:12.553 +01:00 [Information] Start service...
+2017-12-16 17:51:13.481 +01:00 [Information] Starting Hangfire Server
+2017-12-16 17:51:13.482 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 17:51:13.484 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 17:51:13.485 +01:00 [Information]     Worker count: 20
+2017-12-16 17:51:13.486 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 17:51:13.486 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 17:51:13.487 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 17:51:13.498 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 17:51:13.549 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 17:51:13.549 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 17:51:13.569 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 17:51:13.590 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 17:51:13.614 +01:00 [Debug] Background process 'Worker #d8985ce0' started.
+2017-12-16 17:51:13.626 +01:00 [Debug] Background process 'Worker #126ccc78' started.
+2017-12-16 17:51:13.643 +01:00 [Debug] Background process 'Worker #ebf2a089' started.
+2017-12-16 17:51:13.690 +01:00 [Debug] Background process 'Worker #3060dd80' started.
+2017-12-16 17:51:13.693 +01:00 [Debug] Background process 'Worker #d7c4ce18' started.
+2017-12-16 17:51:13.705 +01:00 [Debug] Background process 'Worker #697af4be' started.
+2017-12-16 17:51:13.709 +01:00 [Debug] Background process 'Worker #cca05c26' started.
+2017-12-16 17:51:13.746 +01:00 [Debug] Background process 'Worker #a4048cbc' started.
+2017-12-16 17:51:13.748 +01:00 [Debug] Background process 'Worker #34941936' started.
+2017-12-16 17:51:13.781 +01:00 [Debug] Background process 'Worker #cb3bc25d' started.
+2017-12-16 17:51:13.785 +01:00 [Debug] Background process 'Worker #b6a01bb0' started.
+2017-12-16 17:51:13.793 +01:00 [Debug] Background process 'Worker #1765b997' started.
+2017-12-16 17:51:13.795 +01:00 [Debug] Background process 'Worker #7f574564' started.
+2017-12-16 17:51:13.798 +01:00 [Debug] Background process 'Worker #1f79af6d' started.
+2017-12-16 17:51:13.801 +01:00 [Debug] Background process 'Worker #32a4ae2e' started.
+2017-12-16 17:51:13.807 +01:00 [Debug] Background process 'Worker #32479978' started.
+2017-12-16 17:51:13.808 +01:00 [Debug] Background process 'Worker #3d5965db' started.
+2017-12-16 17:51:13.811 +01:00 [Debug] Background process 'Worker #821ba296' started.
+2017-12-16 17:51:13.813 +01:00 [Debug] Background process 'Worker #d1f214f7' started.
+2017-12-16 17:51:13.817 +01:00 [Debug] Background process 'Worker #4168886c' started.
+2017-12-16 17:51:13.818 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 17:51:13.821 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 17:52:03.337 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:52:03.357 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:52:03.367 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:52:03.367 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:53:00.352 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:53:00.362 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:53:00.392 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:53:00.402 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:54:00.374 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:54:00.394 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:54:00.394 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:54:00.404 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:55:00.602 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:55:00.612 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:55:00.622 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:55:00.632 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:56:00.724 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:56:00.744 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:56:00.754 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:56:00.764 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:57:01.071 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:57:01.077 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:57:01.106 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:57:01.143 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:58:01.149 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:58:01.169 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:58:01.169 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:58:01.179 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 17:59:00.269 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 17:59:00.279 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 17:59:00.309 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 17:59:00.319 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 18:00:00.359 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 18:00:00.379 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 18:00:00.379 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 18:00:00.389 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 18:02:40.693 +01:00 [Information] Start service...
+2017-12-16 18:02:41.456 +01:00 [Information] Starting Hangfire Server
+2017-12-16 18:02:41.458 +01:00 [Information] Using job storage: 'Hangfire.MemoryStorage.MemoryStorage'
+2017-12-16 18:02:41.460 +01:00 [Information] Using the following options for Hangfire Server:
+2017-12-16 18:02:41.461 +01:00 [Information]     Worker count: 20
+2017-12-16 18:02:41.462 +01:00 [Information]     Listening queues: 'default'
+2017-12-16 18:02:41.463 +01:00 [Information]     Shutdown timeout: 00:00:15
+2017-12-16 18:02:41.464 +01:00 [Information]     Schedule polling interval: 00:00:15
+2017-12-16 18:02:41.487 +01:00 [Debug] Background process 'BackgroundProcessingServer' started.
+2017-12-16 18:02:41.613 +01:00 [Debug] Background process 'ServerHeartbeat' started.
+2017-12-16 18:02:41.627 +01:00 [Debug] Background process 'ServerWatchdog' started.
+2017-12-16 18:02:41.640 +01:00 [Debug] Background process 'Composite C1 Records Expiration Manager' started.
+2017-12-16 18:02:41.640 +01:00 [Debug] Background process 'Counter Table Aggregator' started.
+2017-12-16 18:02:41.683 +01:00 [Debug] Background process 'Worker #38c6088c' started.
+2017-12-16 18:02:41.721 +01:00 [Debug] Background process 'Worker #5d7ac4d1' started.
+2017-12-16 18:02:41.755 +01:00 [Debug] Background process 'Worker #afac7c08' started.
+2017-12-16 18:02:41.765 +01:00 [Debug] Background process 'Worker #5eb4a5a4' started.
+2017-12-16 18:02:41.797 +01:00 [Debug] Background process 'Worker #bd681a1a' started.
+2017-12-16 18:02:41.797 +01:00 [Debug] Background process 'Worker #3647d530' started.
+2017-12-16 18:02:41.820 +01:00 [Debug] Background process 'Worker #cf7b3850' started.
+2017-12-16 18:02:41.862 +01:00 [Debug] Background process 'Worker #962005d6' started.
+2017-12-16 18:02:41.903 +01:00 [Debug] Background process 'Worker #068c63b1' started.
+2017-12-16 18:02:41.905 +01:00 [Debug] Background process 'Worker #738f1efe' started.
+2017-12-16 18:02:41.911 +01:00 [Debug] Background process 'Worker #3dfb51a8' started.
+2017-12-16 18:02:41.918 +01:00 [Debug] Background process 'Worker #c8e165f2' started.
+2017-12-16 18:02:41.932 +01:00 [Debug] Background process 'Worker #ec464037' started.
+2017-12-16 18:02:41.932 +01:00 [Debug] Background process 'Worker #58cea5e8' started.
+2017-12-16 18:02:41.952 +01:00 [Debug] Background process 'Worker #bc0621f1' started.
+2017-12-16 18:02:41.952 +01:00 [Debug] Background process 'Worker #7ed03e6f' started.
+2017-12-16 18:02:41.992 +01:00 [Debug] Background process 'Worker #b56c1c47' started.
+2017-12-16 18:02:41.992 +01:00 [Debug] Background process 'Worker #4f0cfb59' started.
+2017-12-16 18:02:42.021 +01:00 [Debug] Background process 'Worker #8c05e255' started.
+2017-12-16 18:02:42.030 +01:00 [Debug] Background process 'Worker #d9e33097' started.
+2017-12-16 18:02:42.034 +01:00 [Debug] Background process 'DelayedJobScheduler' started.
+2017-12-16 18:02:42.034 +01:00 [Debug] Background process 'RecurringJobScheduler' started.
+2017-12-16 18:03:02.463 +01:00 [Information] "rutkowski.adr@gmail.com" ,"AFG", "Adrian Rutkowski", "93"
+2017-12-16 18:03:02.473 +01:00 [Information] "edwi-92@o2.pl" ,"ALB", "Marek Nowak", "355"
+2017-12-16 18:03:02.483 +01:00 [Information] "edwi_91@o2.pl" ,"DZA", "Zbyszek Norwid", "213"
+2017-12-16 18:03:02.483 +01:00 [Information] "a.rutkowski@imkius.pl" ,"AND", "Marcin W�jcik", "376"
+2017-12-16 18:18:43.679 +01:00 [Information] Start service...
